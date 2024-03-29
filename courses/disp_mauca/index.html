@@ -1,0 +1,1195 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: March 29, 2024 --><html lang="en-us" >
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="André Ferrari" />
+
+
+
+
+
+  
+
+<meta name="description" content="Learn how to analyze signals and images using numerical tools." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/courses/disp_mauca/" />
+<link rel="canonical" href="http://localhost:1313/courses/disp_mauca/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="André Ferrari" />
+<meta property="og:url" content="http://localhost:1313/courses/disp_mauca/" />
+<meta property="og:title" content="Digital Image and Signal Processing | André Ferrari" />
+<meta property="og:description" content="Learn how to analyze signals and images using numerical tools." /><meta property="og:image" content="http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00" />
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/courses/disp_mauca/index.xml" type="application/rss+xml" title="André Ferrari" />
+  
+
+  
+
+
+  
+  <title>Digital Image and Signal Processing | André Ferrari</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="345da67354acb3295fa95ed8f9c32294" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">André Ferrari</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">André Ferrari</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#courses"><span>Courses</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Digital Image and Signal Processing</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+    <div class="article-style"><p>This course is taught to <a href="http://mauca.unice.fr" target="_blank" rel="noopener">MAUCA1</a> students.</p>
+<h2 id="description">Description</h2>
+<p>The objective of this course is to present the fundamental mathematics and concepts of discrete-time signal and image processing.
+These topics are presented in the context of signal processing and extended to image processing.
+A large part of the course will be devoted to computer implementation of signal and image processing systems.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example image" srcset="
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp 400w,
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_db17ca2d66bd011ecd8ff61cabeaea9b.webp 760w,
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp"
+               width="600"
+               height="400"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="content">Content</h2>
+<ol>
+<li>Discrete-time signals and systems
+<ul>
+<li>Properties of systems</li>
+<li>Linear and time invariant (LTI) systems. convolution</li>
+<li>Linear constant-coefficients difference equations</li>
+<li>Frequency response of a stable LTI</li>
+</ul>
+</li>
+<li>The z-transform and filter design
+<ul>
+<li>z-transform properties. properties of the roc</li>
+<li>z-transforms and LTI systems</li>
+<li>Design of discrete-time iir filters and design of fir filters</li>
+</ul>
+</li>
+<li>The discrete fourier transform
+<ul>
+<li>Representation of periodic sequences: the discrete fourier series</li>
+<li>Fourier representation of finite-duration sequences</li>
+<li>Properties of the dft, linear convolution using the dft</li>
+<li>Computation of the discrete fourier transform and fft algorithms</li>
+</ul>
+</li>
+<li>Image processing
+<ul>
+<li>Convolutions in space domain and fourier domain</li>
+<li>Matrix representation of convolution and properties</li>
+<li>Elementary image transforms, edge detection</li>
+<li>Image filtering</li>
+</ul>
+</li>
+<li>Introduction to wavelets
+<ul>
+<li>Time frequency analysis</li>
+<li>Continuous and discrete wavelets transform</li>
+<li>Multi-resolution analysis</li>
+</ul>
+</li>
+</ol>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example image" srcset="
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp 400w,
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_89efe355a15d3b2762599d66669c71b7.webp 760w,
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp"
+               width="512"
+               height="512"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="practical-work">Practical work</h2>
+<p>A large part of the course is devoted to 4 practical projects, where the students will code various algorithms and compare theoretical results with simulation results.</p>
+<ol>
+<li>Signal filtering</li>
+<li>Fourier analysis and circular convolution</li>
+<li>Image processing</li>
+<li>Wavelets analysis</li>
+</ol>
+<p>Students will have to complete these projects during the course and are welcomed to work in pairs and to submit a single document. The computations will be preferentially carried out in julia or python.</p>
+<h2 id="course-textbooks">Course textbooks</h2>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example image" srcset="
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp 400w,
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_b985555f0eb42f2d883d2fe0efe36b1b.webp 760w,
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp"
+               width="397"
+               height="499"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example image" srcset="
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp 400w,
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_2ab37d73d7857342742db765dd6265d2.webp 760w,
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp"
+               width="402"
+               height="500"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Example image" srcset="
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp 400w,
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_abe21aafd61cd75267551c2496817e57.webp 760w,
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp"
+               width="333"
+               height="499"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>The course will cover parts of:</p>
+<blockquote>
+<p>[1] Discrete-Time Signal Processing (3rd Edition)
+Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck.
+Prentice-Hall Signal Processing Series</p>
+</blockquote>
+<blockquote>
+<p>[2] Digital Image Processing, 4th Edition
+Rafael C. Gonzalez, Richard E. Woods,
+Pearson</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>[3] A Wavelet Tour of Signal Processing: The Sparse Way
+Stéphane Mallat, Academic Press Inc.</p>
+</blockquote>
+<ul>
+<li>Chapters 1., 2. and 3. of the course:  Chapters 1-6 and 8-9 of [1]</li>
+<li>Chapter 4. of the course: Chapters 3-4 of [2]</li>
+<li>Chapter 5. of the course:  parts of [3]</li>
+</ul>
+</div>
+  
+
+
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js" integrity="sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys=" crossorigin="anonymous"></script>
+<script>
+  anchors.add();
+</script>
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
