@@ -2,1047 +2,1039 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/courses/dsp_eea/</loc>
+    <loc>https://example.com/courses/dsp_eea/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/courses/ip_estel/</loc>
+    <loc>https://example.com/courses/ip_estel/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/courses/disp_mauca/</loc>
+    <loc>https://example.com/courses/disp_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/courses/optim_mauca/</loc>
+    <loc>https://example.com/courses/optim_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/courses/ba_mauca/</loc>
+    <loc>https://example.com/courses/ba_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/talk/example-talk/</loc>
+    <loc>https://example.com/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-24-b/</loc>
+    <loc>https://example.com/publication/spie-24-b/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-24-a/</loc>
+    <loc>https://example.com/publication/spie-24-a/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
+    <loc>https://example.com/publication-type/paper-conference/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/phdorigins/</loc>
+    <loc>https://example.com/post/phdorigins/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/aa-24-a/</loc>
+    <loc>https://example.com/publication/aa-24-a/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <loc>https://example.com/publication-type/article-journal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-24-a/</loc>
+    <loc>https://example.com/publication/eusipco-24-a/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/aa-24-b/</loc>
+    <loc>https://example.com/publication/aa-24-b/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-24-b/</loc>
+    <loc>https://example.com/publication/eusipco-24-b/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-23/</loc>
+    <loc>https://example.com/publication/asilomar-23/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/prunedfft/</loc>
+    <loc>https://example.com/post/prunedfft/</loc>
     <lastmod>2023-09-21T16:55:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-23/</loc>
+    <loc>https://example.com/publication/gretsi-23/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/pr-22/</loc>
+    <loc>https://example.com/publication/pr-22/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ieeeitst-23/</loc>
+    <loc>https://example.com/publication/ieeeitst-23/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ieeespl-23/</loc>
+    <loc>https://example.com/publication/ieeespl-23/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ieeetnn-22/</loc>
+    <loc>https://example.com/publication/ieeetnn-22/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/phdtosca/</loc>
+    <loc>https://example.com/post/phdtosca/</loc>
     <lastmod>2022-11-16T17:52:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-22/</loc>
+    <loc>https://example.com/publication/asilomar-22/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hpc/</loc>
+    <loc>https://example.com/tag/hpc/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/image-processing/</loc>
+    <loc>https://example.com/tag/image-processing/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/inverse-problems/</loc>
+    <loc>https://example.com/tag/inverse-problems/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/machine-learning/</loc>
+    <loc>https://example.com/tag/machine-learning/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/radioastronomy/</loc>
+    <loc>https://example.com/tag/radioastronomy/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/ska/</loc>
+    <loc>https://example.com/tag/ska/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/tosca/</loc>
+    <loc>https://example.com/project/tosca/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-22/</loc>
+    <loc>https://example.com/publication/eusipco-22/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/julia/</loc>
+    <loc>https://example.com/tag/julia/</loc>
     <lastmod>2022-01-19T10:32:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/waterfall/</loc>
+    <loc>https://example.com/post/waterfall/</loc>
     <lastmod>2022-01-19T10:32:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-22/</loc>
+    <loc>https://example.com/publication/icassp-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ieeeitst-22/</loc>
+    <loc>https://example.com/publication/ieeeitst-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/idcnrs-22/</loc>
+    <loc>https://example.com/publication/idcnrs-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ieeespl-22/</loc>
+    <loc>https://example.com/publication/ieeespl-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/dft/</loc>
+    <loc>https://example.com/post/dft/</loc>
     <lastmod>2021-11-05T20:49:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/teach/</loc>
+    <loc>https://example.com/tag/teach/</loc>
     <lastmod>2021-11-05T20:49:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-21/</loc>
+    <loc>https://example.com/publication/asilomar-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/slsip21/</loc>
+    <loc>https://example.com/post/slsip21/</loc>
     <lastmod>2021-10-07T16:58:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/dark-era/</loc>
+    <loc>https://example.com/project/dark-era/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/asilomar2021/</loc>
+    <loc>https://example.com/post/asilomar2021/</loc>
     <lastmod>2021-09-09T11:04:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/noise2self/</loc>
+    <loc>https://example.com/post/noise2self/</loc>
     <lastmod>2021-09-09T10:44:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/isc-21/</loc>
+    <loc>https://example.com/publication/isc-21/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/mss_2021_youtube/</loc>
+    <loc>https://example.com/post/mss_2021_youtube/</loc>
     <lastmod>2021-03-05T15:16:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/cvx_speed/</loc>
+    <loc>https://example.com/post/cvx_speed/</loc>
     <lastmod>2021-03-01T10:56:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-20/</loc>
+    <loc>https://example.com/publication/eusipco-20/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/phd20/</loc>
+    <loc>https://example.com/post/phd20/</loc>
     <lastmod>2020-05-07T12:35:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-20/</loc>
+    <loc>https://example.com/publication/icassp-20/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/sigmoid/</loc>
+    <loc>https://example.com/post/sigmoid/</loc>
     <lastmod>2020-04-22T14:34:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/master_graph1/</loc>
+    <loc>https://example.com/post/master_graph1/</loc>
     <lastmod>2020-01-16T16:43:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/camsap-19/</loc>
+    <loc>https://example.com/publication/camsap-19/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-19/</loc>
+    <loc>https://example.com/publication/eusipco-19/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-19/</loc>
+    <loc>https://example.com/publication/gretsi-19/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-mnras-19/</loc>
+    <loc>https://example.com/publication/art-mnras-19/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/slides/</loc>
+    <loc>https://example.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/slides/example/</loc>
+    <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-18/</loc>
+    <loc>https://example.com/publication/art-sp-18/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sips-18/</loc>
+    <loc>https://example.com/publication/sips-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>https://example.com/courses/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-18/</loc>
+    <loc>https://example.com/publication/eusipco-18/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-spic-18/</loc>
+    <loc>https://example.com/publication/art-spic-18/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/ssp-18/</loc>
+    <loc>https://example.com/publication/ssp-18/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-18/</loc>
+    <loc>https://example.com/publication/icassp-18/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-18-a/</loc>
+    <loc>https://example.com/publication/icassp-18-a/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/chapter/</loc>
+    <loc>https://example.com/publication-type/chapter/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/whiteska/</loc>
+    <loc>https://example.com/publication/whiteska/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-2017/</loc>
+    <loc>https://example.com/publication/art-tsp-2017/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-17/</loc>
+    <loc>https://example.com/publication/gretsi-17/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/mourya-2017/</loc>
+    <loc>https://example.com/publication/mourya-2017/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/basp-17/</loc>
+    <loc>https://example.com/publication/basp-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/wccm-17/</loc>
+    <loc>https://example.com/publication/wccm-17/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/manuscript/</loc>
+    <loc>https://example.com/publication-type/manuscript/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/patent-17/</loc>
+    <loc>https://example.com/publication/patent-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-17/</loc>
+    <loc>https://example.com/publication/eusipco-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tip-17/</loc>
+    <loc>https://example.com/publication/art-tip-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-16-2/</loc>
+    <loc>https://example.com/publication/art-tsp-16-2/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-16/</loc>
+    <loc>https://example.com/publication/asilomar-16/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-16-2/</loc>
+    <loc>https://example.com/publication/eusipco-16-2/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ope-16/</loc>
+    <loc>https://example.com/publication/ope-16/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-osa-16/</loc>
+    <loc>https://example.com/publication/art-osa-16/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-16-b/</loc>
+    <loc>https://example.com/publication/spie-16-b/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-16-c/</loc>
+    <loc>https://example.com/publication/spie-16-c/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-16-a/</loc>
+    <loc>https://example.com/publication/spie-16-a/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-16-d/</loc>
+    <loc>https://example.com/publication/spie-16-d/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-16/</loc>
+    <loc>https://example.com/publication/art-tsp-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssp-16/</loc>
+    <loc>https://example.com/publication/ssp-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spaceops-16/</loc>
+    <loc>https://example.com/publication/spaceops-16/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-16/</loc>
+    <loc>https://example.com/publication/icassp-16/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-16-2/</loc>
+    <loc>https://example.com/publication/icassp-16-2/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/magellan/</loc>
+    <loc>https://example.com/project/magellan/</loc>
     <lastmod>2016-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sf-2-a-16/</loc>
+    <loc>https://example.com/publication/sf-2-a-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-15/</loc>
+    <loc>https://example.com/publication/gretsi-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-15/</loc>
+    <loc>https://example.com/publication/eusipco-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-15-2/</loc>
+    <loc>https://example.com/publication/gretsi-15-2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sparks-15/</loc>
+    <loc>https://example.com/publication/sparks-15/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hyperspectral-imaging/</loc>
+    <loc>https://example.com/tag/hyperspectral-imaging/</loc>
     <lastmod>2015-06-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/mahi/</loc>
+    <loc>https://example.com/project/mahi/</loc>
     <lastmod>2015-06-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/whispers-15/</loc>
+    <loc>https://example.com/publication/whispers-15/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-15-a/</loc>
+    <loc>https://example.com/publication/icassp-15-a/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-15-b/</loc>
+    <loc>https://example.com/publication/icassp-15-b/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/display/</loc>
+    <loc>https://example.com/project/display/</loc>
     <lastmod>2015-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tip-14/</loc>
+    <loc>https://example.com/publication/art-tip-14/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-josa-14/</loc>
+    <loc>https://example.com/publication/art-josa-14/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-14/</loc>
+    <loc>https://example.com/publication/art-tsp-14/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-14/</loc>
+    <loc>https://example.com/publication/asilomar-14/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icip-14/</loc>
+    <loc>https://example.com/publication/icip-14/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-ba-14/</loc>
+    <loc>https://example.com/publication/art-ba-14/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/isit-14/</loc>
+    <loc>https://example.com/publication/isit-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sam-14/</loc>
+    <loc>https://example.com/publication/sam-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/whispers-14/</loc>
+    <loc>https://example.com/publication/whispers-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sfpt-14/</loc>
+    <loc>https://example.com/publication/sfpt-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-aa-14/</loc>
+    <loc>https://example.com/publication/art-aa-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-14/</loc>
+    <loc>https://example.com/publication/icassp-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/interferometry/</loc>
+    <loc>https://example.com/tag/interferometry/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/optics/</loc>
+    <loc>https://example.com/tag/optics/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/polca/</loc>
+    <loc>https://example.com/project/polca/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-13-c/</loc>
+    <loc>https://example.com/publication/gretsi-13-c/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-13-a/</loc>
+    <loc>https://example.com/publication/gretsi-13-a/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-13-b/</loc>
+    <loc>https://example.com/publication/gretsi-13-b/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-13-c/</loc>
+    <loc>https://example.com/publication/icassp-13-c/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-13-b/</loc>
+    <loc>https://example.com/publication/icassp-13-b/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-13-a/</loc>
+    <loc>https://example.com/publication/icassp-13-a/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-13-d/</loc>
+    <loc>https://example.com/publication/icassp-13-d/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-13/</loc>
+    <loc>https://example.com/publication/art-tsp-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eas-13/</loc>
+    <loc>https://example.com/publication/eas-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/asilomar-12/</loc>
+    <loc>https://example.com/publication/asilomar-12/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-ts-12/</loc>
+    <loc>https://example.com/publication/art-ts-12/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/aac-12/</loc>
+    <loc>https://example.com/publication/aac-12/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/isba-12/</loc>
+    <loc>https://example.com/publication/isba-12/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ada-12/</loc>
+    <loc>https://example.com/publication/ada-12/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chapm-12/</loc>
+    <loc>https://example.com/publication/chapm-12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/camsap-11/</loc>
+    <loc>https://example.com/publication/camsap-11/</loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-2011-b/</loc>
+    <loc>https://example.com/publication/gretsi-2011-b/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-11/</loc>
+    <loc>https://example.com/publication/eusipco-11/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-2011-a/</loc>
+    <loc>https://example.com/publication/gretsi-2011-a/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssp-11/</loc>
+    <loc>https://example.com/publication/ssp-11/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-11/</loc>
+    <loc>https://example.com/publication/icassp-11/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-expa-11/</loc>
+    <loc>https://example.com/publication/art-expa-11/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/ssp11/</loc>
+    <loc>https://example.com/project/ssp11/</loc>
     <lastmod>2011-01-15T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/statistical-signal-processing/</loc>
+    <loc>https://example.com/tag/statistical-signal-processing/</loc>
     <lastmod>2011-01-15T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/coranography/</loc>
+    <loc>https://example.com/tag/coranography/</loc>
     <lastmod>2011-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/jithde/</loc>
+    <loc>https://example.com/project/jithde/</loc>
     <lastmod>2011-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/wiley/</loc>
+    <loc>https://example.com/publication/wiley/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-10/</loc>
+    <loc>https://example.com/publication/eusipco-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-10-b/</loc>
+    <loc>https://example.com/publication/spie-10-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-10-a/</loc>
+    <loc>https://example.com/publication/spie-10-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/igarss-10-b/</loc>
+    <loc>https://example.com/publication/igarss-10-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-ip-09/</loc>
+    <loc>https://example.com/publication/art-ip-09/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sf-2-a-10/</loc>
+    <loc>https://example.com/publication/sf-2-a-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/maxent-10/</loc>
+    <loc>https://example.com/publication/maxent-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/igarss-10-a/</loc>
+    <loc>https://example.com/publication/igarss-10-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-07/</loc>
+    <loc>https://example.com/publication/art-tsp-07/</loc>
     <lastmod>2009-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-apj-09-b/</loc>
+    <loc>https://example.com/publication/art-apj-09-b/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-apj-09-a/</loc>
+    <loc>https://example.com/publication/art-apj-09-a/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-2009/</loc>
+    <loc>https://example.com/publication/gretsi-2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-09/</loc>
+    <loc>https://example.com/publication/icassp-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsi-08/</loc>
+    <loc>https://example.com/publication/art-tsi-08/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-08-c/</loc>
+    <loc>https://example.com/publication/spie-08-c/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-08/</loc>
+    <loc>https://example.com/publication/icassp-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-08-a/</loc>
+    <loc>https://example.com/publication/spie-08-a/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-08-b/</loc>
+    <loc>https://example.com/publication/spie-08-b/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-ip-08/</loc>
+    <loc>https://example.com/publication/art-ip-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sf-2-a-07/</loc>
+    <loc>https://example.com/publication/sf-2-a-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-cras-07/</loc>
+    <loc>https://example.com/publication/art-cras-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-apj-07/</loc>
+    <loc>https://example.com/publication/art-apj-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tip-07/</loc>
+    <loc>https://example.com/publication/art-tip-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-2007/</loc>
+    <loc>https://example.com/publication/gretsi-2007/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-jmva-06/</loc>
+    <loc>https://example.com/publication/art-jmva-06/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-apj-07-b/</loc>
+    <loc>https://example.com/publication/art-apj-07-b/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-apj-07-l/</loc>
+    <loc>https://example.com/publication/art-apj-07-l/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/iauc-05-c/</loc>
+    <loc>https://example.com/publication/iauc-05-c/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ithd-06-b/</loc>
+    <loc>https://example.com/publication/ithd-06-b/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ithd-06/</loc>
+    <loc>https://example.com/publication/ithd-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/iauc-05-a/</loc>
+    <loc>https://example.com/publication/iauc-05-a/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-06/</loc>
+    <loc>https://example.com/publication/eusipco-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-06/</loc>
+    <loc>https://example.com/publication/icassp-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/iauc-05-b/</loc>
+    <loc>https://example.com/publication/iauc-05-b/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/psip-05/</loc>
+    <loc>https://example.com/publication/psip-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-05/</loc>
+    <loc>https://example.com/publication/gretsi-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/iste/</loc>
+    <loc>https://example.com/publication/iste/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssp-05/</loc>
+    <loc>https://example.com/publication/ssp-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-03/</loc>
+    <loc>https://example.com/publication/art-sp-03/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-04/</loc>
+    <loc>https://example.com/publication/icassp-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-iop-03/</loc>
+    <loc>https://example.com/publication/art-iop-03/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-04/</loc>
+    <loc>https://example.com/publication/eusipco-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ic-2-detec/</loc>
+    <loc>https://example.com/publication/ic-2-detec/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ic-2-est/</loc>
+    <loc>https://example.com/publication/ic-2-est/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/thesis/</loc>
+    <loc>https://example.com/publication-type/thesis/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/monhdr/</loc>
+    <loc>https://example.com/publication/monhdr/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/psip-03/</loc>
+    <loc>https://example.com/publication/psip-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssp-03/</loc>
+    <loc>https://example.com/publication/ssp-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-03/</loc>
+    <loc>https://example.com/publication/gretsi-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ic-2-as/</loc>
+    <loc>https://example.com/publication/ic-2-as/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ithd-02/</loc>
+    <loc>https://example.com/publication/ithd-02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-02-a/</loc>
+    <loc>https://example.com/publication/icassp-02-a/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-02-b/</loc>
+    <loc>https://example.com/publication/eusipco-02-b/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/spie-02/</loc>
+    <loc>https://example.com/publication/spie-02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-01/</loc>
+    <loc>https://example.com/publication/art-sp-01/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-02-a/</loc>
+    <loc>https://example.com/publication/eusipco-02-a/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-aa-01-b/</loc>
+    <loc>https://example.com/publication/art-aa-01-b/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/matis/</loc>
+    <loc>https://example.com/project/matis/</loc>
     <lastmod>2001-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-01-1/</loc>
+    <loc>https://example.com/publication/gretsi-01-1/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-aa-01-a/</loc>
+    <loc>https://example.com/publication/art-aa-01-a/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-01-2/</loc>
+    <loc>https://example.com/publication/gretsi-01-2/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-99/</loc>
+    <loc>https://example.com/publication/art-sp-99/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-00/</loc>
+    <loc>https://example.com/publication/icassp-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-00/</loc>
+    <loc>https://example.com/publication/eusipco-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssap-00/</loc>
+    <loc>https://example.com/publication/ssap-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-99-1/</loc>
+    <loc>https://example.com/publication/gretsi-99-1/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-99/</loc>
+    <loc>https://example.com/publication/icassp-99/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-99-2/</loc>
+    <loc>https://example.com/publication/gretsi-99-2/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-aa-99/</loc>
+    <loc>https://example.com/publication/art-aa-99/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/soho-98-2/</loc>
+    <loc>https://example.com/publication/soho-98-2/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ssap-98/</loc>
+    <loc>https://example.com/publication/ssap-98/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/soho-98-1/</loc>
+    <loc>https://example.com/publication/soho-98-1/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-97-2/</loc>
+    <loc>https://example.com/publication/icassp-97-2/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-97/</loc>
+    <loc>https://example.com/publication/gretsi-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-taes-97/</loc>
+    <loc>https://example.com/publication/art-taes-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hos-97/</loc>
+    <loc>https://example.com/publication/hos-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-97-1/</loc>
+    <loc>https://example.com/publication/icassp-97-1/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-96-2/</loc>
+    <loc>https://example.com/publication/eusipco-96-2/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-96/</loc>
+    <loc>https://example.com/publication/art-sp-96/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-96-1/</loc>
+    <loc>https://example.com/publication/eusipco-96-1/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-95/</loc>
+    <loc>https://example.com/publication/icassp-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-95/</loc>
+    <loc>https://example.com/publication/gretsi-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-ieef-95/</loc>
+    <loc>https://example.com/publication/art-ieef-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sampta-95/</loc>
+    <loc>https://example.com/publication/sampta-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/radar-94/</loc>
+    <loc>https://example.com/publication/radar-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/cdc-94/</loc>
+    <loc>https://example.com/publication/cdc-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tit-94/</loc>
+    <loc>https://example.com/publication/art-tit-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-93-2/</loc>
+    <loc>https://example.com/publication/gretsi-93-2/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-93-1/</loc>
+    <loc>https://example.com/publication/gretsi-93-1/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-goca-93/</loc>
+    <loc>https://example.com/publication/art-goca-93/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-93/</loc>
+    <loc>https://example.com/publication/icassp-93/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/mathese/</loc>
+    <loc>https://example.com/publication/mathese/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icdsp-91/</loc>
+    <loc>https://example.com/publication/icdsp-91/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-92/</loc>
+    <loc>https://example.com/publication/icassp-92/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-92-2/</loc>
+    <loc>https://example.com/publication/eusipco-92-2/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-tsp-92/</loc>
+    <loc>https://example.com/publication/art-tsp-92/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-92-1/</loc>
+    <loc>https://example.com/publication/eusipco-92-1/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/galpconf/</loc>
+    <loc>https://example.com/publication/galpconf/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-sp-91/</loc>
+    <loc>https://example.com/publication/art-sp-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/art-elec-91/</loc>
+    <loc>https://example.com/publication/art-elec-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-91-1/</loc>
+    <loc>https://example.com/publication/gretsi-91-1/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gretsi-91-2/</loc>
+    <loc>https://example.com/publication/gretsi-91-2/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-91/</loc>
+    <loc>https://example.com/publication/icassp-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/eusipco-90/</loc>
+    <loc>https://example.com/publication/eusipco-90/</loc>
     <lastmod>1990-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/icassp-90/</loc>
+    <loc>https://example.com/publication/icassp-90/</loc>
     <lastmod>1990-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical Signal Processing | André Ferrari</title>
-    <link>http://localhost:1313/tag/statistical-signal-processing/</link>
-      <atom:link href="http://localhost:1313/tag/statistical-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/statistical-signal-processing/</link>
+      <atom:link href="https://example.com/tag/statistical-signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistical Signal Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2011 02:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Statistical Signal Processing</title>
-      <link>http://localhost:1313/tag/statistical-signal-processing/</link>
+      <link>https://example.com/tag/statistical-signal-processing/</link>
     </image>
     
     <item>
       <title>SSP 2011</title>
-      <link>http://localhost:1313/project/ssp11/</link>
+      <link>https://example.com/project/ssp11/</link>
       <pubDate>Sat, 15 Jan 2011 02:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ssp11/</guid>
+      <guid>https://example.com/project/ssp11/</guid>
       <description></description>
     </item>
     

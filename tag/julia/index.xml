@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julia | André Ferrari</title>
-    <link>http://localhost:1313/tag/julia/</link>
-      <atom:link href="http://localhost:1313/tag/julia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/julia/</link>
+      <atom:link href="https://example.com/tag/julia/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 10:32:07 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Julia</title>
-      <link>http://localhost:1313/tag/julia/</link>
+      <link>https://example.com/tag/julia/</link>
     </image>
     
     <item>
       <title>Waterfall</title>
-      <link>http://localhost:1313/post/waterfall/</link>
+      <link>https://example.com/post/waterfall/</link>
       <pubDate>Wed, 19 Jan 2022 10:32:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/waterfall/</guid>
+      <guid>https://example.com/post/waterfall/</guid>
       <description>&lt;p&gt;Simple &lt;a href=&#34;https://github.com/JuliaPlots/Plots.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plots.jl&lt;/a&gt; receipe for waterfall plots
 (a la &lt;a href=&#34;https://gist.github.com/andferrari/3e254ffd67629078c1aaad95caf23079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unknown Pleasures&lt;/a&gt; 😀). Install using:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;pkg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;add&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;://&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;github&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;andferrari&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;WaterFall&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jl&lt;/span&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Discrete Fourier Transform 🎈</title>
-      <link>http://localhost:1313/post/dft/</link>
+      <link>https://example.com/post/dft/</link>
       <pubDate>Fri, 05 Nov 2021 20:49:30 +0100</pubDate>
-      <guid>http://localhost:1313/post/dft/</guid>
+      <guid>https://example.com/post/dft/</guid>
       <description>&lt;p&gt;Fourier transforms of a sine wave using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -52,7 +52,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;http://localhost:1313/post/dft/dft.gif&#34;
+           src=&#34;https://example.com/post/dft/dft.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
@@ -87,9 +87,9 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>Noise2self 💻</title>
-      <link>http://localhost:1313/post/noise2self/</link>
+      <link>https://example.com/post/noise2self/</link>
       <pubDate>Thu, 09 Sep 2021 10:44:28 +0200</pubDate>
-      <guid>http://localhost:1313/post/noise2self/</guid>
+      <guid>https://example.com/post/noise2self/</guid>
       <description>&lt;p&gt;A simple &lt;a href=&#34;https://arxiv.org/abs/1901.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;noise2self&lt;/a&gt; experimennt using a &lt;a href=&#34;https://arxiv.org/abs/1608.03981&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCNN&lt;/a&gt;. The julia code is &lt;a href=&#34;https://github.com/andferrari/Noise2Self.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 
@@ -113,7 +113,7 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp 400w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_6074dfb94dcb9d988cd30c98bf683c53.webp 760w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
+               src=&#34;https://example.com/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -141,7 +141,7 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp 400w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_8c35f64fa1ffa750be39e5b8d36cacbe.webp 760w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
+               src=&#34;https://example.com/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;758&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -152,9 +152,9 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>Conv. rate with Pluto 🎈</title>
-      <link>http://localhost:1313/post/cvx_speed/</link>
+      <link>https://example.com/post/cvx_speed/</link>
       <pubDate>Mon, 01 Mar 2021 10:56:39 +0100</pubDate>
-      <guid>http://localhost:1313/post/cvx_speed/</guid>
+      <guid>https://example.com/post/cvx_speed/</guid>
       <description>&lt;p&gt;Convergence rate vs Hessian condition number using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -175,7 +175,7 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;http://localhost:1313/post/cvx_speed/conv.gif&#34;
+           src=&#34;https://example.com/post/cvx_speed/conv.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -210,9 +210,9 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>Sigmoid fit</title>
-      <link>http://localhost:1313/post/sigmoid/</link>
+      <link>https://example.com/post/sigmoid/</link>
       <pubDate>Wed, 22 Apr 2020 14:34:20 +0200</pubDate>
-      <guid>http://localhost:1313/post/sigmoid/</guid>
+      <guid>https://example.com/post/sigmoid/</guid>
       <description>&lt;p&gt;Inspired by the nice &lt;a href=&#34;https://twitter.com/clcrozier/status/1251148890595708938?s=21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweet&lt;/a&gt; of Constance Crozier,
 here is the julia code to illustrate the fit of a sigmoid as a function of the number of samples.&lt;/p&gt;
 &lt;p&gt;
@@ -234,7 +234,7 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;http://localhost:1313/post/sigmoid/sigmoid_fit.gif&#34;
+           src=&#34;https://example.com/post/sigmoid/sigmoid_fit.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;

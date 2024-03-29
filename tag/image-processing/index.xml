@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing | André Ferrari</title>
-    <link>http://localhost:1313/tag/image-processing/</link>
-      <atom:link href="http://localhost:1313/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/image-processing/</link>
+      <atom:link href="https://example.com/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Image Processing</title>
-      <link>http://localhost:1313/tag/image-processing/</link>
+      <link>https://example.com/tag/image-processing/</link>
     </image>
     
     <item>
       <title>TOSCA</title>
-      <link>http://localhost:1313/project/tosca/</link>
+      <link>https://example.com/project/tosca/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tosca/</guid>
+      <guid>https://example.com/project/tosca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARK ERA</title>
-      <link>http://localhost:1313/project/dark-era/</link>
+      <link>https://example.com/project/dark-era/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/dark-era/</guid>
+      <guid>https://example.com/project/dark-era/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAGELLAN</title>
-      <link>http://localhost:1313/project/magellan/</link>
+      <link>https://example.com/project/magellan/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/magellan/</guid>
+      <guid>https://example.com/project/magellan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAHI</title>
-      <link>http://localhost:1313/project/mahi/</link>
+      <link>https://example.com/project/mahi/</link>
       <pubDate>Mon, 15 Jun 2015 01:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/mahi/</guid>
+      <guid>https://example.com/project/mahi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MASTODONS</title>
-      <link>http://localhost:1313/project/display/</link>
+      <link>https://example.com/project/display/</link>
       <pubDate>Thu, 15 Jan 2015 01:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/display/</guid>
+      <guid>https://example.com/project/display/</guid>
       <description></description>
     </item>
     
