@@ -12,5 +12,700 @@
       <link>https://example.com/courses/</link>
     </image>
     
+    <item>
+      <title>Digital signal processing</title>
+      <link>https://example.com/courses/dsp_eea/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/dsp_eea/</guid>
+      <description>&lt;p&gt;This course is taught to Licence 3 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEA&lt;/a&gt; students.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp 400w,
+               /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_51dbf211b0282cd7ffec48dfa2ac7c48.webp 760w,
+               /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;desription&#34;&gt;Desription&lt;/h2&gt;
+&lt;p&gt;This course will introduce the students to the fundamental of discrete-time signal processing.
+It will particularly focus on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discrete-time signals and systems, convolution&lt;/li&gt;
+&lt;li&gt;The z-transform&lt;/li&gt;
+&lt;li&gt;Sampling of continuous-time signals&lt;/li&gt;
+&lt;li&gt;Transform analysis of linear time-invariant systems&lt;/li&gt;
+&lt;li&gt;Fourier transforms: FT, DFT and FFT&lt;/li&gt;
+&lt;li&gt;Introduction to filter design techniques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A large part of the course is devoted to practical projects, where the students will code various algorithms and compare theoretical results with simulation results.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp 400w,
+               /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_7c5965d1ac5af794f3075bc94b318499.webp 760w,
+               /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;piazza&#34;&gt;Piazza&lt;/h2&gt;
+&lt;p&gt;All the annoucements will be posted on Piazza. Students are also encouraged to post questions on Piazza.&lt;/p&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;p&gt;Students will have to complete a project during the course. You must submit for each project a pdf export of a jupyter notebook including the code, plots and a detailed report. Your are welcomed to work in pairs and to submit a single document.&lt;/p&gt;
+&lt;p&gt;Due dates will be posted on the website along with the assignments. Late homework will not be accepted.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;In this course we will be using &lt;a href=&#34;https://julialang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;course-textbooks&#34;&gt;Course textbooks&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp 400w,
+               /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_941d69498ffd7547be13b1a06aaa17ad.webp 760w,
+               /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp&#34;
+               width=&#34;397&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The course will cover parts of:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Discrete-Time Signal Processing (3rd Edition) (Prentice-Hall Signal Processing Series)
+Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse problems and imaging</title>
+      <link>https://example.com/courses/ip_estel/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/ip_estel/</guid>
+      <description>&lt;p&gt;This course is taught to Master 2 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESTEL&lt;/a&gt; students.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp 400w,
+               /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_753ab28f0370abb3571de08a4e311aef.webp 760w,
+               /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;252&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The objective of this course is to present a unified approach to solve inverse problems in imagery.&lt;/p&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction of image processing
+&lt;ul&gt;
+&lt;li&gt;Elementary image transforms, edge detection&lt;/li&gt;
+&lt;li&gt;Convolutions in space domain and Fourier domain, border conditions&lt;/li&gt;
+&lt;li&gt;Matrix representation of convolution and properties&lt;/li&gt;
+&lt;li&gt;Inverse problem formalism, regularization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to convex optimization
+&lt;ul&gt;
+&lt;li&gt;Convexity of sets and functions&lt;/li&gt;
+&lt;li&gt;Convex optimization problem&lt;/li&gt;
+&lt;li&gt;Duality and KKT conditions&lt;/li&gt;
+&lt;li&gt;Descent algorithms, projected gradient&lt;/li&gt;
+&lt;li&gt;Interior point algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Application to deconvolution
+&lt;ul&gt;
+&lt;li&gt;Tikhonov regularization and Wiener filtering&lt;/li&gt;
+&lt;li&gt;ISRA algorithm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Image reconstruction in radioastronomy
+&lt;ul&gt;
+&lt;li&gt;Basics of radio-interferometry&lt;/li&gt;
+&lt;li&gt;Effects of long baselines and wide field of view&lt;/li&gt;
+&lt;li&gt;Measurement model and algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp 400w,
+               /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_412d4bb5fccb57240f3049df7ae2a146.webp 760w,
+               /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp&#34;
+               width=&#34;732&#34;
+               height=&#34;734&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;practical-work&#34;&gt;Practical work&lt;/h2&gt;
+&lt;p&gt;A large part of the course is devoted to practical projects, where the students will code various algorithms and compare theoretical results with simulation results. The computations will be preferentially carried out in julia or python.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Image and Signal Processing</title>
+      <link>https://example.com/courses/disp_mauca/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/disp_mauca/</guid>
+      <description>&lt;p&gt;This course was taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA1&lt;/a&gt; students until 2024.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The objective of this course is to present the fundamental mathematics and concepts of discrete-time signal and image processing.
+These topics are presented in the context of signal processing and extended to image processing.
+A large part of the course will be devoted to computer implementation of signal and image processing systems.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp 400w,
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_db17ca2d66bd011ecd8ff61cabeaea9b.webp 760w,
+               /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Discrete-time signals and systems
+&lt;ul&gt;
+&lt;li&gt;Properties of systems&lt;/li&gt;
+&lt;li&gt;Linear and time invariant (LTI) systems. convolution&lt;/li&gt;
+&lt;li&gt;Linear constant-coefficients difference equations&lt;/li&gt;
+&lt;li&gt;Frequency response of a stable LTI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The z-transform and filter design
+&lt;ul&gt;
+&lt;li&gt;z-transform properties. properties of the roc&lt;/li&gt;
+&lt;li&gt;z-transforms and LTI systems&lt;/li&gt;
+&lt;li&gt;Design of discrete-time iir filters and design of fir filters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The discrete fourier transform
+&lt;ul&gt;
+&lt;li&gt;Representation of periodic sequences: the discrete fourier series&lt;/li&gt;
+&lt;li&gt;Fourier representation of finite-duration sequences&lt;/li&gt;
+&lt;li&gt;Properties of the dft, linear convolution using the dft&lt;/li&gt;
+&lt;li&gt;Computation of the discrete fourier transform and fft algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Image processing
+&lt;ul&gt;
+&lt;li&gt;Convolutions in space domain and fourier domain&lt;/li&gt;
+&lt;li&gt;Matrix representation of convolution and properties&lt;/li&gt;
+&lt;li&gt;Elementary image transforms, edge detection&lt;/li&gt;
+&lt;li&gt;Image filtering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to wavelets
+&lt;ul&gt;
+&lt;li&gt;Time frequency analysis&lt;/li&gt;
+&lt;li&gt;Continuous and discrete wavelets transform&lt;/li&gt;
+&lt;li&gt;Multi-resolution analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp 400w,
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_89efe355a15d3b2762599d66669c71b7.webp 760w,
+               /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp&#34;
+               width=&#34;512&#34;
+               height=&#34;512&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;practical-work&#34;&gt;Practical work&lt;/h2&gt;
+&lt;p&gt;A large part of the course is devoted to 4 practical projects, where the students will code various algorithms and compare theoretical results with simulation results.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Signal filtering&lt;/li&gt;
+&lt;li&gt;Fourier analysis and circular convolution&lt;/li&gt;
+&lt;li&gt;Image processing&lt;/li&gt;
+&lt;li&gt;Wavelets analysis&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Students will have to complete these projects during the course and are welcomed to work in pairs and to submit a single document. The computations will be preferentially carried out in julia or python.&lt;/p&gt;
+&lt;h2 id=&#34;course-textbooks&#34;&gt;Course textbooks&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp 400w,
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_b985555f0eb42f2d883d2fe0efe36b1b.webp 760w,
+               /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp&#34;
+               width=&#34;397&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp 400w,
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_2ab37d73d7857342742db765dd6265d2.webp 760w,
+               /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp&#34;
+               width=&#34;402&#34;
+               height=&#34;500&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp 400w,
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_abe21aafd61cd75267551c2496817e57.webp 760w,
+               /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp&#34;
+               width=&#34;333&#34;
+               height=&#34;499&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The course will cover parts of:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[1] Discrete-Time Signal Processing (3rd Edition)
+Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck.
+Prentice-Hall Signal Processing Series&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[2] Digital Image Processing, 4th Edition
+Rafael C. Gonzalez, Richard E. Woods,
+Pearson&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[3] A Wavelet Tour of Signal Processing: The Sparse Way
+Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapters 1., 2. and 3. of the course:  Chapters 1-6 and 8-9 of [1]&lt;/li&gt;
+&lt;li&gt;Chapter 4. of the course: Chapters 3-4 of [2]&lt;/li&gt;
+&lt;li&gt;Chapter 5. of the course:  parts of [3]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical optimization with applications</title>
+      <link>https://example.com/courses/optim_mauca/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/optim_mauca/</guid>
+      <description>&lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Numerical optimization is a central tool for many practical problems, e.g. inverse problems in astrophysics such as image deconvolution, image reconstruction for radio or optical interferometers&amp;hellip; instrumental design such as coranographs&amp;hellip;&lt;/p&gt;
+&lt;p&gt;More generally optimization arises in most of the estimation problems where the task consists in estimating unknown quantities from  noisy and distorted measurements or learning a model from training samples  e.g. for a classification task  as in deep neural networks.&lt;/p&gt;
+&lt;p&gt;A large part of the course will be devoted to mathematical optimization which consists of deriving an algorithm to numerically minimize a cost function over a defined domain. It will particularly focus on the implementation striking a balance between theory and coding.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp 400w,
+               /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_86902d4a42385c1cb1e5cc1e5573bf52.webp 760w,
+               /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp&#34;
+               width=&#34;518&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The main objective is to be able to derive a possibly optimal algorithm to solve a given practical estimation problem. This includes the formulation as a standard optimization problem, identification of the most appropriate optimization algorithm, coding and critical analysis of the results.&lt;/p&gt;
+&lt;p&gt;Students will learn convex optimization theory and how to formalize specific inverse problems and machine learning tasks as optimization problems. They will learn to code efficiently the related algorithms, specially for large scale problems.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp 400w,
+               /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_d65948e94d5a7e398490708b0814f52e.webp 760w,
+               /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp&#34;
+               width=&#34;718&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Signal/image processing,&lt;/li&gt;
+&lt;li&gt;Fourier optics,&lt;/li&gt;
+&lt;li&gt;Numerical methods (python),&lt;/li&gt;
+&lt;li&gt;Maths/Stat (Statistical methods for signal and noise).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
+&lt;p&gt;The course includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of convex optimization including duality.&lt;/li&gt;
+&lt;li&gt;Constraint and unconstraint optimization algorithms with convergence analysis.&lt;/li&gt;
+&lt;li&gt;Stochastic optimization  and automatic differentiation to solve large scale problems such as machine learning problems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Applications will include practical work sessions where the student
+will become familiar with the development environment and will learn
+to code toy problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The course will also include a personal project where the student will
+have to solve a real problem. Examples from the past courses are
+optimization of an apodized Liot coranograph and HST image deconvolution.
+Other possible projets are: morphological galaxy classification using machine learning,
+image reconstruction for radio-interferometry&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;main-progressions-steps&#34;&gt;Main progressions steps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First third of the period: theoretical courses. They consists in lectures and
+personal work on textbooks.&lt;/li&gt;
+&lt;li&gt;Second third of the period: theoretical courses with practical work sessions.&lt;/li&gt;
+&lt;li&gt;Last third of the period: project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A written exam week 4 on the theoretical part (40 %).&lt;/li&gt;
+&lt;li&gt;Evaluation of the practical work sessions (20 %).&lt;/li&gt;
+&lt;li&gt;Evaluation of the project (20 %).&lt;/li&gt;
+&lt;li&gt;Evaluation of the project during the global oral presentation (20%).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;textbook&#34;&gt;Textbook&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp 400w,
+               /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_abf929dbe399b33dce6bfe5eff22c883.webp 760w,
+               /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp&#34;
+               width=&#34;532&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The course will cover parts of:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Convex Optimization, Stephen Boyd and Lieven Vandenberghe
+Cambridge University Press&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A pdf version of the book and more material can be download from the book &lt;a href=&#34;https://web.stanford.edu/~boyd/cvxbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis. Application to image reconstruction</title>
+      <link>https://example.com/courses/ba_mauca/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/ba_mauca/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The course will not be taught during 2020-2021.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The course aims to familiarize the students with the Bayesian analysis.
+The Bayesian paradigm, coupled with efficient simulation algorithms,
+has been proved to be a computationally efficient alternative to
+classical frequentist approaches.&lt;/p&gt;
+&lt;p&gt;The Bayesian formalism is also recognized as a  natural framework to address inverse problems
+which arise in many observational systems.
+A large part of the course is devoted to the application of Bayesian models
+to image reconstruction in astrophysics. It will particularly focus on choice of the priors
+and the implementation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp 400w,
+               /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_b86ccab42f7f4767923aef30687b904c.webp 760w,
+               /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp&#34;
+               width=&#34;630&#34;
+               height=&#34;492&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
+&lt;p&gt;A common problem in experimental and observational sciences is to
+extract information from noisy measurements. Bayesian analysis is
+the formalism which allows to merge in the inference: 1. the information
+brought by the measurements, 2. a prior on the solution.&lt;/p&gt;
+&lt;p&gt;This approach is experiencing an increasing interest since
+the early 1990&amp;rsquo;s after new simulations methods appeared. Since a decade,
+the Bayesian paradigm coupled with hierarchical models is used to
+solve computationally involving problems where mathematical
+optimization algorithms are replaced by increasingly effective simulations methods.&lt;/p&gt;
+&lt;p&gt;Besides the power of recent computational Bayesian approaches,
+the Bayesian formalism plays also a central role in the resolution of inverse problems.&lt;/p&gt;
+&lt;p&gt;Many data processing problems in physics, and in particular in astrophysics,
+can be formalized as an inverse problem where the measured data is related in a complex way to the properties of the target.
+This includes image deconvolution (e.g. deblurring and denoising),
+image reconstruction (e.g. in radioastronomy or optical interferometry), image segmentation&amp;hellip;
+The resolution of these ill-posed problems require a regularization (or prior)
+and the Bayesian formalism is proved to be the natural framework to address these problems.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example image&#34; srcset=&#34;
+               /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp 400w,
+               /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_df712cfd644507b8225825c462bfc3d7.webp 760w,
+               /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp&#34;
+               width=&#34;732&#34;
+               height=&#34;734&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;p&gt;A large part of the course is devoted to practical projects, where the students
+will code various algorithms and compare theoretical results with simulation results.
+Students will have to complete three projects during the course and are welcomed to
+work in pairs and to submit a single document. The computations will be
+preferentially carried out in julia, python or matlab.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
