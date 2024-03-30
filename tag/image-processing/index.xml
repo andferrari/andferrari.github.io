@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing | André Ferrari</title>
-    <link>https://example.com/tag/image-processing/</link>
-      <atom:link href="https://example.com/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/tag/image-processing/</link>
+      <atom:link href="https://andferrari.github.io/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Image Processing</title>
-      <link>https://example.com/tag/image-processing/</link>
+      <link>https://andferrari.github.io/tag/image-processing/</link>
     </image>
     
     <item>
       <title>TOSCA</title>
-      <link>https://example.com/project/tosca/</link>
+      <link>https://andferrari.github.io/project/tosca/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/tosca/</guid>
+      <guid>https://andferrari.github.io/project/tosca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARK ERA</title>
-      <link>https://example.com/project/dark-era/</link>
+      <link>https://andferrari.github.io/project/dark-era/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/dark-era/</guid>
+      <guid>https://andferrari.github.io/project/dark-era/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAGELLAN</title>
-      <link>https://example.com/project/magellan/</link>
+      <link>https://andferrari.github.io/project/magellan/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/magellan/</guid>
+      <guid>https://andferrari.github.io/project/magellan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAHI</title>
-      <link>https://example.com/project/mahi/</link>
+      <link>https://andferrari.github.io/project/mahi/</link>
       <pubDate>Mon, 15 Jun 2015 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/mahi/</guid>
+      <guid>https://andferrari.github.io/project/mahi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MASTODONS</title>
-      <link>https://example.com/project/display/</link>
+      <link>https://andferrari.github.io/project/display/</link>
       <pubDate>Thu, 15 Jan 2015 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/display/</guid>
+      <guid>https://andferrari.github.io/project/display/</guid>
       <description></description>
     </item>
     

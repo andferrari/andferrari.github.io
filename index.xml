@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>André Ferrari</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/</link>
+      <atom:link href="https://andferrari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>André Ferrari</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>André Ferrari</title>
-      <link>https://example.com/</link>
+      <link>https://andferrari.github.io/</link>
     </image>
     
     <item>
       <title>Digital signal processing</title>
-      <link>https://example.com/courses/dsp_eea/</link>
+      <link>https://andferrari.github.io/courses/dsp_eea/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/dsp_eea/</guid>
+      <guid>https://andferrari.github.io/courses/dsp_eea/</guid>
       <description>&lt;p&gt;This course is taught to Licence 3 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEA&lt;/a&gt; students.&lt;/p&gt;
 &lt;p&gt;
 
@@ -40,7 +40,7 @@
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp 400w,
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_51dbf211b0282cd7ffec48dfa2ac7c48.webp 760w,
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -80,7 +80,7 @@ It will particularly focus on:&lt;/p&gt;
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp 400w,
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_7c5965d1ac5af794f3075bc94b318499.webp 760w,
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -116,7 +116,7 @@ It will particularly focus on:&lt;/p&gt;
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp 400w,
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_941d69498ffd7547be13b1a06aaa17ad.webp 760w,
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp&#34;
                width=&#34;397&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,9 +132,9 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
     
     <item>
       <title>Inverse problems and imaging</title>
-      <link>https://example.com/courses/ip_estel/</link>
+      <link>https://andferrari.github.io/courses/ip_estel/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/ip_estel/</guid>
+      <guid>https://andferrari.github.io/courses/ip_estel/</guid>
       <description>&lt;p&gt;This course is taught to Master 2 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESTEL&lt;/a&gt; students.&lt;/p&gt;
 &lt;p&gt;
 
@@ -158,7 +158,7 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp 400w,
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_753ab28f0370abb3571de08a4e311aef.webp 760w,
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp&#34;
                width=&#34;760&#34;
                height=&#34;252&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -221,7 +221,7 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp 400w,
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_412d4bb5fccb57240f3049df7ae2a146.webp 760w,
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp&#34;
                width=&#34;732&#34;
                height=&#34;734&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -234,9 +234,9 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
     
     <item>
       <title>Digital Image and Signal Processing</title>
-      <link>https://example.com/courses/disp_mauca/</link>
+      <link>https://andferrari.github.io/courses/disp_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/disp_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/disp_mauca/</guid>
       <description>&lt;p&gt;This course was taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA1&lt;/a&gt; students until 2024.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The objective of this course is to present the fundamental mathematics and concepts of discrete-time signal and image processing.
@@ -264,7 +264,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp 400w,
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_db17ca2d66bd011ecd8ff61cabeaea9b.webp 760w,
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp&#34;
                width=&#34;600&#34;
                height=&#34;400&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -333,7 +333,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp 400w,
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_89efe355a15d3b2762599d66669c71b7.webp 760w,
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp&#34;
                width=&#34;512&#34;
                height=&#34;512&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -371,7 +371,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp 400w,
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_b985555f0eb42f2d883d2fe0efe36b1b.webp 760w,
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp&#34;
                width=&#34;397&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -399,7 +399,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp 400w,
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_2ab37d73d7857342742db765dd6265d2.webp 760w,
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp&#34;
                width=&#34;402&#34;
                height=&#34;500&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -427,7 +427,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp 400w,
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_abe21aafd61cd75267551c2496817e57.webp 760w,
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp&#34;
                width=&#34;333&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -459,9 +459,9 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
     
     <item>
       <title>Numerical optimization with applications</title>
-      <link>https://example.com/courses/optim_mauca/</link>
+      <link>https://andferrari.github.io/courses/optim_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/optim_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/optim_mauca/</guid>
       <description>&lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Numerical optimization is a central tool for many practical problems, e.g. inverse problems in astrophysics such as image deconvolution, image reconstruction for radio or optical interferometers&amp;hellip; instrumental design such as coranographs&amp;hellip;&lt;/p&gt;
@@ -489,7 +489,7 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp 400w,
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_86902d4a42385c1cb1e5cc1e5573bf52.webp 760w,
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp&#34;
                width=&#34;518&#34;
                height=&#34;426&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -520,7 +520,7 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp 400w,
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_d65948e94d5a7e398490708b0814f52e.webp 760w,
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp&#34;
                width=&#34;718&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -592,7 +592,7 @@ personal work on textbooks.&lt;/li&gt;
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp 400w,
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_abf929dbe399b33dce6bfe5eff22c883.webp 760w,
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp&#34;
                width=&#34;532&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -609,9 +609,9 @@ Cambridge University Press&lt;/p&gt;
     
     <item>
       <title>Bayesian analysis. Application to image reconstruction</title>
-      <link>https://example.com/courses/ba_mauca/</link>
+      <link>https://andferrari.github.io/courses/ba_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/courses/ba_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/ba_mauca/</guid>
       <description>&lt;p&gt;&lt;em&gt;The course will not be taught during 2020-2021.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -646,7 +646,7 @@ and the implementation.&lt;/p&gt;
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp 400w,
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_b86ccab42f7f4767923aef30687b904c.webp 760w,
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp&#34;
                width=&#34;630&#34;
                height=&#34;492&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -692,7 +692,7 @@ and the Bayesian formalism is proved to be the natural framework to address thes
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp 400w,
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_df712cfd644507b8225825c462bfc3d7.webp 760w,
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp&#34;
                width=&#34;732&#34;
                height=&#34;734&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -709,9 +709,9 @@ preferentially carried out in julia, python or matlab.&lt;/p&gt;
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://andferrari.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://andferrari.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -729,27 +729,27 @@ preferentially carried out in julia, python or matlab.&lt;/p&gt;
     
     <item>
       <title>A comparison of solar and stellar coronagraphs that make use of external occulters</title>
-      <link>https://example.com/publication/spie-24-b/</link>
+      <link>https://andferrari.github.io/publication/spie-24-b/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-24-b/</guid>
+      <guid>https://andferrari.github.io/publication/spie-24-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computation of the Fresnel diffraction of Starshades based on a polygonal approximation</title>
-      <link>https://example.com/publication/spie-24-a/</link>
+      <link>https://andferrari.github.io/publication/spie-24-a/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-24-a/</guid>
+      <guid>https://andferrari.github.io/publication/spie-24-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Funded PhD scholarship</title>
-      <link>https://example.com/post/phdorigins/</link>
+      <link>https://andferrari.github.io/post/phdorigins/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/phdorigins/</guid>
+      <guid>https://andferrari.github.io/post/phdorigins/</guid>
       <description>&lt;h2 id=&#34;image-reconstruction-in-high-contrast-polarimetricimaging-using-data-driven-models&#34;&gt;Image reconstruction in high-contrast polarimetric	imaging using data driven models&lt;/h2&gt;
 &lt;p&gt;The PhD involves collaboration between Observatoire de la Côte d&amp;rsquo;azur (OCA), Ecole Normal Supérieur de Lyon (ENS) and Centre de Recherche Astrophysique de Lyon (CRAL).  OCA: André Ferrari (PhD supervisor), Simon Prunet (PhD co-supervisor). ENS: Nelly Pustelnik (co-supervisor), Julian Tachella (co-supervisor). CRAL: Maud Langlois (co-supervisor) and Eric Thiébaut (co-supervisor).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Polarimetric imaging, inverse problems, algorithm unfolding, unsupervised learning, plug-and-play algorithms, rotation/scale invariant learning, circumstellar disks imaging&lt;/p&gt;
@@ -779,54 +779,54 @@ Contract duration: 3 years&lt;/p&gt;
     
     <item>
       <title>A new approach for the numerical calculation of diffraction patterns using starshades</title>
-      <link>https://example.com/publication/aa-24-a/</link>
+      <link>https://andferrari.github.io/publication/aa-24-a/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/aa-24-a/</guid>
+      <guid>https://andferrari.github.io/publication/aa-24-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>From linear to nonlinear unfolded Condat-Vũ algorithm for spectro-polarimetric hight-constrast image recovery</title>
-      <link>https://example.com/publication/eusipco-24-a/</link>
+      <link>https://andferrari.github.io/publication/eusipco-24-a/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-24-a/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-24-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-Step Reconstruction of Radio-Interferometric Images</title>
-      <link>https://example.com/publication/aa-24-b/</link>
+      <link>https://andferrari.github.io/publication/aa-24-b/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/aa-24-b/</guid>
+      <guid>https://andferrari.github.io/publication/aa-24-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shape measurement of radio galaxies using Equivariant CNNs</title>
-      <link>https://example.com/publication/eusipco-24-b/</link>
+      <link>https://andferrari.github.io/publication/eusipco-24-b/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-24-b/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-24-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributed Change Point Detection in Streaming Manifold-valued Signals over Graphs</title>
-      <link>https://example.com/publication/asilomar-23/</link>
+      <link>https://andferrari.github.io/publication/asilomar-23/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-23/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PrunedFFT</title>
-      <link>https://example.com/post/prunedfft/</link>
+      <link>https://andferrari.github.io/post/prunedfft/</link>
       <pubDate>Thu, 21 Sep 2023 16:55:40 +0200</pubDate>
-      <guid>https://example.com/post/prunedfft/</guid>
+      <guid>https://andferrari.github.io/post/prunedfft/</guid>
       <description>&lt;p&gt;You need to compute a &lt;strong&gt;subset&lt;/strong&gt; of the outputs of a 2D FFT
 with a &lt;strong&gt;large zero padding&lt;/strong&gt;? Try &lt;a href=&#34;https://github.com/andferrari/PrunedFFT.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrunedFFT.jl&lt;/a&gt;. It works also on GPU🔥&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;PrunedFFT&lt;/span&gt;
@@ -853,54 +853,54 @@ with a &lt;strong&gt;large zero padding&lt;/strong&gt;? Try &lt;a href=&#34;http
     
     <item>
       <title>Détection de changements dans des signaux sur graphe à valeur dans des varit́&#39; ́riemanniennes</title>
-      <link>https://example.com/publication/gretsi-23/</link>
+      <link>https://andferrari.github.io/publication/gretsi-23/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-23/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Online change-point detection with kernels</title>
-      <link>https://example.com/publication/pr-22/</link>
+      <link>https://andferrari.github.io/publication/pr-22/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pr-22/</guid>
+      <guid>https://andferrari.github.io/publication/pr-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Precision Traffic Monitoring: Leveraging Distributed Acoustic Sensing and Deep Neural Networks</title>
-      <link>https://example.com/publication/ieeeitst-23/</link>
+      <link>https://andferrari.github.io/publication/ieeeitst-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieeeitst-23/</guid>
+      <guid>https://andferrari.github.io/publication/ieeeitst-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variance Stabilizing Transformations for Intensity Estimators of Shot Noise</title>
-      <link>https://example.com/publication/ieeespl-23/</link>
+      <link>https://andferrari.github.io/publication/ieeespl-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieeespl-23/</guid>
+      <guid>https://andferrari.github.io/publication/ieeespl-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Self-Supervised Deep Learning Approach for Blind  Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data</title>
-      <link>https://example.com/publication/ieeetnn-22/</link>
+      <link>https://andferrari.github.io/publication/ieeetnn-22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieeetnn-22/</guid>
+      <guid>https://andferrari.github.io/publication/ieeetnn-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Funded PhD scholarship</title>
-      <link>https://example.com/post/phdtosca/</link>
+      <link>https://andferrari.github.io/post/phdtosca/</link>
       <pubDate>Wed, 16 Nov 2022 17:52:08 +0100</pubDate>
-      <guid>https://example.com/post/phdtosca/</guid>
+      <guid>https://andferrari.github.io/post/phdtosca/</guid>
       <description>&lt;h2 id=&#34;machine-learning-for-gravitational-lensing-analysis-of-massive-radio-surveys&#34;&gt;Machine learning for gravitational lensing analysis of massive radio surveys&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Machine learning, gravitational lensing, imaging methods in radio astronomy, artificial intelligence, inverse problems, SKA.
 Observatoire de la Côte d’Azur invites applications for a PhD position in machine learning for astrophysics. The successful candidate will work with Dr. Simon Prunet and Prof. André Ferrari in J.-L. Lagrange Laboratory, within the ANR funded project TOSCA on weak lensing statistics for cosmology, which investigates synergies between optical and radio surveys, with partners in CEA Saclay, Nice, Caen and Geneva. The successful candidate will be based in Nice (F) with regular visits to Saclay, and will collaborate very closely with all TOSCA members, at CEA, Nice, Caen and Geneva.&lt;/p&gt;
@@ -920,35 +920,35 @@ Contract duration: 3 years&lt;/p&gt;
     
     <item>
       <title>Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring with Distributed Acoustic Sensing</title>
-      <link>https://example.com/publication/asilomar-22/</link>
+      <link>https://andferrari.github.io/publication/asilomar-22/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-22/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TOSCA</title>
-      <link>https://example.com/project/tosca/</link>
+      <link>https://andferrari.github.io/project/tosca/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/tosca/</guid>
+      <guid>https://andferrari.github.io/project/tosca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Deconvolution Applied to Distributed Acoustic Sensing for Traffic Analysis</title>
-      <link>https://example.com/publication/eusipco-22/</link>
+      <link>https://andferrari.github.io/publication/eusipco-22/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-22/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Waterfall</title>
-      <link>https://example.com/post/waterfall/</link>
+      <link>https://andferrari.github.io/post/waterfall/</link>
       <pubDate>Wed, 19 Jan 2022 10:32:07 +0100</pubDate>
-      <guid>https://example.com/post/waterfall/</guid>
+      <guid>https://andferrari.github.io/post/waterfall/</guid>
       <description>&lt;p&gt;Simple &lt;a href=&#34;https://github.com/JuliaPlots/Plots.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plots.jl&lt;/a&gt; receipe for waterfall plots
 (a la &lt;a href=&#34;https://gist.github.com/andferrari/3e254ffd67629078c1aaad95caf23079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unknown Pleasures&lt;/a&gt; 😀). Install using:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;pkg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;add&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;://&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;github&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;andferrari&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;WaterFall&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jl&lt;/span&gt;
@@ -961,45 +961,45 @@ Contract duration: 3 years&lt;/p&gt;
     
     <item>
       <title>An interpretable framework for deep learning-based signal denoising under covariate shift</title>
-      <link>https://example.com/publication/icassp-22/</link>
+      <link>https://andferrari.github.io/publication/icassp-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-22/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Deconvolution for Traffic Analysis with Distributed Acoustic Sensing Data</title>
-      <link>https://example.com/publication/ieeeitst-22/</link>
+      <link>https://andferrari.github.io/publication/ieeeitst-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieeeitst-22/</guid>
+      <guid>https://andferrari.github.io/publication/ieeeitst-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Prototypage Rapide d&#39;un Super-Calculateur Dédié à&#39; la Radiastronimie</title>
-      <link>https://example.com/publication/idcnrs-22/</link>
+      <link>https://andferrari.github.io/publication/idcnrs-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/idcnrs-22/</guid>
+      <guid>https://andferrari.github.io/publication/idcnrs-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Variance Stabilizing Transformations for Intensity Estimators of Shot Noise</title>
-      <link>https://example.com/publication/ieeespl-22/</link>
+      <link>https://andferrari.github.io/publication/ieeespl-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ieeespl-22/</guid>
+      <guid>https://andferrari.github.io/publication/ieeespl-22/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Discrete Fourier Transform 🎈</title>
-      <link>https://example.com/post/dft/</link>
+      <link>https://andferrari.github.io/post/dft/</link>
       <pubDate>Fri, 05 Nov 2021 20:49:30 +0100</pubDate>
-      <guid>https://example.com/post/dft/</guid>
+      <guid>https://andferrari.github.io/post/dft/</guid>
       <description>&lt;p&gt;Fourier transforms of a sine wave using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -1020,7 +1020,7 @@ Contract duration: 3 years&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://example.com/post/dft/dft.gif&#34;
+           src=&#34;https://andferrari.github.io/post/dft/dft.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
@@ -1055,35 +1055,35 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>Next-Generation Traffic Monitoring with Distributed Acoustic Sensing Arrays and Optimum Array Processing</title>
-      <link>https://example.com/publication/asilomar-21/</link>
+      <link>https://andferrari.github.io/publication/asilomar-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-21/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SLSIP21 workshop! 😎</title>
-      <link>https://example.com/post/slsip21/</link>
+      <link>https://andferrari.github.io/post/slsip21/</link>
       <pubDate>Thu, 07 Oct 2021 16:58:14 +0200</pubDate>
-      <guid>https://example.com/post/slsip21/</guid>
+      <guid>https://andferrari.github.io/post/slsip21/</guid>
       <description>&lt;p&gt;First post covid live presentation at &lt;a href=&#34;https://sites.google.com/view/slsipworkshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLSIP21&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DARK ERA</title>
-      <link>https://example.com/project/dark-era/</link>
+      <link>https://andferrari.github.io/project/dark-era/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/dark-era/</guid>
+      <guid>https://andferrari.github.io/project/dark-era/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martijn&#39;s Asilomar 2021 talk 🥤</title>
-      <link>https://example.com/post/asilomar2021/</link>
+      <link>https://andferrari.github.io/post/asilomar2021/</link>
       <pubDate>Thu, 09 Sep 2021 11:04:19 +0200</pubDate>
-      <guid>https://example.com/post/asilomar2021/</guid>
+      <guid>https://andferrari.github.io/post/asilomar2021/</guid>
       <description>&lt;p&gt;Martjin Van Ende presentation at 2021 Asilomar conference:
 &lt;em&gt;Next-Generation Traffic Monitoring with Distributed
 Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
@@ -1097,9 +1097,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Noise2self 💻</title>
-      <link>https://example.com/post/noise2self/</link>
+      <link>https://andferrari.github.io/post/noise2self/</link>
       <pubDate>Thu, 09 Sep 2021 10:44:28 +0200</pubDate>
-      <guid>https://example.com/post/noise2self/</guid>
+      <guid>https://andferrari.github.io/post/noise2self/</guid>
       <description>&lt;p&gt;A simple &lt;a href=&#34;https://arxiv.org/abs/1901.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;noise2self&lt;/a&gt; experimennt using a &lt;a href=&#34;https://arxiv.org/abs/1608.03981&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCNN&lt;/a&gt;. The julia code is &lt;a href=&#34;https://github.com/andferrari/Noise2Self.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 
@@ -1123,7 +1123,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp 400w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_6074dfb94dcb9d988cd30c98bf683c53.webp 760w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
+               src=&#34;https://andferrari.github.io/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1151,7 +1151,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp 400w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_8c35f64fa1ffa750be39e5b8d36cacbe.webp 760w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
+               src=&#34;https://andferrari.github.io/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;758&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1162,18 +1162,18 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Dataflow Algorithm architecture co-design of SKA pipeline for Exascale Radio Astronomy</title>
-      <link>https://example.com/publication/isc-21/</link>
+      <link>https://andferrari.github.io/publication/isc-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/isc-21/</guid>
+      <guid>https://andferrari.github.io/publication/isc-21/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Martijn&#39;s MSS talk 🥤</title>
-      <link>https://example.com/post/mss_2021_youtube/</link>
+      <link>https://andferrari.github.io/post/mss_2021_youtube/</link>
       <pubDate>Fri, 05 Mar 2021 15:16:05 +0100</pubDate>
-      <guid>https://example.com/post/mss_2021_youtube/</guid>
+      <guid>https://andferrari.github.io/post/mss_2021_youtube/</guid>
       <description>&lt;p&gt;Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: &lt;em&gt;A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing&lt;/em&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -1185,9 +1185,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Conv. rate with Pluto 🎈</title>
-      <link>https://example.com/post/cvx_speed/</link>
+      <link>https://andferrari.github.io/post/cvx_speed/</link>
       <pubDate>Mon, 01 Mar 2021 10:56:39 +0100</pubDate>
-      <guid>https://example.com/post/cvx_speed/</guid>
+      <guid>https://andferrari.github.io/post/cvx_speed/</guid>
       <description>&lt;p&gt;Convergence rate vs Hessian condition number using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -1208,7 +1208,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://example.com/post/cvx_speed/conv.gif&#34;
+           src=&#34;https://andferrari.github.io/post/cvx_speed/conv.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -1243,18 +1243,18 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Online Graph-Based Change Point Detection in Multiband Image Sequences</title>
-      <link>https://example.com/publication/eusipco-20/</link>
+      <link>https://andferrari.github.io/publication/eusipco-20/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-20/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD scholarship</title>
-      <link>https://example.com/post/phd20/</link>
+      <link>https://andferrari.github.io/post/phd20/</link>
       <pubDate>Thu, 07 May 2020 12:35:59 +0200</pubDate>
-      <guid>https://example.com/post/phd20/</guid>
+      <guid>https://andferrari.github.io/post/phd20/</guid>
       <description>&lt;h2 id=&#34;line-by-line-deep-learning-algorithm-for-detection-of-artifacts-in-uncalibrated-multispectral-satellite-images&#34;&gt;Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images&lt;/h2&gt;
 &lt;p&gt;The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases. State-of-the-art algorithms use reference data either from a local neighborhood around the pixel/spectrum to be tested, either using all or part of the HSI data possibly at a different time instant. The most popular among these algorithms are the Reed-Xiaoli Detector (RXD) [1] and its many variations. More recently algorithms using deep convolutional neural networks have proved their effectiveness for this task [2].&lt;/p&gt;
 &lt;p&gt;All these approaches rely on pairs of learning and testing spectra sets which are performed on images processed on ground and geometrically, spectrally and radiometrically calibrated. Moreover, these algorithms consist of a learning step and a testing step on two set of patches acquired at different time instant and so don’t allow a fully (learning and testing) line by line processing in order to process a continuous flow of data. The objectives of this PhD will be to develop an artifact detection algorithm, computationally efficient and compatible with data as acquired by the pushbroom sensor i.e. line by line and before radiometrically, spectral and geometric corrections and calibrations, which takes advantage of recent advances in machine learning.&lt;/p&gt;
@@ -1276,18 +1276,18 @@ To our knowledge, these approaches have not yet been applied for detecting artif
     
     <item>
       <title>Non-parametric community change-points detection in streaming graph signals</title>
-      <link>https://example.com/publication/icassp-20/</link>
+      <link>https://andferrari.github.io/publication/icassp-20/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-20/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-20/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sigmoid fit</title>
-      <link>https://example.com/post/sigmoid/</link>
+      <link>https://andferrari.github.io/post/sigmoid/</link>
       <pubDate>Wed, 22 Apr 2020 14:34:20 +0200</pubDate>
-      <guid>https://example.com/post/sigmoid/</guid>
+      <guid>https://andferrari.github.io/post/sigmoid/</guid>
       <description>&lt;p&gt;Inspired by the nice &lt;a href=&#34;https://twitter.com/clcrozier/status/1251148890595708938?s=21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweet&lt;/a&gt; of Constance Crozier,
 here is the julia code to illustrate the fit of a sigmoid as a function of the number of samples.&lt;/p&gt;
 &lt;p&gt;
@@ -1309,7 +1309,7 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://example.com/post/sigmoid/sigmoid_fit.gif&#34;
+           src=&#34;https://andferrari.github.io/post/sigmoid/sigmoid_fit.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -1339,12 +1339,12 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
     
     <item>
       <title>Master position</title>
-      <link>https://example.com/post/master_graph1/</link>
+      <link>https://andferrari.github.io/post/master_graph1/</link>
       <pubDate>Thu, 16 Jan 2020 16:43:51 +0100</pubDate>
-      <guid>https://example.com/post/master_graph1/</guid>
+      <guid>https://andferrari.github.io/post/master_graph1/</guid>
       <description>&lt;h2 id=&#34;online-novelty-detection-in-multivariate-graph-signals-application-to-hyperspectral-imaging&#34;&gt;Online novelty detection in multivariate graph signals. Application to hyperspectral imaging&lt;/h2&gt;
 &lt;p&gt;Detecting changes in network-structured time series data is of utmost importance in critical applications as diverse as detecting denial of service attacks against online service providers or monitoring energy and water supplies.&lt;/p&gt;
-&lt;p&gt;We recently devised an online change-point detection algorithm in [&lt;a href=&#34;https://example.com/publication/camsap-19/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://example.com/publication/icassp-20/&#34;&gt;2&lt;/a&gt;] that fully benefits from the recent advances in graph signal processing to exploit the characteristics of the data that lie on irregular supports. The algorithm is able to detect anomalous clusters of activity over time in streaming scalar data measured at each node of the graph in a distributed manner across nodes.&lt;/p&gt;
+&lt;p&gt;We recently devised an online change-point detection algorithm in [&lt;a href=&#34;https://andferrari.github.io/publication/camsap-19/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://andferrari.github.io/publication/icassp-20/&#34;&gt;2&lt;/a&gt;] that fully benefits from the recent advances in graph signal processing to exploit the characteristics of the data that lie on irregular supports. The algorithm is able to detect anomalous clusters of activity over time in streaming scalar data measured at each node of the graph in a distributed manner across nodes.&lt;/p&gt;
 &lt;p&gt;A natural extension is to tackle the case where the measurement at each node is vectored value. This paves the way to many applications such as the detection of changes in hyper spectral images where a node is associated to each pixel, the graph models spatial dependences between pixels and each node is associated to the corresponding spectrum. The internship will focus on theoretical aspects related to the development of a multivariate detection algorithm, including multivariate graph signal processing, and practical application to change detection in multi temporal  hyperspectral images.&lt;/p&gt;
 &lt;p&gt;This is a joint work with &lt;a href=&#34;https://cedric-richard.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cédric Richard&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To apply for this intership, please contact me.&lt;/p&gt;
@@ -1357,45 +1357,45 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
     
     <item>
       <title>Distributed change detection in streaming graph signals</title>
-      <link>https://example.com/publication/camsap-19/</link>
+      <link>https://andferrari.github.io/publication/camsap-19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/camsap-19/</guid>
+      <guid>https://andferrari.github.io/publication/camsap-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kernel based online change point detection</title>
-      <link>https://example.com/publication/eusipco-19/</link>
+      <link>https://andferrari.github.io/publication/eusipco-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-19/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Performance Bound for Robust Array Calibration in Radio Interferometry</title>
-      <link>https://example.com/publication/gretsi-19/</link>
+      <link>https://andferrari.github.io/publication/gretsi-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-19/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A parallel and automatically tuned algorithm for multispectral image deconvolution</title>
-      <link>https://example.com/publication/art-mnras-19/</link>
+      <link>https://andferrari.github.io/publication/art-mnras-19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-mnras-19/</guid>
+      <guid>https://andferrari.github.io/publication/art-mnras-19/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://andferrari.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://andferrari.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1518,1640 +1518,1640 @@ $$&lt;/p&gt;
     
     <item>
       <title>Robust distributed calibration of radio interferometers with direction dependent distortions</title>
-      <link>https://example.com/publication/art-sp-18/</link>
+      <link>https://andferrari.github.io/publication/art-sp-18/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-18/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Study on Convolution Using Half--Precision Floating--Point Numbers on GPU for Radioastronomy Deconvolution</title>
-      <link>https://example.com/publication/sips-18/</link>
+      <link>https://andferrari.github.io/publication/sips-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sips-18/</guid>
+      <guid>https://andferrari.github.io/publication/sips-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian calibration using different prior distributions: an iterative maximum a posteriori approach for radio interferometers</title>
-      <link>https://example.com/publication/eusipco-18/</link>
+      <link>https://andferrari.github.io/publication/eusipco-18/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-18/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distribution strategies for very large 3D image deconvolution algorithms</title>
-      <link>https://example.com/publication/art-spic-18/</link>
+      <link>https://andferrari.github.io/publication/art-spic-18/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-spic-18/</guid>
+      <guid>https://andferrari.github.io/publication/art-spic-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Non-Parametric Online Change-Point Detection with Kernel LMS By Relative Density Ratio Estimation</title>
-      <link>https://example.com/publication/ssp-18/</link>
+      <link>https://andferrari.github.io/publication/ssp-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssp-18/</guid>
+      <guid>https://andferrari.github.io/publication/ssp-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ADA-PT: An Adaptive Parameter Tuning Strategy Based on the Weighted Stein Unbiased Risk Estimator</title>
-      <link>https://example.com/publication/icassp-18/</link>
+      <link>https://andferrari.github.io/publication/icassp-18/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-18/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-18/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Calibration of Radio Interferometers in Multi-Frequency Scenario</title>
-      <link>https://example.com/publication/icassp-18-a/</link>
+      <link>https://andferrari.github.io/publication/icassp-18-a/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-18-a/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-18-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>French SKA White Book - The French Community towards the Square Kilometre Array</title>
-      <link>https://example.com/publication/whiteska/</link>
+      <link>https://andferrari.github.io/publication/whiteska/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/whiteska/</guid>
+      <guid>https://andferrari.github.io/publication/whiteska/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diffusion LMS for Multitask Problems With Local Linear Equality Constraints</title>
-      <link>https://example.com/publication/art-tsp-2017/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-2017/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-2017/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unmixing of multispectral photoacoustic images</title>
-      <link>https://example.com/publication/gretsi-17/</link>
+      <link>https://andferrari.github.io/publication/gretsi-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-17/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributed approach for deblurring large images with shift-variant blur</title>
-      <link>https://example.com/publication/mourya-2017/</link>
+      <link>https://andferrari.github.io/publication/mourya-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mourya-2017/</guid>
+      <guid>https://andferrari.github.io/publication/mourya-2017/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parallel image reconstruction for multi-frequency radio-interferometry</title>
-      <link>https://example.com/publication/basp-17/</link>
+      <link>https://andferrari.github.io/publication/basp-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/basp-17/</guid>
+      <guid>https://andferrari.github.io/publication/basp-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Telemetry Monitoring System Using the One-Class SVM Method</title>
-      <link>https://example.com/publication/wccm-17/</link>
+      <link>https://andferrari.github.io/publication/wccm-17/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wccm-17/</guid>
+      <guid>https://andferrari.github.io/publication/wccm-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Method for detecting atypical behaviour of telemetry parameters, and associated computer program product and device</title>
-      <link>https://example.com/publication/patent-17/</link>
+      <link>https://andferrari.github.io/publication/patent-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/patent-17/</guid>
+      <guid>https://andferrari.github.io/publication/patent-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-frequency image reconstruction for radio-interferometry with self-tuned regularization parameters</title>
-      <link>https://example.com/publication/eusipco-17/</link>
+      <link>https://andferrari.github.io/publication/eusipco-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-17/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonlinear Unmixing of Hyperspectral Data With Vector-Valued Kernel Functions</title>
-      <link>https://example.com/publication/art-tip-17/</link>
+      <link>https://andferrari.github.io/publication/art-tip-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tip-17/</guid>
+      <guid>https://andferrari.github.io/publication/art-tip-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proximal Multitask Learning Over Networks With Sparsity-Inducing Coregularization</title>
-      <link>https://example.com/publication/art-tsp-16-2/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-16-2/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-16-2/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-16-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diffusion LMS over multitask networks with noisy links</title>
-      <link>https://example.com/publication/asilomar-16/</link>
+      <link>https://andferrari.github.io/publication/asilomar-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-16/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributed Multi-Frequency Image Reconstruction For Radio-Interferometry</title>
-      <link>https://example.com/publication/eusipco-16-2/</link>
+      <link>https://andferrari.github.io/publication/eusipco-16-2/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-16-2/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-16-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast and robust detection of a known pattern in an image</title>
-      <link>https://example.com/publication/ope-16/</link>
+      <link>https://andferrari.github.io/publication/ope-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ope-16/</guid>
+      <guid>https://andferrari.github.io/publication/ope-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proximity operators for phase retrieval</title>
-      <link>https://example.com/publication/art-osa-16/</link>
+      <link>https://andferrari.github.io/publication/art-osa-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-osa-16/</guid>
+      <guid>https://andferrari.github.io/publication/art-osa-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast and robust exo-planet detection in multi-spectral, multi-temporal data</title>
-      <link>https://example.com/publication/spie-16-b/</link>
+      <link>https://andferrari.github.io/publication/spie-16-b/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-16-b/</guid>
+      <guid>https://andferrari.github.io/publication/spie-16-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast and robust exo-planet detection in multi-spectral, multi-temporal data</title>
-      <link>https://example.com/publication/spie-16-c/</link>
+      <link>https://andferrari.github.io/publication/spie-16-c/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-16-c/</guid>
+      <guid>https://andferrari.github.io/publication/spie-16-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Interbands phase models for polychromatic image reconstruction in optical interferometry</title>
-      <link>https://example.com/publication/spie-16-a/</link>
+      <link>https://andferrari.github.io/publication/spie-16-a/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-16-a/</guid>
+      <guid>https://andferrari.github.io/publication/spie-16-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The 2016 Interferometric Imaging Beauty Contest</title>
-      <link>https://example.com/publication/spie-16-d/</link>
+      <link>https://andferrari.github.io/publication/spie-16-d/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-16-d/</guid>
+      <guid>https://andferrari.github.io/publication/spie-16-d/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multitask Diffusion Adaptation Over Asynchronous Networks</title>
-      <link>https://example.com/publication/art-tsp-16/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-16/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spatial regularization for nonlinear unmixing of hyperspectral data with vector-valued kernel functions</title>
-      <link>https://example.com/publication/ssp-16/</link>
+      <link>https://andferrari.github.io/publication/ssp-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssp-16/</guid>
+      <guid>https://andferrari.github.io/publication/ssp-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improving Spacecraft Health Monitoring with Automatic Anomaly Detection Techniques</title>
-      <link>https://example.com/publication/spaceops-16/</link>
+      <link>https://andferrari.github.io/publication/spaceops-16/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spaceops-16/</guid>
+      <guid>https://andferrari.github.io/publication/spaceops-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diffusion LMS over multitask networks with noisy links</title>
-      <link>https://example.com/publication/icassp-16/</link>
+      <link>https://andferrari.github.io/publication/icassp-16/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-16/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised neighbor dependent nonlinear unmixing</title>
-      <link>https://example.com/publication/icassp-16-2/</link>
+      <link>https://andferrari.github.io/publication/icassp-16-2/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-16-2/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-16-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MAGELLAN</title>
-      <link>https://example.com/project/magellan/</link>
+      <link>https://andferrari.github.io/project/magellan/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/magellan/</guid>
+      <guid>https://andferrari.github.io/project/magellan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithmic aspects for the reconstruction of spatio-spectral data cubes in the perspective of the SKA</title>
-      <link>https://example.com/publication/sf-2-a-16/</link>
+      <link>https://andferrari.github.io/publication/sf-2-a-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sf-2-a-16/</guid>
+      <guid>https://andferrari.github.io/publication/sf-2-a-16/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation distribuée sur les réseaux multitâches en présence d&#39;échanges d&#39;informations bruitées</title>
-      <link>https://example.com/publication/gretsi-15/</link>
+      <link>https://andferrari.github.io/publication/gretsi-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-15/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Large scale 3D image reconstruction in optical interferometry</title>
-      <link>https://example.com/publication/eusipco-15/</link>
+      <link>https://andferrari.github.io/publication/eusipco-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-15/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modèle non-linéaire et semi-paramétrique pour le démélange non-supervisé d&#39;images hyperspectrales</title>
-      <link>https://example.com/publication/gretsi-15-2/</link>
+      <link>https://andferrari.github.io/publication/gretsi-15-2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-15-2/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-15-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-frequency image reconstruction for radio interferometry. A regularized inverse problem approach</title>
-      <link>https://example.com/publication/sparks-15/</link>
+      <link>https://andferrari.github.io/publication/sparks-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sparks-15/</guid>
+      <guid>https://andferrari.github.io/publication/sparks-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MAHI</title>
-      <link>https://example.com/project/mahi/</link>
+      <link>https://andferrari.github.io/project/mahi/</link>
       <pubDate>Mon, 15 Jun 2015 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/mahi/</guid>
+      <guid>https://andferrari.github.io/project/mahi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyperspectral data unmixing with graph-based regularization</title>
-      <link>https://example.com/publication/whispers-15/</link>
+      <link>https://andferrari.github.io/publication/whispers-15/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/whispers-15/</guid>
+      <guid>https://andferrari.github.io/publication/whispers-15/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A graph Laplacian regularization for hyperspectral data unmixing</title>
-      <link>https://example.com/publication/icassp-15-a/</link>
+      <link>https://andferrari.github.io/publication/icassp-15-a/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-15-a/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-15-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multitask diffusion LMS with sparsity-based regularization</title>
-      <link>https://example.com/publication/icassp-15-b/</link>
+      <link>https://andferrari.github.io/publication/icassp-15-b/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-15-b/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-15-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MASTODONS</title>
-      <link>https://example.com/project/display/</link>
+      <link>https://andferrari.github.io/project/display/</link>
       <pubDate>Thu, 15 Jan 2015 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/display/</guid>
+      <guid>https://andferrari.github.io/project/display/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind and Fully Constrained Unmixing of Hyperspectral Images</title>
-      <link>https://example.com/publication/art-tip-14/</link>
+      <link>https://andferrari.github.io/publication/art-tip-14/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tip-14/</guid>
+      <guid>https://andferrari.github.io/publication/art-tip-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PAINTER: a spatio-spectral image reconstruction algorithm for optical interferometry</title>
-      <link>https://example.com/publication/art-josa-14/</link>
+      <link>https://andferrari.github.io/publication/art-josa-14/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-josa-14/</guid>
+      <guid>https://andferrari.github.io/publication/art-josa-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dimension Reduction for Hypothesis Testing in Worst-Case Scenarios</title>
-      <link>https://example.com/publication/art-tsp-14/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-14/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-14/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Performance analysis of multitask diffusion adaptation over asynchronous networks</title>
-      <link>https://example.com/publication/asilomar-14/</link>
+      <link>https://andferrari.github.io/publication/asilomar-14/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-14/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection of astrophysical sources in hyperspectral data. Applications to the MUSE instrument</title>
-      <link>https://example.com/publication/icip-14/</link>
+      <link>https://andferrari.github.io/publication/icip-14/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icip-14/</guid>
+      <guid>https://andferrari.github.io/publication/icip-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Equivalence between the Posterior Distribution of the Likelihood Ratio and a p-value in an Invariant Frame</title>
-      <link>https://example.com/publication/art-ba-14/</link>
+      <link>https://andferrari.github.io/publication/art-ba-14/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-ba-14/</guid>
+      <guid>https://andferrari.github.io/publication/art-ba-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Non-Asymptotic Standardization of Binomial Counts in Higher Criticism</title>
-      <link>https://example.com/publication/isit-14/</link>
+      <link>https://andferrari.github.io/publication/isit-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/isit-14/</guid>
+      <guid>https://andferrari.github.io/publication/isit-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributed image reconstruction for very large arrays in radio astronomy</title>
-      <link>https://example.com/publication/sam-14/</link>
+      <link>https://andferrari.github.io/publication/sam-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sam-14/</guid>
+      <guid>https://andferrari.github.io/publication/sam-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GLUP: yet another algorithm for blind unmixing of hyperspectral data</title>
-      <link>https://example.com/publication/whispers-14/</link>
+      <link>https://andferrari.github.io/publication/whispers-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/whispers-14/</guid>
+      <guid>https://andferrari.github.io/publication/whispers-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection de sources astrophysiques dans les données du spectrographe integral de champ MUSE</title>
-      <link>https://example.com/publication/sfpt-14/</link>
+      <link>https://andferrari.github.io/publication/sfpt-14/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sfpt-14/</guid>
+      <guid>https://andferrari.github.io/publication/sfpt-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical characterisation of polychromatic absolute and differential squared visibilities obtained from AMBER/VLTI instrument</title>
-      <link>https://example.com/publication/art-aa-14/</link>
+      <link>https://andferrari.github.io/publication/art-aa-14/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-aa-14/</guid>
+      <guid>https://andferrari.github.io/publication/art-aa-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Subspace learning in minimax detection</title>
-      <link>https://example.com/publication/icassp-14/</link>
+      <link>https://andferrari.github.io/publication/icassp-14/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-14/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-14/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>POLCA</title>
-      <link>https://example.com/project/polca/</link>
+      <link>https://andferrari.github.io/project/polca/</link>
       <pubDate>Wed, 15 Jan 2014 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/polca/</guid>
+      <guid>https://andferrari.github.io/project/polca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution des observables en interférométrie optique polychromatique et impact sur la reconstruction d&#39;images</title>
-      <link>https://example.com/publication/gretsi-13-c/</link>
+      <link>https://andferrari.github.io/publication/gretsi-13-c/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-13-c/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-13-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Group Lasso avec contraintes de positivité et de somme unité pour le dé mé lange non-supervisé des images hyperspectrales</title>
-      <link>https://example.com/publication/gretsi-13-a/</link>
+      <link>https://andferrari.github.io/publication/gretsi-13-a/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-13-a/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-13-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parcimonie, apprentissage et classification pour une approche minimax en détection</title>
-      <link>https://example.com/publication/gretsi-13-b/</link>
+      <link>https://andferrari.github.io/publication/gretsi-13-b/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-13-b/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-13-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Back to Results Minimax sparse detection based on one-class classifiers</title>
-      <link>https://example.com/publication/icassp-13-c/</link>
+      <link>https://andferrari.github.io/publication/icassp-13-c/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-13-c/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-13-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Constrained likelihood ratios for detecting sparse signals in highly noisy 3D data</title>
-      <link>https://example.com/publication/icassp-13-b/</link>
+      <link>https://andferrari.github.io/publication/icassp-13-b/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-13-b/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-13-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Models with products of Dirichlet processes</title>
-      <link>https://example.com/publication/icassp-13-a/</link>
+      <link>https://andferrari.github.io/publication/icassp-13-a/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-13-a/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-13-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nonlinear unmixing of hyperspectral data with partially linear least-squares support vector regression</title>
-      <link>https://example.com/publication/icassp-13-d/</link>
+      <link>https://andferrari.github.io/publication/icassp-13-d/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-13-d/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-13-d/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection Tests Using Sparse Models, With Application to Hyperspectral Data</title>
-      <link>https://example.com/publication/art-tsp-13/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-13/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Concepts in Imaging: Optical and Statistical Models</title>
-      <link>https://example.com/publication/eas-13/</link>
+      <link>https://andferrari.github.io/publication/eas-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eas-13/</guid>
+      <guid>https://andferrari.github.io/publication/eas-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Classification of multivariate data using Dirichlet process mixture models</title>
-      <link>https://example.com/publication/asilomar-12/</link>
+      <link>https://andferrari.github.io/publication/asilomar-12/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asilomar-12/</guid>
+      <guid>https://andferrari.github.io/publication/asilomar-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stationnarité Relative et Approches Connexes</title>
-      <link>https://example.com/publication/art-ts-12/</link>
+      <link>https://andferrari.github.io/publication/art-ts-12/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-ts-12/</guid>
+      <guid>https://andferrari.github.io/publication/art-ts-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive inverse control using kernel identification</title>
-      <link>https://example.com/publication/aac-12/</link>
+      <link>https://andferrari.github.io/publication/aac-12/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/aac-12/</guid>
+      <guid>https://andferrari.github.io/publication/aac-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Generalization of the posterior distribution of the likelihood ratio to composite vs composite hypotheses testing</title>
-      <link>https://example.com/publication/isba-12/</link>
+      <link>https://andferrari.github.io/publication/isba-12/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/isba-12/</guid>
+      <guid>https://andferrari.github.io/publication/isba-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MAP-based sparse detection strategies. Application to the hyperspectral data of the MUSE instrument.</title>
-      <link>https://example.com/publication/ada-12/</link>
+      <link>https://andferrari.github.io/publication/ada-12/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ada-12/</guid>
+      <guid>https://andferrari.github.io/publication/ada-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Advances in Machine Learning and Data Mining for Astronomy</title>
-      <link>https://example.com/publication/chapm-12/</link>
+      <link>https://andferrari.github.io/publication/chapm-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chapm-12/</guid>
+      <guid>https://andferrari.github.io/publication/chapm-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PDR and LRMAP detection tests applied to massive hyperspectral data</title>
-      <link>https://example.com/publication/camsap-11/</link>
+      <link>https://andferrari.github.io/publication/camsap-11/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/camsap-11/</guid>
+      <guid>https://andferrari.github.io/publication/camsap-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Restauration des cubes hyperspectraux du spectro-imageur MUSE</title>
-      <link>https://example.com/publication/gretsi-2011-b/</link>
+      <link>https://andferrari.github.io/publication/gretsi-2011-b/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-2011-b/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-2011-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sparsity-based composite detection tests. Application to astrophysical hyperspectral data</title>
-      <link>https://example.com/publication/eusipco-11/</link>
+      <link>https://andferrari.github.io/publication/eusipco-11/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-11/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sur des tests d&#39;hypothèses composites pour des paramètres parcimonieux</title>
-      <link>https://example.com/publication/gretsi-2011-a/</link>
+      <link>https://andferrari.github.io/publication/gretsi-2011-a/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-2011-a/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-2011-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Composite hypothesis tests for sparse parameters</title>
-      <link>https://example.com/publication/ssp-11/</link>
+      <link>https://andferrari.github.io/publication/ssp-11/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssp-11/</guid>
+      <guid>https://andferrari.github.io/publication/ssp-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Transitional surrogates</title>
-      <link>https://example.com/publication/icassp-11/</link>
+      <link>https://andferrari.github.io/publication/icassp-11/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-11/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apodized Lyot coronagraph for SPHERE/VLT</title>
-      <link>https://example.com/publication/art-expa-11/</link>
+      <link>https://andferrari.github.io/publication/art-expa-11/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-expa-11/</guid>
+      <guid>https://andferrari.github.io/publication/art-expa-11/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SSP 2011</title>
-      <link>https://example.com/project/ssp11/</link>
+      <link>https://andferrari.github.io/project/ssp11/</link>
       <pubDate>Sat, 15 Jan 2011 02:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ssp11/</guid>
+      <guid>https://andferrari.github.io/project/ssp11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JITHDE</title>
-      <link>https://example.com/project/jithde/</link>
+      <link>https://andferrari.github.io/project/jithde/</link>
       <pubDate>Sat, 15 Jan 2011 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/jithde/</guid>
+      <guid>https://andferrari.github.io/project/jithde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital Spectral Analysis: Parametric, Non-Parametric and Advanced Methods</title>
-      <link>https://example.com/publication/wiley/</link>
+      <link>https://andferrari.github.io/publication/wiley/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/wiley/</guid>
+      <guid>https://andferrari.github.io/publication/wiley/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian detection with the posterior distribution of the likelihood ratio</title>
-      <link>https://example.com/publication/eusipco-10/</link>
+      <link>https://andferrari.github.io/publication/eusipco-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-10/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Classic adaptive optics: disturbance rejection control</title>
-      <link>https://example.com/publication/spie-10-b/</link>
+      <link>https://andferrari.github.io/publication/spie-10-b/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-10-b/</guid>
+      <guid>https://andferrari.github.io/publication/spie-10-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparison of methods for detection and characterization of exoplanets with SPHERE/IRDIS</title>
-      <link>https://example.com/publication/spie-10-a/</link>
+      <link>https://andferrari.github.io/publication/spie-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-10-a/</guid>
+      <guid>https://andferrari.github.io/publication/spie-10-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Distributed learning with kernels in wireless sensor networks for physical phenomena modeling and tracking</title>
-      <link>https://example.com/publication/igarss-10-b/</link>
+      <link>https://andferrari.github.io/publication/igarss-10-b/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/igarss-10-b/</guid>
+      <guid>https://andferrari.github.io/publication/igarss-10-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Joint myopic deconvolution</title>
-      <link>https://example.com/publication/art-ip-09/</link>
+      <link>https://andferrari.github.io/publication/art-ip-09/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-ip-09/</guid>
+      <guid>https://andferrari.github.io/publication/art-ip-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Some results on disturbance rejection control for an adaptive optics system</title>
-      <link>https://example.com/publication/sf-2-a-10/</link>
+      <link>https://andferrari.github.io/publication/sf-2-a-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sf-2-a-10/</guid>
+      <guid>https://andferrari.github.io/publication/sf-2-a-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Posterior distribution of the Likelihood Ratio as a measure of evidence</title>
-      <link>https://example.com/publication/maxent-10/</link>
+      <link>https://andferrari.github.io/publication/maxent-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/maxent-10/</guid>
+      <guid>https://andferrari.github.io/publication/maxent-10/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Transductive kernel matrix learning with hierarchic Bayesian model, application to hyperspectral images</title>
-      <link>https://example.com/publication/igarss-10-a/</link>
+      <link>https://andferrari.github.io/publication/igarss-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/igarss-10-a/</guid>
+      <guid>https://andferrari.github.io/publication/igarss-10-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection of a moving source in speckle noise. Application to exoplanet detection</title>
-      <link>https://example.com/publication/art-tsp-07/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-07/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-07/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analytical computation of the Lyot coronagraph response to an extended source</title>
-      <link>https://example.com/publication/art-apj-09-b/</link>
+      <link>https://andferrari.github.io/publication/art-apj-09-b/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-apj-09-b/</guid>
+      <guid>https://andferrari.github.io/publication/art-apj-09-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apodized pupil Lyot coronagraphs for arbitrary apertures. II. theoretical properties and application to extremely large telescopes.</title>
-      <link>https://example.com/publication/art-apj-09-a/</link>
+      <link>https://andferrari.github.io/publication/art-apj-09-a/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-apj-09-a/</guid>
+      <guid>https://andferrari.github.io/publication/art-apj-09-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection d&#39;exoplanètes par imagerie directe, une approche Bayesienne</title>
-      <link>https://example.com/publication/gretsi-2009/</link>
+      <link>https://andferrari.github.io/publication/gretsi-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-2009/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-2009/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection from a multi-channel sensor using a hierarchical Bayesian model</title>
-      <link>https://example.com/publication/icassp-09/</link>
+      <link>https://andferrari.github.io/publication/icassp-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-09/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-09/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lois de Poisson mélangées multivariées : application à la détection en présence de speckles</title>
-      <link>https://example.com/publication/art-tsi-08/</link>
+      <link>https://andferrari.github.io/publication/art-tsi-08/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsi-08/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsi-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apodized apertures for solar coronagraphy</title>
-      <link>https://example.com/publication/spie-08-c/</link>
+      <link>https://andferrari.github.io/publication/spie-08-c/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-08-c/</guid>
+      <guid>https://andferrari.github.io/publication/spie-08-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection and performance analysis for a moving point source in speckle noise, application to exoplanet detection by direct imaging.</title>
-      <link>https://example.com/publication/icassp-08/</link>
+      <link>https://andferrari.github.io/publication/icassp-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-08/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Simulation of moving exoplanets detection using the VLT instrument SPHERE/IRDIS</title>
-      <link>https://example.com/publication/spie-08-a/</link>
+      <link>https://andferrari.github.io/publication/spie-08-a/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-08-a/</guid>
+      <guid>https://andferrari.github.io/publication/spie-08-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Software Package SPHERE: a CAOS-based numerical tool for end-to-end simulations of SPHERE/VLT</title>
-      <link>https://example.com/publication/spie-08-b/</link>
+      <link>https://andferrari.github.io/publication/spie-08-b/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-08-b/</guid>
+      <guid>https://andferrari.github.io/publication/spie-08-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The study of an iterative method for the reconstruction of images corrupted by Poisson and Gaussian noise</title>
-      <link>https://example.com/publication/art-ip-08/</link>
+      <link>https://andferrari.github.io/publication/art-ip-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-ip-08/</guid>
+      <guid>https://andferrari.github.io/publication/art-ip-08/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An exoplanet detection algorithm for field-rotated coronagraphic images, and preliminary results for SPHERE</title>
-      <link>https://example.com/publication/sf-2-a-07/</link>
+      <link>https://andferrari.github.io/publication/sf-2-a-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sf-2-a-07/</guid>
+      <guid>https://andferrari.github.io/publication/sf-2-a-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An introduction to stellar coronagraphy</title>
-      <link>https://example.com/publication/art-cras-07/</link>
+      <link>https://andferrari.github.io/publication/art-cras-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-cras-07/</guid>
+      <guid>https://andferrari.github.io/publication/art-cras-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analytical Analysis of Lyot Coronographs Response</title>
-      <link>https://example.com/publication/art-apj-07/</link>
+      <link>https://andferrari.github.io/publication/art-apj-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-apj-07/</guid>
+      <guid>https://andferrari.github.io/publication/art-apj-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bivariate Gamma Distributions for Image Registration and Change Detection</title>
-      <link>https://example.com/publication/art-tip-07/</link>
+      <link>https://andferrari.github.io/publication/art-tip-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tip-07/</guid>
+      <guid>https://andferrari.github.io/publication/art-tip-07/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection d&#39;exoplanètes à l&#39;aide de méthodes des moments</title>
-      <link>https://example.com/publication/gretsi-2007/</link>
+      <link>https://andferrari.github.io/publication/gretsi-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-2007/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-2007/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Exponential families of mixed Poisson distributions</title>
-      <link>https://example.com/publication/art-jmva-06/</link>
+      <link>https://andferrari.github.io/publication/art-jmva-06/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-jmva-06/</guid>
+      <guid>https://andferrari.github.io/publication/art-jmva-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Speckle noise and dynamic range in coronagraphic images</title>
-      <link>https://example.com/publication/art-apj-07-b/</link>
+      <link>https://andferrari.github.io/publication/art-apj-07-b/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-apj-07-b/</guid>
+      <guid>https://andferrari.github.io/publication/art-apj-07-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Strehl ratio estimation and statistics in adaptive optics images</title>
-      <link>https://example.com/publication/art-apj-07-l/</link>
+      <link>https://andferrari.github.io/publication/art-apj-07-l/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-apj-07-l/</guid>
+      <guid>https://andferrari.github.io/publication/art-apj-07-l/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apodized Pupil Lyot Coronagraphs: Concepts and application to the Gemini Planet Imager</title>
-      <link>https://example.com/publication/iauc-05-c/</link>
+      <link>https://andferrari.github.io/publication/iauc-05-c/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iauc-05-c/</guid>
+      <guid>https://andferrari.github.io/publication/iauc-05-c/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging III</title>
-      <link>https://example.com/publication/ithd-06-b/</link>
+      <link>https://andferrari.github.io/publication/ithd-06-b/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ithd-06-b/</guid>
+      <guid>https://andferrari.github.io/publication/ithd-06-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging III</title>
-      <link>https://example.com/publication/ithd-06/</link>
+      <link>https://andferrari.github.io/publication/ithd-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ithd-06/</guid>
+      <guid>https://andferrari.github.io/publication/ithd-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Processing for Exoplanet Detection Using Direct Imaging</title>
-      <link>https://example.com/publication/iauc-05-a/</link>
+      <link>https://andferrari.github.io/publication/iauc-05-a/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iauc-05-a/</guid>
+      <guid>https://andferrari.github.io/publication/iauc-05-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parameter estimation for multivariate Gamma distributions, application to image registration</title>
-      <link>https://example.com/publication/eusipco-06/</link>
+      <link>https://andferrari.github.io/publication/eusipco-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-06/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parameter Estimation for Multivariate Mixed Poisson Distributions</title>
-      <link>https://example.com/publication/icassp-06/</link>
+      <link>https://andferrari.github.io/publication/icassp-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-06/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Speckle statistics in direct and coronagraphic imaging</title>
-      <link>https://example.com/publication/iauc-05-b/</link>
+      <link>https://andferrari.github.io/publication/iauc-05-b/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iauc-05-b/</guid>
+      <guid>https://andferrari.github.io/publication/iauc-05-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A UMP Unbiaised test for target Detection in Active Coherent Images</title>
-      <link>https://example.com/publication/psip-05/</link>
+      <link>https://andferrari.github.io/publication/psip-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/psip-05/</guid>
+      <guid>https://andferrari.github.io/publication/psip-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analyse Statistique de la Détection de Planète par Imagerie Directe</title>
-      <link>https://example.com/publication/gretsi-05/</link>
+      <link>https://andferrari.github.io/publication/gretsi-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-05/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spectral Analysis: Parametric And Non-parametric Digital Methods</title>
-      <link>https://example.com/publication/iste/</link>
+      <link>https://andferrari.github.io/publication/iste/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iste/</guid>
+      <guid>https://andferrari.github.io/publication/iste/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Noncentral Wishart Distribution: Properties and Application to Speckle Imaging</title>
-      <link>https://example.com/publication/ssp-05/</link>
+      <link>https://andferrari.github.io/publication/ssp-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssp-05/</guid>
+      <guid>https://andferrari.github.io/publication/ssp-05/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cramer-Rao Lower Bounds in Additive and Multiplicative Noise</title>
-      <link>https://example.com/publication/art-sp-03/</link>
+      <link>https://andferrari.github.io/publication/art-sp-03/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-03/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection Performance for Discrete Test Statistics. Application to Low-Flux Imagery</title>
-      <link>https://example.com/publication/icassp-04/</link>
+      <link>https://andferrari.github.io/publication/icassp-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-04/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-04/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fringe visibility estimation in Michelson stellar interferometry: asymptotic performances</title>
-      <link>https://example.com/publication/art-iop-03/</link>
+      <link>https://andferrari.github.io/publication/art-iop-03/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-iop-03/</guid>
+      <guid>https://andferrari.github.io/publication/art-iop-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multivariate Mixed Poisson distributions</title>
-      <link>https://example.com/publication/eusipco-04/</link>
+      <link>https://andferrari.github.io/publication/eusipco-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-04/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-04/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Signaux Aléatoires, Modélisation Estimation Détection</title>
-      <link>https://example.com/publication/ic-2-detec/</link>
+      <link>https://andferrari.github.io/publication/ic-2-detec/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ic-2-detec/</guid>
+      <guid>https://andferrari.github.io/publication/ic-2-detec/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Signaux Aléatoires, Modélisation Estimation Détection</title>
-      <link>https://example.com/publication/ic-2-est/</link>
+      <link>https://andferrari.github.io/publication/ic-2-est/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ic-2-est/</guid>
+      <guid>https://andferrari.github.io/publication/ic-2-est/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Traitement statistique du signal et applications à quelques problèmes d&#39;Astrophysique</title>
-      <link>https://example.com/publication/monhdr/</link>
+      <link>https://andferrari.github.io/publication/monhdr/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/monhdr/</guid>
+      <guid>https://andferrari.github.io/publication/monhdr/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analysis of Flux Variation Detection in Poisson Processes, Application to Direct Detection of Extra-solar Planets</title>
-      <link>https://example.com/publication/psip-03/</link>
+      <link>https://andferrari.github.io/publication/psip-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/psip-03/</guid>
+      <guid>https://andferrari.github.io/publication/psip-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Barankin Lower bound for change-points in independent sequences</title>
-      <link>https://example.com/publication/ssp-03/</link>
+      <link>https://andferrari.github.io/publication/ssp-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssp-03/</guid>
+      <guid>https://andferrari.github.io/publication/ssp-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Etude des performances asymptotiques en interféromt́rie des tavelures</title>
-      <link>https://example.com/publication/gretsi-03/</link>
+      <link>https://andferrari.github.io/publication/gretsi-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-03/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-03/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analyse Spectrale</title>
-      <link>https://example.com/publication/ic-2-as/</link>
+      <link>https://andferrari.github.io/publication/ic-2-as/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ic-2-as/</guid>
+      <guid>https://andferrari.github.io/publication/ic-2-as/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging</title>
-      <link>https://example.com/publication/ithd-02/</link>
+      <link>https://andferrari.github.io/publication/ithd-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ithd-02/</guid>
+      <guid>https://andferrari.github.io/publication/ithd-02/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Changepoint detection in multivariate Poisson distributions</title>
-      <link>https://example.com/publication/icassp-02-a/</link>
+      <link>https://andferrari.github.io/publication/icassp-02-a/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-02-a/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-02-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extension of Whittle likelihood to transient signal parameters estimation, application to stellar speckle interferometry</title>
-      <link>https://example.com/publication/eusipco-02-b/</link>
+      <link>https://andferrari.github.io/publication/eusipco-02-b/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-02-b/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-02-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improvement of coronography using optimal apodizations</title>
-      <link>https://example.com/publication/spie-02/</link>
+      <link>https://andferrari.github.io/publication/spie-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/spie-02/</guid>
+      <guid>https://andferrari.github.io/publication/spie-02/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parametric modeling of photometric signals</title>
-      <link>https://example.com/publication/art-sp-01/</link>
+      <link>https://andferrari.github.io/publication/art-sp-01/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-01/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-01/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spectral Modes Estimation using Whittle-type Criterion, Applications to stellar speckle interferometry</title>
-      <link>https://example.com/publication/eusipco-02-a/</link>
+      <link>https://andferrari.github.io/publication/eusipco-02-a/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-02-a/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-02-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Total coronographic extinction of rectangular apertures using linear prolate apodizations</title>
-      <link>https://example.com/publication/art-aa-01-b/</link>
+      <link>https://andferrari.github.io/publication/art-aa-01-b/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-aa-01-b/</guid>
+      <guid>https://andferrari.github.io/publication/art-aa-01-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MATIS</title>
-      <link>https://example.com/project/matis/</link>
+      <link>https://andferrari.github.io/project/matis/</link>
       <pubDate>Mon, 15 Jan 2001 01:00:00 +0000</pubDate>
-      <guid>https://example.com/project/matis/</guid>
+      <guid>https://andferrari.github.io/project/matis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Étude Statistique de la Détection d&#39;Exo-Planètes en Imagerie Courte Pose</title>
-      <link>https://example.com/publication/gretsi-01-1/</link>
+      <link>https://andferrari.github.io/publication/gretsi-01-1/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-01-1/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-01-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Interferometric apodization of rectangular apertures. Application to stellar coronography</title>
-      <link>https://example.com/publication/art-aa-01-a/</link>
+      <link>https://andferrari.github.io/publication/art-aa-01-a/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-aa-01-a/</guid>
+      <guid>https://andferrari.github.io/publication/art-aa-01-a/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Le modèle harmonique stochastique et son application au rehaussement de signal de parole</title>
-      <link>https://example.com/publication/gretsi-01-2/</link>
+      <link>https://andferrari.github.io/publication/gretsi-01-2/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-01-2/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-01-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Marginal Bayesian analysis of Polynomial-Phase Signals</title>
-      <link>https://example.com/publication/art-sp-99/</link>
+      <link>https://andferrari.github.io/publication/art-sp-99/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-99/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-99/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cramer-Rao Lower Bound on Parameters of Abrupt Changes Corrupted by Additive and Multiplicative Noise</title>
-      <link>https://example.com/publication/icassp-00/</link>
+      <link>https://andferrari.github.io/publication/icassp-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-00/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-00/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical Analysis of a Parametric Model for Photometric Signals</title>
-      <link>https://example.com/publication/eusipco-00/</link>
+      <link>https://andferrari.github.io/publication/eusipco-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-00/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-00/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical Analysis of SMF Algorithm for Polynomial Phase Signal Analysis</title>
-      <link>https://example.com/publication/ssap-00/</link>
+      <link>https://andferrari.github.io/publication/ssap-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssap-00/</guid>
+      <guid>https://andferrari.github.io/publication/ssap-00/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analyse Statistique de SMF pour l&#39;étude des signaux à phase polynômiale</title>
-      <link>https://example.com/publication/gretsi-99-1/</link>
+      <link>https://andferrari.github.io/publication/gretsi-99-1/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-99-1/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-99-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection of extra solar planets using parametric modeling</title>
-      <link>https://example.com/publication/icassp-99/</link>
+      <link>https://andferrari.github.io/publication/icassp-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-99/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-99/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation Spectrale Paramétrique de Modes Corréllés, Application à l&#39;Héliosismologie</title>
-      <link>https://example.com/publication/gretsi-99-2/</link>
+      <link>https://andferrari.github.io/publication/gretsi-99-2/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-99-2/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-99-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parametric representation of helioseismic data. Part 1: a method for estimation of mode correlation</title>
-      <link>https://example.com/publication/art-aa-99/</link>
+      <link>https://andferrari.github.io/publication/art-aa-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-aa-99/</guid>
+      <guid>https://andferrari.github.io/publication/art-aa-99/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Parametric Model of the Solar Full-disk Seismological Signal</title>
-      <link>https://example.com/publication/soho-98-2/</link>
+      <link>https://andferrari.github.io/publication/soho-98-2/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/soho-98-2/</guid>
+      <guid>https://andferrari.github.io/publication/soho-98-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AR Spectral Analysis with Random Missing Observations</title>
-      <link>https://example.com/publication/ssap-98/</link>
+      <link>https://andferrari.github.io/publication/ssap-98/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ssap-98/</guid>
+      <guid>https://andferrari.github.io/publication/ssap-98/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Parametric Estimation of Correlation in Solar Oscillations</title>
-      <link>https://example.com/publication/soho-98-1/</link>
+      <link>https://andferrari.github.io/publication/soho-98-1/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/soho-98-1/</guid>
+      <guid>https://andferrari.github.io/publication/soho-98-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian Estimation of the Parameters of a Polynomial Phase Signal using MCMC methods</title>
-      <link>https://example.com/publication/icassp-97-2/</link>
+      <link>https://andferrari.github.io/publication/icassp-97-2/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-97-2/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-97-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection bayésienne de saut de fréquence par des méthodes MCMC</title>
-      <link>https://example.com/publication/gretsi-97/</link>
+      <link>https://andferrari.github.io/publication/gretsi-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-97/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-97/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Doppler Ambiguity Resolution Using Multiple PRF</title>
-      <link>https://example.com/publication/art-taes-97/</link>
+      <link>https://andferrari.github.io/publication/art-taes-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-taes-97/</guid>
+      <guid>https://andferrari.github.io/publication/art-taes-97/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sampling Jitter Detection using Higher-Order Statistics</title>
-      <link>https://example.com/publication/hos-97/</link>
+      <link>https://andferrari.github.io/publication/hos-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hos-97/</guid>
+      <guid>https://andferrari.github.io/publication/hos-97/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spectral Estimation of a Gaussian Signal Sampled with Jitter</title>
-      <link>https://example.com/publication/icassp-97-1/</link>
+      <link>https://andferrari.github.io/publication/icassp-97-1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-97-1/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-97-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection and Estimation of Changes in a Polynomial-Phase Signal using the DPPT</title>
-      <link>https://example.com/publication/eusipco-96-2/</link>
+      <link>https://andferrari.github.io/publication/eusipco-96-2/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-96-2/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-96-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Polynomial phase signal analysis using stationary moments</title>
-      <link>https://example.com/publication/art-sp-96/</link>
+      <link>https://andferrari.github.io/publication/art-sp-96/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-96/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-96/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stationary moments of a polynomial phase signal, application to parameter estimation</title>
-      <link>https://example.com/publication/eusipco-96-1/</link>
+      <link>https://andferrari.github.io/publication/eusipco-96-1/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-96-1/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-96-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A parametric model for the quadratic sampling of a bandlimited signal</title>
-      <link>https://example.com/publication/icassp-95/</link>
+      <link>https://andferrari.github.io/publication/icassp-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-95/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-95/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection Séquentielle de Sauts dans les Paramètres d&#39;un Signal à Fréquence Polynomiale</title>
-      <link>https://example.com/publication/gretsi-95/</link>
+      <link>https://andferrari.github.io/publication/gretsi-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-95/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-95/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Doppler Ambiguity Resolution Using Staggered PRF with a New Chirp Sweep Rate Estimation Algorithm</title>
-      <link>https://example.com/publication/art-ieef-95/</link>
+      <link>https://andferrari.github.io/publication/art-ieef-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-ieef-95/</guid>
+      <guid>https://andferrari.github.io/publication/art-ieef-95/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimization of Sampling Instants for Non Ambiguous Radar Doppler Frequency Estimation</title>
-      <link>https://example.com/publication/sampta-95/</link>
+      <link>https://andferrari.github.io/publication/sampta-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sampta-95/</guid>
+      <guid>https://andferrari.github.io/publication/sampta-95/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blind Bursts Handling in Doppler Ambiguity Resolution for Multiple PRF Radar</title>
-      <link>https://example.com/publication/radar-94/</link>
+      <link>https://andferrari.github.io/publication/radar-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/radar-94/</guid>
+      <guid>https://andferrari.github.io/publication/radar-94/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection and Estimation of Simultaneous Multiple Phase or Amplitude Jumps in Noisy Sinusoidal Processes</title>
-      <link>https://example.com/publication/cdc-94/</link>
+      <link>https://andferrari.github.io/publication/cdc-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cdc-94/</guid>
+      <guid>https://andferrari.github.io/publication/cdc-94/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High Order Ergodicity of a Complex Sinusoidal Process</title>
-      <link>https://example.com/publication/art-tit-94/</link>
+      <link>https://andferrari.github.io/publication/art-tit-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tit-94/</guid>
+      <guid>https://andferrari.github.io/publication/art-tit-94/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cartographie Doppler et Détection de Cibles Radar</title>
-      <link>https://example.com/publication/gretsi-93-2/</link>
+      <link>https://andferrari.github.io/publication/gretsi-93-2/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-93-2/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-93-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation Doppler Radar Non Ambigüe</title>
-      <link>https://example.com/publication/gretsi-93-1/</link>
+      <link>https://andferrari.github.io/publication/gretsi-93-1/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-93-1/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-93-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Numerical Experiments with One Dimensional Adaptive Cubic Algorithm</title>
-      <link>https://example.com/publication/art-goca-93/</link>
+      <link>https://andferrari.github.io/publication/art-goca-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-goca-93/</guid>
+      <guid>https://andferrari.github.io/publication/art-goca-93/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overdetermined Noise Compensation Without Eigendecomposition for Frequency Estimation</title>
-      <link>https://example.com/publication/icassp-93/</link>
+      <link>https://andferrari.github.io/publication/icassp-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-93/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-93/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contribution à l&#39;Etude et au Développement de Méthodes ``Haute Résolution&#39;&#39; en Analyse Spectrale</title>
-      <link>https://example.com/publication/mathese/</link>
+      <link>https://andferrari.github.io/publication/mathese/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/mathese/</guid>
+      <guid>https://andferrari.github.io/publication/mathese/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detection of changes in a nonstationary signal using a time varying AR modelling</title>
-      <link>https://example.com/publication/icdsp-91/</link>
+      <link>https://andferrari.github.io/publication/icdsp-91/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icdsp-91/</guid>
+      <guid>https://andferrari.github.io/publication/icdsp-91/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation of the Fundamental Frequency of a Noisy Sum of Cisoids with Harmonic Related Frequencies</title>
-      <link>https://example.com/publication/icassp-92/</link>
+      <link>https://andferrari.github.io/publication/icassp-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-92/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-92/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation of the Fundamental Frequency of a Noisy Sum of Cisoids with Harmonic Related Frequencies - Application to SONAR Multipath Delay Estimation</title>
-      <link>https://example.com/publication/eusipco-92-2/</link>
+      <link>https://andferrari.github.io/publication/eusipco-92-2/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-92-2/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-92-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improvements of a State-Space Iterative Noise Reduction Algorithm for Harmonic Retrieval</title>
-      <link>https://example.com/publication/art-tsp-92/</link>
+      <link>https://andferrari.github.io/publication/art-tsp-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-tsp-92/</guid>
+      <guid>https://andferrari.github.io/publication/art-tsp-92/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Approach to Estimation of the Frequency of a Noisy Cisoid</title>
-      <link>https://example.com/publication/eusipco-92-1/</link>
+      <link>https://andferrari.github.io/publication/eusipco-92-1/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-92-1/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-92-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Numerical Experiments with One Dimensional Adaptive Cubic Algorithm</title>
-      <link>https://example.com/publication/galpconf/</link>
+      <link>https://andferrari.github.io/publication/galpconf/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/galpconf/</guid>
+      <guid>https://andferrari.github.io/publication/galpconf/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A new state-space algorithm for computing the frequencies of sinusoids in white noise</title>
-      <link>https://example.com/publication/art-sp-91/</link>
+      <link>https://andferrari.github.io/publication/art-sp-91/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-sp-91/</guid>
+      <guid>https://andferrari.github.io/publication/art-sp-91/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A single frequency efficient estimator</title>
-      <link>https://example.com/publication/art-elec-91/</link>
+      <link>https://andferrari.github.io/publication/art-elec-91/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/art-elec-91/</guid>
+      <guid>https://andferrari.github.io/publication/art-elec-91/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Détection de trajets multiples se signaux sonar par modélisation évolutive</title>
-      <link>https://example.com/publication/gretsi-91-1/</link>
+      <link>https://andferrari.github.io/publication/gretsi-91-1/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-91-1/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-91-1/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation de la fréquence fondamentale d&#39;une somme bruitée de cisoides de fréquence harmonique</title>
-      <link>https://example.com/publication/gretsi-91-2/</link>
+      <link>https://andferrari.github.io/publication/gretsi-91-2/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gretsi-91-2/</guid>
+      <guid>https://andferrari.github.io/publication/gretsi-91-2/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimation of the frequencies of a complex sinusoidal noisy signal using fourth order statistics</title>
-      <link>https://example.com/publication/icassp-91/</link>
+      <link>https://andferrari.github.io/publication/icassp-91/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-91/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-91/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A state space approach for computing Pisarenko&#39;s frequencies</title>
-      <link>https://example.com/publication/eusipco-90/</link>
+      <link>https://andferrari.github.io/publication/eusipco-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eusipco-90/</guid>
+      <guid>https://andferrari.github.io/publication/eusipco-90/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spectral estimation methods avoiding eigenvector decomposition</title>
-      <link>https://example.com/publication/icassp-90/</link>
+      <link>https://andferrari.github.io/publication/icassp-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-90/</guid>
+      <guid>https://andferrari.github.io/publication/icassp-90/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
