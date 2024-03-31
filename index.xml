@@ -751,6 +751,7 @@ preferentially carried out in julia, python or matlab.&lt;/p&gt;
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/post/phdorigins/</guid>
       <description>&lt;h2 id=&#34;image-reconstruction-in-high-contrast-polarimetricimaging-using-data-driven-models&#34;&gt;Image reconstruction in high-contrast polarimetric	imaging using data driven models&lt;/h2&gt;
+&lt;p&gt;This PhD is funded by PEPR &lt;a href=&#34;https://pepr-origins.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Origins&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The PhD involves collaboration between Observatoire de la Côte d&amp;rsquo;azur (OCA), Ecole Normal Supérieur de Lyon (ENS) and Centre de Recherche Astrophysique de Lyon (CRAL).  OCA: André Ferrari (PhD supervisor), Simon Prunet (PhD co-supervisor). ENS: Nelly Pustelnik (co-supervisor), Julian Tachella (co-supervisor). CRAL: Maud Langlois (co-supervisor) and Eric Thiébaut (co-supervisor).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Polarimetric imaging, inverse problems, algorithm unfolding, unsupervised learning, plug-and-play algorithms, rotation/scale invariant learning, circumstellar disks imaging&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;PhD project summary&lt;/strong&gt;: Polarimetric imaging is an effective technique for high-contrast imaging and characterization of circumstellar environments. The SPHERE IRDIS instrument installed on the VLT in its DPI mode offers the capability to acquire polarimetric images at high contrast and high angular resolution, but dedicated image processing is needed to remove contamination from stellar light, instrumental polarization effects, and instrumental point spread function blurring. In L. Denneulin PhD [1], an observation model for the differential polarimetric imaging mode of SPHERE/IRDIS was derived. A reconstruction strategy (named Rhapsodie) was then proposed to deconvolve the near-infrared polarization signal from circumstellar environments. Rhapsodie relies on variational techniques including weighted data fidelity term, smooth penalization, and additional constraints.&lt;/p&gt;
@@ -774,6 +775,18 @@ André Ferrari &lt;a href=&#34;mailto:andre.ferrari@univ-cotedazur.fr&#34;&gt;an
 &lt;p&gt;Deadline for applications: 31st May 2024 &lt;br&gt;
 Start date: October 2024 or earlier if available. &lt;br&gt;
 Contract duration: 3 years&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;L. Denneulin, M. Langlois, E. Thi&#39;ebaut, and N. Pustelnik, RHAPSODIE : Reconstruction of High-
+contrAst Polarized SOurces and Deconvolution for cIrcumstellar Environments, A &amp;amp; A, 653, A138 2021.&lt;/li&gt;
+&lt;li&gt;U. S. Kamilov, C. A. Bouman, G. T. Buzzard, and B. Wohlberg, Plug-and-play methods for integrating physical and learned models in computational imaging, IEEE Signal Process. Mag., 2022.&lt;/li&gt;
+&lt;li&gt;M. Jiu, N. Pustelnik, A deep primal-dual proximal network for image restoration, IEEE JSTSP Special Issue on Deep Learning for Image/Video Restoration and Compression, vol. 15, no. 2,pp. 190&amp;ndash;203, Feb. 2021.
+(PDF).&lt;/li&gt;
+&lt;li&gt;J. Tachella, C. Dongdong, and M. Davies. Unsupervised Learning From Incomplete Measurements
+for Inverse Problems, NeurIPS, 2022.&lt;/li&gt;
+&lt;li&gt;M. van den Ende, A. Ferrari, A. Sladen and C. Richard. Deep Deconvolution for Traffic Analysis With Distributed Acoustic Sensing Data. IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 3, pp. 2947-2962, March 2023.&lt;/li&gt;
+&lt;li&gt;M. Weiler and G. Cesa. General E(2)-Equivariant Steerable CNNs. NeurIPS, 2019.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
