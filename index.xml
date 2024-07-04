@@ -728,6 +728,33 @@ preferentially carried out in julia, python or matlab.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Funded engineer position</title>
+      <link>https://andferrari.github.io/post/eng_scity/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/post/eng_scity/</guid>
+      <description>&lt;h2 id=&#34;ingénieure-informatique&#34;&gt;Ingénieur(e) Informatique&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;mots-clés&lt;/strong&gt; : traitement de données, bases de données, machine learning&lt;/p&gt;
+&lt;h2 id=&#34;description-de-la-mission&#34;&gt;Description de la mission&lt;/h2&gt;
+&lt;p&gt;L’emploi s’inscrit dans un projet de création de la Startup SequoIA Analytic. SequoIA Analytics offre des solutions innovantes aux problèmes d&amp;rsquo;analyse de la circulation routière, opérant à distance et immédiatement déployables sur des installations préexistantes. Pour ce faire, SequoIA Analytics traite les données acquises le long de fibres optiques de télécommunication déployées en environnements urbains et périurbains, pour fournir des indicat eurs en temps réel du trafic routier et de l&amp;rsquo;intégrité de routes. Les algorithmes développés dans l’équipe sont issus de l’intelligence artificielle, et permettent de faire le suivi, en temps réel et simultanément, des usages des voies routières et de la géotechnique routière.
+L&amp;rsquo;équipe fondatrice de cette startup est constituée par Cédric Richard et André Ferrari (chercheurs séniors, experts dans le traitement statistique du signal et Machine Learning), Anthony Sladen (chercheur sénior en sismologie, expert en DAS) et Martijn van den Ende (Docteur en sismologie, pionnier dans l&amp;rsquo;utilisation du machine Learning sur de des données DAS). Daniel Mata Flores (Docteur en sciences de la terre, pionnier dans l&amp;rsquo;utilisation des données DAS en océanographie et sismologie) a dernièrement embarqué dans cette aventure en tant que porteur du projet.&lt;/p&gt;
+&lt;h2 id=&#34;descriptif-de-lemploi&#34;&gt;Descriptif de l’emploi&lt;/h2&gt;
+&lt;p&gt;Le poste est ouvert dans un premier temps en CDD pour une durée de 1 an, avec prise de fonction le 1ier septembre 2025.
+L’activité principale de l’ingénieur(e) sera le développement d’un pipeline de traitement de données normalisé, compatible avec la plupart des systèmes d’acquisition existants, et agnostique du point de vue des applications.
+Ces activités incluent : 1. définition d’un standard à partir des données brutes ; 2. ingestion des données et stockage initial ; 3. prétraitement par nettoyage des données, transformation, filtrage ; 4. transfert et échanges avec les unités de traitement distantes ; 5. ingestion des données et stockage intermédiaire ; 6. normalisation des échanges avec les modules de traitement (IA) ; 7. Stockage des résultats d’analyse et diffusion.&lt;/p&gt;
+&lt;h2 id=&#34;profil-recherché&#34;&gt;Profil recherché&lt;/h2&gt;
+&lt;p&gt;Formation Ingénieur(e) Informatique, &amp;ldquo;data scientist&amp;rdquo; ou équivalent (BAC+5).&lt;/p&gt;
+&lt;h2 id=&#34;compétences-requises&#34;&gt;Compétences requises&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Maitrise des environnements de développement&lt;/li&gt;
+&lt;li&gt;Programmation : Python et ses bibliothèques, C&lt;/li&gt;
+&lt;li&gt;Utilisation, gestion de bases de données (chronologique)&lt;/li&gt;
+&lt;li&gt;Compétences	scientifiques	(mathématiques/physique)	appréciées	afin	de mieux appréhender les problèmes traités&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les dossiers de candidature, comprenant un curriculum vitae et une lettre de motivation, doivent être adressés à : &lt;a href=&#34;mailto:andre.ferrari@univ-cotedazur.fr&#34;&gt;andre.ferrari@univ-cotedazur.fr&lt;/a&gt; et &lt;a href=&#34;mailto:daniel.mata-flores@inria.fr&#34;&gt;daniel.mata-flores@inria.fr&lt;/a&gt; avant le 15 juillet 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A comparison of solar and stellar coronagraphs that make use of external occulters</title>
       <link>https://andferrari.github.io/publication/spie-24-b/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
