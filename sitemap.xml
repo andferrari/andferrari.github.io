@@ -30,14 +30,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/eng_scity/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://andferrari.github.io/post/</loc>
-    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://andferrari.github.io/publication/spie-24-b/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,6 +48,14 @@
   </url><url>
     <loc>https://andferrari.github.io/publication/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://andferrari.github.io/post/eng_scity/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://andferrari.github.io/post/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://andferrari.github.io/tag/circumstellar-disks-imaging/</loc>
