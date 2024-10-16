@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 5, 2024 --><html lang="en-us" >
+<!-- Last Published: October 16, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -88,8 +88,6 @@
       
     
     
-      
-        
       
         
       
@@ -295,7 +293,7 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." />
+<meta name="description" content="Professor" />
 
 
 
@@ -331,9 +329,6 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@GetResearchDev" />
-  <meta property="twitter:creator" content="@GetResearchDev" />
 <meta property="twitter:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" />
 
 
@@ -348,7 +343,7 @@
 <meta property="og:site_name" content="André Ferrari" />
 <meta property="og:url" content="https://andferrari.github.io/" />
 <meta property="og:title" content="André Ferrari" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." /><meta property="og:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Professor" /><meta property="og:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta property="og:updated_time" content="2022-10-24T00:00:00&#43;00:00" />
@@ -830,135 +825,6 @@
 
 
 
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section-hero" class="home-section wg-hero dark "  >
- <div class="home-section-bg " style="background-image: linear-gradient(90deg, #004ba0, #1976d2);">
-   
- </div>
-  <div class="container">
-
-  
-
-    
-
-
-
-
-
-
-
-
-
-
-    
-      <h1 class="hero-title">Open engineer position</h1>
-    
-
-    
-      <div class="hero-lead">One year position is open to work on DAS traffic analysis <!--Custom spacing--> <div class="mb-3"></div></div>
-    
-
-    
-    
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-    <p class="cta-btns">
-      <a href="https://andferrari.github.io/post/eng_scity/" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-md-1"><strong>see here</strong></a>
-
-      
-      
-    </p>
-    
-
-    
-    
-
-  
-  
-
-
-  
-
-  </div>
-</section>
-
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1286,6 +1152,195 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/nice_airport/" >Nice airport traffic</a>
+    </div>
+
+    
+    <a href="/post/nice_airport/"  class="summary-link">
+      <div class="article-style">
+        using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly traf_orly = [27_232_263, 28_274_154, 28_862_586, 29_664_993, 31_237_865, 32_042_475, 33_120_685, 31_853_049, 10_797_105, 15_724_580, 29_184_775, missing] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 16, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/post/nice_airport/" >
+        <img src="/post/nice_airport/featured_hu91bbb8ecd3fcf4e3ec87318e903bfd93_40813_150x0_resize_lanczos_1.gif" height="113" width="150"
+            alt="Nice airport traffic" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/wordcloud/" >wordcloud from bib</a>
+    </div>
+
+    
+    <a href="/post/wordcloud/"  class="summary-link">
+      <div class="article-style">
+        Create a wordcloud from .bib file
+using Bibliography, WordCloud function all_words(bib_file)	imported_bib = import_bibtex(bib_file) words = &#34;&#34; for ref in keys(imported_bib) words = string(words, lowercase(imported_bib[ref].title), &#34; &#34;) end words end path = &#34;mybiblio/&#34; words = all_words(path*&#34;mybib.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 16, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/post/wordcloud/" >
+        <img src="/post/wordcloud/featured_hufc0a646cb1b66ffaf459747e08f4697a_71589_150x0_resize_lanczos_1.gif" height="105" width="150"
+            alt="wordcloud from bib" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/eng_scity/" >Funded engineer position</a>
     </div>
 
@@ -1499,189 +1554,6 @@ Description de la mission L’emploi s’inscrit dans un projet de création de 
       
     
     May 7, 2024
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/phdorigins/" >Funded PhD scholarship</a>
-    </div>
-
-    
-    <a href="/post/phdorigins/"  class="summary-link">
-      <div class="article-style">
-        Image reconstruction in high-contrast polarimetric	imaging using data driven models This PhD is funded by PEPR Origins
-The PhD involves collaboration between Observatoire de la Côte d&rsquo;azur (OCA), Ecole Normal Supérieur de Lyon (ENS) and Centre de Recherche Astrophysique de Lyon (CRAL).
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Mar 29, 2024
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    4 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      
-      <a href="/post/phdorigins/" >
-        <img src="/post/phdorigins/featured_hu857d74456d77fffd88a8a03f00ca930d_3240090_7c4f301e690ee7434741148487d9242f.webp" height="140" width="150"
-            alt="Funded PhD scholarship" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/prunedfft/" >PrunedFFT</a>
-    </div>
-
-    
-    <a href="/post/prunedfft/"  class="summary-link">
-      <div class="article-style">
-        You need to compute a subset of the outputs of a 2D FFT with a large zero padding? Try PrunedFFT.jl. It works also on GPU🔥
-using PrunedFFT n = 128 x = rand(n, n) n_pad = 1024 k_span = collect(512:612) f = pruned_fft(x, n_pad, k_span) If CUDA.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 21, 2023
   </span>
   
 
@@ -2173,6 +2045,7 @@ using PrunedFFT n = 128 x = rand(n, n) n_pad = 1024 k_span = collect(512:612) f 
   </span>
   (2024).
   <a href="/publication/aa-24-b/">Multi-Step Reconstruction of Radio-Interferometric Images</a>.
+  <em>Astronomy and Astrophysics</em>.
   
   <p>
 
@@ -3856,7 +3729,7 @@ in AI data analysis WP.</p>
   
 
 
-<script src="/js/vendor-bundle.min.ff7771056d34ad9f2de2d8f6a466e748.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 

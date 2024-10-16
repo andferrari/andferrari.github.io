@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 5, 2024 --><html lang="en-us" >
+<!-- Last Published: October 16, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -279,7 +279,7 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." />
+<meta name="description" content="Professor" />
 
 
 
@@ -315,9 +315,6 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@GetResearchDev" />
-  <meta property="twitter:creator" content="@GetResearchDev" />
 <meta property="twitter:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" />
 
 
@@ -328,10 +325,10 @@
 <meta property="og:site_name" content="André Ferrari" />
 <meta property="og:url" content="https://andferrari.github.io/post/" />
 <meta property="og:title" content="Posts | André Ferrari" />
-<meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder." /><meta property="og:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Professor" /><meta property="og:image" content="https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2024-05-29T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2024-10-16T09:12:58&#43;02:00" />
   
 
 
@@ -797,6 +794,195 @@
   
 
   
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/nice_airport/" >Nice airport traffic</a>
+    </div>
+
+    
+    <a href="/post/nice_airport/"  class="summary-link">
+      <div class="article-style">
+        using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly traf_orly = [27_232_263, 28_274_154, 28_862_586, 29_664_993, 31_237_865, 32_042_475, 33_120_685, 31_853_049, 10_797_105, 15_724_580, 29_184_775, missing] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 16, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/post/nice_airport/" >
+        <img src="/post/nice_airport/featured_hu91bbb8ecd3fcf4e3ec87318e903bfd93_40813_150x0_resize_lanczos_1.gif" height="113" width="150"
+            alt="Nice airport traffic" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/wordcloud/" >wordcloud from bib</a>
+    </div>
+
+    
+    <a href="/post/wordcloud/"  class="summary-link">
+      <div class="article-style">
+        Create a wordcloud from .bib file
+using Bibliography, WordCloud function all_words(bib_file)	imported_bib = import_bibtex(bib_file) words = &#34;&#34; for ref in keys(imported_bib) words = string(words, lowercase(imported_bib[ref].title), &#34; &#34;) end words end path = &#34;mybiblio/&#34; words = all_words(path*&#34;mybib.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 16, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/post/wordcloud/" >
+        <img src="/post/wordcloud/featured_hufc0a646cb1b66ffaf459747e08f4697a_71589_150x0_resize_lanczos_1.gif" height="105" width="150"
+            alt="wordcloud from bib" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
   
     
 
@@ -1521,187 +1707,6 @@ begin using Plots, PlutoUI function DFT_plot(ω₀, N) f(ω) = abs(sin(N*ω/2)/s
 </div>
 
   
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/slsip21/" >SLSIP21 workshop! 😎</a>
-    </div>
-
-    
-    <a href="/post/slsip21/"  class="summary-link">
-      <div class="article-style">
-        First post covid live presentation at SLSIP21!
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Oct 7, 2021
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      
-      <a href="/post/slsip21/" >
-        <img src="/post/slsip21/featured_huff1c5001d1efdb743ad7ffdf8c335916_102812_64e35b7dab05072170b9cf44eb8b88f8.webp" height="68" width="150"
-            alt="SLSIP21 workshop! 😎" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/asilomar2021/" >Martijn&#39;s Asilomar 2021 talk 🥤</a>
-    </div>
-
-    
-    <a href="/post/asilomar2021/"  class="summary-link">
-      <div class="article-style">
-        Martjin Van Ende presentation at 2021 Asilomar conference: Next-Generation Traffic Monitoring with Distributed Acoustic Sensing Arrays and Optimum Array Processing.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 9, 2021
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
 
   
 <nav class="mt-1">
@@ -1814,7 +1819,7 @@ begin using Plots, PlutoUI function DFT_plot(ω₀, N) f(ω) = abs(sin(N*ω/2)/s
   
 
 
-<script src="/js/vendor-bundle.min.ff7771056d34ad9f2de2d8f6a466e748.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
