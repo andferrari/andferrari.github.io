@@ -5,12 +5,20 @@
     <link>https://andferrari.github.io/publication/</link>
       <atom:link href="https://andferrari.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://andferrari.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Leveraging distributed acoustic sensing for vehicle counting in high-traffic-density environments</title>
+      <link>https://andferrari.github.io/publication/asilomar-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/asilomar-24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comparison of solar and stellar coronagraphs that make use of external occulters</title>
@@ -65,8 +73,7 @@
       <link>https://andferrari.github.io/publication/asilomar-23/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-23/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -74,8 +81,7 @@
       <link>https://andferrari.github.io/publication/gretsi-23/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-23/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -115,8 +121,7 @@
       <link>https://andferrari.github.io/publication/asilomar-22/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-22/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -124,8 +129,7 @@
       <link>https://andferrari.github.io/publication/eusipco-22/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-22/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -167,8 +171,7 @@
       <link>https://andferrari.github.io/publication/asilomar-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-21/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -176,8 +179,7 @@
       <link>https://andferrari.github.io/publication/isc-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/isc-21/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -185,8 +187,7 @@
       <link>https://andferrari.github.io/publication/eusipco-20/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-20/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -194,8 +195,7 @@
       <link>https://andferrari.github.io/publication/icassp-20/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-20/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -203,8 +203,7 @@
       <link>https://andferrari.github.io/publication/camsap-19/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/camsap-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -212,8 +211,7 @@
       <link>https://andferrari.github.io/publication/eusipco-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -221,8 +219,7 @@
       <link>https://andferrari.github.io/publication/gretsi-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-19/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -246,8 +243,7 @@
       <link>https://andferrari.github.io/publication/sips-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sips-18/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -255,8 +251,7 @@
       <link>https://andferrari.github.io/publication/eusipco-18/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-18/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -272,8 +267,7 @@
       <link>https://andferrari.github.io/publication/ssp-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssp-18/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -281,8 +275,7 @@
       <link>https://andferrari.github.io/publication/icassp-18/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-18/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -290,8 +283,7 @@
       <link>https://andferrari.github.io/publication/icassp-18-a/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-18-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -316,8 +308,7 @@
       <link>https://andferrari.github.io/publication/gretsi-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-17/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -325,8 +316,7 @@
       <link>https://andferrari.github.io/publication/mourya-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/mourya-2017/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -334,8 +324,7 @@
       <link>https://andferrari.github.io/publication/basp-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/basp-17/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -343,8 +332,7 @@
       <link>https://andferrari.github.io/publication/wccm-17/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/wccm-17/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -361,8 +349,7 @@
       <link>https://andferrari.github.io/publication/eusipco-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-17/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -386,8 +373,7 @@
       <link>https://andferrari.github.io/publication/asilomar-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -395,8 +381,7 @@
       <link>https://andferrari.github.io/publication/eusipco-16-2/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-16-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -404,8 +389,7 @@
       <link>https://andferrari.github.io/publication/ope-16/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ope-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -421,8 +405,7 @@
       <link>https://andferrari.github.io/publication/spie-16-b/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-16-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -430,8 +413,7 @@
       <link>https://andferrari.github.io/publication/spie-16-c/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-16-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -439,8 +421,7 @@
       <link>https://andferrari.github.io/publication/spie-16-a/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-16-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -448,8 +429,7 @@
       <link>https://andferrari.github.io/publication/spie-16-d/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-16-d/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -465,8 +445,7 @@
       <link>https://andferrari.github.io/publication/ssp-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssp-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -474,8 +453,7 @@
       <link>https://andferrari.github.io/publication/spaceops-16/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spaceops-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -483,8 +461,7 @@
       <link>https://andferrari.github.io/publication/icassp-16/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -492,8 +469,7 @@
       <link>https://andferrari.github.io/publication/icassp-16-2/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-16-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -501,8 +477,7 @@
       <link>https://andferrari.github.io/publication/sf-2-a-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sf-2-a-16/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -510,8 +485,7 @@
       <link>https://andferrari.github.io/publication/gretsi-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -519,8 +493,7 @@
       <link>https://andferrari.github.io/publication/eusipco-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -528,8 +501,7 @@
       <link>https://andferrari.github.io/publication/gretsi-15-2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-15-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -537,8 +509,7 @@
       <link>https://andferrari.github.io/publication/sparks-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sparks-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -546,8 +517,7 @@
       <link>https://andferrari.github.io/publication/whispers-15/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/whispers-15/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -555,8 +525,7 @@
       <link>https://andferrari.github.io/publication/icassp-15-a/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-15-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -564,8 +533,7 @@
       <link>https://andferrari.github.io/publication/icassp-15-b/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-15-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -597,8 +565,7 @@
       <link>https://andferrari.github.io/publication/asilomar-14/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -606,8 +573,7 @@
       <link>https://andferrari.github.io/publication/icip-14/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icip-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -623,8 +589,7 @@
       <link>https://andferrari.github.io/publication/isit-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/isit-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -632,8 +597,7 @@
       <link>https://andferrari.github.io/publication/sam-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sam-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -641,8 +605,7 @@
       <link>https://andferrari.github.io/publication/whispers-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/whispers-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -650,8 +613,7 @@
       <link>https://andferrari.github.io/publication/sfpt-14/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sfpt-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -667,8 +629,7 @@
       <link>https://andferrari.github.io/publication/icassp-14/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-14/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -676,8 +637,7 @@
       <link>https://andferrari.github.io/publication/gretsi-13-c/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-13-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -685,8 +645,7 @@
       <link>https://andferrari.github.io/publication/gretsi-13-a/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-13-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -694,8 +653,7 @@
       <link>https://andferrari.github.io/publication/gretsi-13-b/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-13-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -703,8 +661,7 @@
       <link>https://andferrari.github.io/publication/icassp-13-c/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-13-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -712,8 +669,7 @@
       <link>https://andferrari.github.io/publication/icassp-13-b/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-13-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -721,8 +677,7 @@
       <link>https://andferrari.github.io/publication/icassp-13-a/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-13-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -730,8 +685,7 @@
       <link>https://andferrari.github.io/publication/icassp-13-d/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-13-d/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -756,8 +710,7 @@
       <link>https://andferrari.github.io/publication/asilomar-12/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/asilomar-12/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -773,8 +726,7 @@
       <link>https://andferrari.github.io/publication/aac-12/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/aac-12/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -782,8 +734,7 @@
       <link>https://andferrari.github.io/publication/isba-12/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/isba-12/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -791,8 +742,7 @@
       <link>https://andferrari.github.io/publication/ada-12/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ada-12/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -809,8 +759,7 @@
       <link>https://andferrari.github.io/publication/camsap-11/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/camsap-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -818,8 +767,7 @@
       <link>https://andferrari.github.io/publication/gretsi-2011-b/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-2011-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -827,8 +775,7 @@
       <link>https://andferrari.github.io/publication/eusipco-11/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -836,8 +783,7 @@
       <link>https://andferrari.github.io/publication/gretsi-2011-a/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-2011-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -845,8 +791,7 @@
       <link>https://andferrari.github.io/publication/ssp-11/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssp-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -854,8 +799,7 @@
       <link>https://andferrari.github.io/publication/icassp-11/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-11/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -880,8 +824,7 @@
       <link>https://andferrari.github.io/publication/eusipco-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-10/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -889,8 +832,7 @@
       <link>https://andferrari.github.io/publication/spie-10-b/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-10-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -898,8 +840,7 @@
       <link>https://andferrari.github.io/publication/spie-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-10-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -907,8 +848,7 @@
       <link>https://andferrari.github.io/publication/igarss-10-b/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/igarss-10-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -924,8 +864,7 @@
       <link>https://andferrari.github.io/publication/sf-2-a-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sf-2-a-10/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -933,8 +872,7 @@
       <link>https://andferrari.github.io/publication/maxent-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/maxent-10/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -942,8 +880,7 @@
       <link>https://andferrari.github.io/publication/igarss-10-a/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/igarss-10-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -975,8 +912,7 @@
       <link>https://andferrari.github.io/publication/gretsi-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-2009/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -984,8 +920,7 @@
       <link>https://andferrari.github.io/publication/icassp-09/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-09/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1001,8 +936,7 @@
       <link>https://andferrari.github.io/publication/spie-08-c/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-08-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1010,8 +944,7 @@
       <link>https://andferrari.github.io/publication/icassp-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-08/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1019,8 +952,7 @@
       <link>https://andferrari.github.io/publication/spie-08-a/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-08-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1028,8 +960,7 @@
       <link>https://andferrari.github.io/publication/spie-08-b/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-08-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1045,8 +976,7 @@
       <link>https://andferrari.github.io/publication/sf-2-a-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sf-2-a-07/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1078,8 +1008,7 @@
       <link>https://andferrari.github.io/publication/gretsi-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-2007/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1111,8 +1040,7 @@
       <link>https://andferrari.github.io/publication/iauc-05-c/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/iauc-05-c/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1138,8 +1066,7 @@
       <link>https://andferrari.github.io/publication/iauc-05-a/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/iauc-05-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1147,8 +1074,7 @@
       <link>https://andferrari.github.io/publication/eusipco-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-06/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1156,8 +1082,7 @@
       <link>https://andferrari.github.io/publication/icassp-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-06/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1165,8 +1090,7 @@
       <link>https://andferrari.github.io/publication/iauc-05-b/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/iauc-05-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1174,8 +1098,7 @@
       <link>https://andferrari.github.io/publication/psip-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/psip-05/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1183,8 +1106,7 @@
       <link>https://andferrari.github.io/publication/gretsi-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-05/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1201,8 +1123,7 @@
       <link>https://andferrari.github.io/publication/ssp-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssp-05/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1218,8 +1139,7 @@
       <link>https://andferrari.github.io/publication/icassp-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-04/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1235,8 +1155,7 @@
       <link>https://andferrari.github.io/publication/eusipco-04/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-04/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1271,8 +1190,7 @@
       <link>https://andferrari.github.io/publication/psip-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/psip-03/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1280,8 +1198,7 @@
       <link>https://andferrari.github.io/publication/ssp-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssp-03/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1289,8 +1206,7 @@
       <link>https://andferrari.github.io/publication/gretsi-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-03/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1316,8 +1232,7 @@
       <link>https://andferrari.github.io/publication/icassp-02-a/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-02-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1325,8 +1240,7 @@
       <link>https://andferrari.github.io/publication/eusipco-02-b/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-02-b/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1334,8 +1248,7 @@
       <link>https://andferrari.github.io/publication/spie-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/spie-02/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1351,8 +1264,7 @@
       <link>https://andferrari.github.io/publication/eusipco-02-a/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-02-a/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1368,8 +1280,7 @@
       <link>https://andferrari.github.io/publication/gretsi-01-1/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-01-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1385,8 +1296,7 @@
       <link>https://andferrari.github.io/publication/gretsi-01-2/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-01-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1402,8 +1312,7 @@
       <link>https://andferrari.github.io/publication/icassp-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-00/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1411,8 +1320,7 @@
       <link>https://andferrari.github.io/publication/eusipco-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-00/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1420,8 +1328,7 @@
       <link>https://andferrari.github.io/publication/ssap-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssap-00/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1429,8 +1336,7 @@
       <link>https://andferrari.github.io/publication/gretsi-99-1/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-99-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1438,8 +1344,7 @@
       <link>https://andferrari.github.io/publication/icassp-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-99/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1447,8 +1352,7 @@
       <link>https://andferrari.github.io/publication/gretsi-99-2/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-99-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1464,8 +1368,7 @@
       <link>https://andferrari.github.io/publication/soho-98-2/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/soho-98-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1473,8 +1376,7 @@
       <link>https://andferrari.github.io/publication/ssap-98/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/ssap-98/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1482,8 +1384,7 @@
       <link>https://andferrari.github.io/publication/soho-98-1/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/soho-98-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1491,8 +1392,7 @@
       <link>https://andferrari.github.io/publication/icassp-97-2/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-97-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1500,8 +1400,7 @@
       <link>https://andferrari.github.io/publication/gretsi-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-97/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1517,8 +1416,7 @@
       <link>https://andferrari.github.io/publication/hos-97/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/hos-97/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1526,8 +1424,7 @@
       <link>https://andferrari.github.io/publication/icassp-97-1/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-97-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1535,8 +1432,7 @@
       <link>https://andferrari.github.io/publication/eusipco-96-2/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-96-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1552,8 +1448,7 @@
       <link>https://andferrari.github.io/publication/eusipco-96-1/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-96-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1561,8 +1456,7 @@
       <link>https://andferrari.github.io/publication/icassp-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-95/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1570,8 +1464,7 @@
       <link>https://andferrari.github.io/publication/gretsi-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-95/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1587,8 +1480,7 @@
       <link>https://andferrari.github.io/publication/sampta-95/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/sampta-95/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1596,8 +1488,7 @@
       <link>https://andferrari.github.io/publication/radar-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/radar-94/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1605,8 +1496,7 @@
       <link>https://andferrari.github.io/publication/cdc-94/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/cdc-94/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1622,8 +1512,7 @@
       <link>https://andferrari.github.io/publication/gretsi-93-2/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-93-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1631,8 +1520,7 @@
       <link>https://andferrari.github.io/publication/gretsi-93-1/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-93-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1648,8 +1536,7 @@
       <link>https://andferrari.github.io/publication/icassp-93/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-93/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1666,8 +1553,7 @@
       <link>https://andferrari.github.io/publication/icdsp-91/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icdsp-91/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1675,8 +1561,7 @@
       <link>https://andferrari.github.io/publication/icassp-92/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-92/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1684,8 +1569,7 @@
       <link>https://andferrari.github.io/publication/eusipco-92-2/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-92-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1701,8 +1585,7 @@
       <link>https://andferrari.github.io/publication/eusipco-92-1/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-92-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1710,8 +1593,7 @@
       <link>https://andferrari.github.io/publication/galpconf/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/galpconf/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1735,8 +1617,7 @@
       <link>https://andferrari.github.io/publication/gretsi-91-1/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-91-1/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1744,8 +1625,7 @@
       <link>https://andferrari.github.io/publication/gretsi-91-2/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/gretsi-91-2/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1753,8 +1633,7 @@
       <link>https://andferrari.github.io/publication/icassp-91/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-91/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1762,8 +1641,7 @@
       <link>https://andferrari.github.io/publication/eusipco-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/eusipco-90/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1771,8 +1649,7 @@
       <link>https://andferrari.github.io/publication/icassp-90/</link>
       <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
       <guid>https://andferrari.github.io/publication/icassp-90/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
