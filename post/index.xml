@@ -5,12 +5,21 @@
     <link>https://andferrari.github.io/post/</link>
       <atom:link href="https://andferrari.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2024 09:12:58 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 15:27:13 +0200</lastBuildDate>
     <image>
       <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://andferrari.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Rainbow on Valrose 🦄</title>
+      <link>https://andferrari.github.io/post/rainbow/</link>
+      <pubDate>Fri, 18 Oct 2024 15:27:13 +0200</pubDate>
+      <guid>https://andferrari.github.io/post/rainbow/</guid>
+      <description>&lt;p&gt;Full resolution image &lt;a href=&#34;https://andferrari.github.io/images/rainbow.jpeg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nice airport traffic</title>
