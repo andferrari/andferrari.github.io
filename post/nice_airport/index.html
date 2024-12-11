@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 2, 2024 --><html lang="en-us" >
+<!-- Last Published: December 11, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -279,7 +279,7 @@
 
   
 
-<meta name="description" content="using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly traf_orly = [27_232_263, 28_274_154, 28_862_586, 29_664_993, 31_237_865, 32_042_475, 33_120_685, 31_853_049, 10_797_105, 15_724_580, 29_184_775, missing] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!" />
+<meta name="description" content="using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://societe.nice.aeroport.fr/presse-media/trafic-annuel traf_nice = [11_068_465, 11_432_028, 11_535_824, 11_889_288, 12_300_643, 13_172_535, 13_719_099, 14_356_977, 4_525_639, 6_452_074, 12_008_810, 14_082_130] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!" />
 
 
 
@@ -324,7 +324,7 @@
 <meta property="og:site_name" content="André Ferrari" />
 <meta property="og:url" content="https://andferrari.github.io/post/nice_airport/" />
 <meta property="og:title" content="Nice airport traffic | André Ferrari" />
-<meta property="og:description" content="using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly traf_orly = [27_232_263, 28_274_154, 28_862_586, 29_664_993, 31_237_865, 32_042_475, 33_120_685, 31_853_049, 10_797_105, 15_724_580, 29_184_775, missing] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!" /><meta property="og:image" content="https://andferrari.github.io/post/nice_airport/featured.gif" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, &#34;yyyy&#34;) # https://societe.nice.aeroport.fr/presse-media/trafic-annuel traf_nice = [11_068_465, 11_432_028, 11_535_824, 11_889_288, 12_300_643, 13_172_535, 13_719_099, 14_356_977, 4_525_639, 6_452_074, 12_008_810, 14_082_130] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!" /><meta property="og:image" content="https://andferrari.github.io/post/nice_airport/featured.gif" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -383,7 +383,7 @@
       "url": "https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, \u0026#34;yyyy\u0026#34;) # https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly traf_orly = [27_232_263, 28_274_154, 28_862_586, 29_664_993, 31_237_865, 32_042_475, 33_120_685, 31_853_049, 10_797_105, 15_724_580, 29_184_775, missing] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!"
+  "description": "using Dates, CairoMakie function airport_pass() tick_years = Date.(2012:2023) DateTick = Dates.format.(tick_years, \u0026#34;yyyy\u0026#34;) # https://societe.nice.aeroport.fr/presse-media/trafic-annuel traf_nice = [11_068_465, 11_432_028, 11_535_824, 11_889_288, 12_300_643, 13_172_535, 13_719_099, 14_356_977, 4_525_639, 6_452_074, 12_008_810, 14_082_130] fig = Figure() ax1 = Axis(fig[1,1]) scatterlines!"
 }
 </script>
 
@@ -909,10 +909,10 @@
 </span></span><span class="line"><span class="cl">    <span class="n">tick_years</span> <span class="o">=</span> <span class="n">Date</span><span class="o">.</span><span class="p">(</span><span class="mi">2012</span><span class="o">:</span><span class="mi">2023</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl">    <span class="n">DateTick</span> <span class="o">=</span> <span class="n">Dates</span><span class="o">.</span><span class="n">format</span><span class="o">.</span><span class="p">(</span><span class="n">tick_years</span><span class="p">,</span> <span class="s">&#34;yyyy&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl">        
-</span></span><span class="line"><span class="cl">    <span class="c"># https://fr.wikipedia.org/wiki/Aéroport_de_Paris-Orly</span>
-</span></span><span class="line"><span class="cl">    <span class="n">traf_orly</span> <span class="o">=</span> <span class="p">[</span><span class="mi">27_232_263</span><span class="p">,</span> <span class="mi">28_274_154</span><span class="p">,</span> <span class="mi">28_862_586</span><span class="p">,</span> <span class="mi">29_664_993</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">            <span class="mi">31_237_865</span><span class="p">,</span> <span class="mi">32_042_475</span><span class="p">,</span> <span class="mi">33_120_685</span><span class="p">,</span> <span class="mi">31_853_049</span><span class="p">,</span>
-</span></span><span class="line"><span class="cl">            <span class="mi">10_797_105</span><span class="p">,</span> <span class="mi">15_724_580</span><span class="p">,</span> <span class="mi">29_184_775</span><span class="p">,</span> <span class="nb">missing</span><span class="p">]</span> 
+</span></span><span class="line"><span class="cl"><span class="c"># https://societe.nice.aeroport.fr/presse-media/trafic-annuel</span>
+</span></span><span class="line"><span class="cl">    <span class="n">traf_nice</span> <span class="o">=</span> <span class="p">[</span><span class="mi">11_068_465</span><span class="p">,</span> <span class="mi">11_432_028</span><span class="p">,</span> <span class="mi">11_535_824</span><span class="p">,</span> <span class="mi">11_889_288</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="mi">12_300_643</span><span class="p">,</span> <span class="mi">13_172_535</span><span class="p">,</span> <span class="mi">13_719_099</span><span class="p">,</span> <span class="mi">14_356_977</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="mi">4_525_639</span><span class="p">,</span> <span class="mi">6_452_074</span><span class="p">,</span> <span class="mi">12_008_810</span><span class="p">,</span> <span class="mi">14_082_130</span><span class="p">]</span> 
 </span></span><span class="line"><span class="cl">        
 </span></span><span class="line"><span class="cl">    <span class="n">fig</span> <span class="o">=</span> <span class="n">Figure</span><span class="p">()</span>
 </span></span><span class="line"><span class="cl">    <span class="n">ax1</span> <span class="o">=</span> <span class="n">Axis</span><span class="p">(</span><span class="n">fig</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
