@@ -5,12 +5,36 @@
     <link>https://andferrari.github.io/publication-type/article-journal/</link>
       <atom:link href="https://andferrari.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>https://andferrari.github.io/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>A Decentralized Framework for Radio-Interferometric Image Reconstruction</title>
+      <link>https://andferrari.github.io/publication/aj-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/aj-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepShape: Radio weak-lensing shear measurements using deep learning</title>
+      <link>https://andferrari.github.io/publication/aa-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/aa-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Traffic Monitoring: Leveraging Distributed Acoustic Sensing and Deep Neural Networks</title>
+      <link>https://andferrari.github.io/publication/ieeeitst-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ieeeitst-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A new approach for the numerical calculation of diffraction patterns using starshades</title>

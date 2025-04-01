@@ -5,12 +5,36 @@
     <link>https://andferrari.github.io/publication/</link>
       <atom:link href="https://andferrari.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://andferrari.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Decentralized Framework for Radio-Interferometric Image Reconstruction</title>
+      <link>https://andferrari.github.io/publication/aj-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/aj-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepShape: Radio weak-lensing shear measurements using deep learning</title>
+      <link>https://andferrari.github.io/publication/aa-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/aa-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision Traffic Monitoring: Leveraging Distributed Acoustic Sensing and Deep Neural Networks</title>
+      <link>https://andferrari.github.io/publication/ieeeitst-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ieeeitst-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging distributed acoustic sensing for vehicle counting in high-traffic-density environments</title>
