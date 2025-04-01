@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing | André Ferrari</title>
-    <link>https://andferrari.github.io/tag/image-processing/</link>
-      <atom:link href="https://andferrari.github.io/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/tag/image-processing/</link>
+      <atom:link href="http://localhost:49676/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Image Processing</title>
-      <link>https://andferrari.github.io/tag/image-processing/</link>
+      <link>http://localhost:49676/tag/image-processing/</link>
     </image>
     
     <item>
       <title>Origins</title>
-      <link>https://andferrari.github.io/project/origins/</link>
+      <link>http://localhost:49676/project/origins/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/origins/</guid>
+      <guid>http://localhost:49676/project/origins/</guid>
       <description>&lt;p&gt;Image reconstruction in high-contrast polarimetric imaging using data driven models
 in AI data analysis WP.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TOSCA</title>
-      <link>https://andferrari.github.io/project/tosca/</link>
+      <link>http://localhost:49676/project/tosca/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/tosca/</guid>
+      <guid>http://localhost:49676/project/tosca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARK ERA</title>
-      <link>https://andferrari.github.io/project/dark-era/</link>
+      <link>http://localhost:49676/project/dark-era/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/dark-era/</guid>
+      <guid>http://localhost:49676/project/dark-era/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAGELLAN</title>
-      <link>https://andferrari.github.io/project/magellan/</link>
+      <link>http://localhost:49676/project/magellan/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/magellan/</guid>
+      <guid>http://localhost:49676/project/magellan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAHI</title>
-      <link>https://andferrari.github.io/project/mahi/</link>
+      <link>http://localhost:49676/project/mahi/</link>
       <pubDate>Mon, 15 Jun 2015 01:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/mahi/</guid>
+      <guid>http://localhost:49676/project/mahi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MASTODONS</title>
-      <link>https://andferrari.github.io/project/display/</link>
+      <link>http://localhost:49676/project/display/</link>
       <pubDate>Thu, 15 Jan 2015 01:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/display/</guid>
+      <guid>http://localhost:49676/project/display/</guid>
       <description></description>
     </item>
     

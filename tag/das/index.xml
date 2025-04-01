@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAS | André Ferrari</title>
-    <link>https://andferrari.github.io/tag/das/</link>
-      <atom:link href="https://andferrari.github.io/tag/das/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/tag/das/</link>
+      <atom:link href="http://localhost:49676/tag/das/index.xml" rel="self" type="application/rss+xml" />
     <description>DAS</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>DAS</title>
-      <link>https://andferrari.github.io/tag/das/</link>
+      <link>http://localhost:49676/tag/das/</link>
     </image>
     
     <item>
       <title>SequoIA Analytics</title>
-      <link>https://andferrari.github.io/project/sequoia/</link>
+      <link>http://localhost:49676/project/sequoia/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/sequoia/</guid>
+      <guid>http://localhost:49676/project/sequoia/</guid>
       <description>&lt;p&gt;Converting optical fibers into smart sensors using Deep Learning&lt;/p&gt;</description>
     </item>
     

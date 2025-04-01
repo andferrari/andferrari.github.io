@@ -2,1103 +2,1111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andferrari.github.io/courses/dsp_eea/</loc>
+    <loc>http://localhost:49676/courses/dsp_eea/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/courses/ip_estel/</loc>
+    <loc>http://localhost:49676/courses/ip_estel/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/courses/disp_mauca/</loc>
+    <loc>http://localhost:49676/courses/disp_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/courses/optim_mauca/</loc>
+    <loc>http://localhost:49676/courses/optim_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/courses/ba_mauca/</loc>
+    <loc>http://localhost:49676/courses/ba_mauca/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:49676/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/event/</loc>
+    <loc>http://localhost:49676/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/aj-25/</loc>
+    <loc>http://localhost:49676/publication/aj-25/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:49676/publication-type/article-journal/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/aa-25/</loc>
+    <loc>http://localhost:49676/publication/aa-25/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeeitst-25/</loc>
+    <loc>http://localhost:49676/publication/ieeeitst-25/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication_types/</loc>
+    <loc>http://localhost:49676/publication_types/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/</loc>
+    <loc>http://localhost:49676/publication/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-24/</loc>
+    <loc>http://localhost:49676/publication/asilomar-24/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:49676/publication-type/paper-conference/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/</loc>
+    <loc>http://localhost:49676/post/</loc>
     <lastmod>2024-10-18T15:27:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/rainbow/</loc>
+    <loc>http://localhost:49676/post/rainbow/</loc>
     <lastmod>2024-10-18T15:27:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/nice_airport/</loc>
+    <loc>http://localhost:49676/post/nice_airport/</loc>
     <lastmod>2024-10-16T09:12:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/julia/</loc>
+    <loc>http://localhost:49676/tag/julia/</loc>
     <lastmod>2024-10-16T09:07:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tags/</loc>
+    <loc>http://localhost:49676/tags/</loc>
     <lastmod>2024-10-16T09:07:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/wordcloud/</loc>
+    <loc>http://localhost:49676/post/wordcloud/</loc>
     <lastmod>2024-10-16T09:07:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/das/</loc>
+    <loc>http://localhost:49676/tag/das/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/machine-learning/</loc>
+    <loc>http://localhost:49676/tag/machine-learning/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/</loc>
+    <loc>http://localhost:49676/project/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/sequoia/</loc>
+    <loc>http://localhost:49676/project/sequoia/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-24-b/</loc>
+    <loc>http://localhost:49676/publication/spie-24-b/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-24-a/</loc>
+    <loc>http://localhost:49676/publication/spie-24-a/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/eng_scity/</loc>
+    <loc>http://localhost:49676/post/eng_scity/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/circumstellar-disks-imaging/</loc>
+    <loc>http://localhost:49676/tag/circumstellar-disks-imaging/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/image-processing/</loc>
+    <loc>http://localhost:49676/tag/image-processing/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/inverse-problems/</loc>
+    <loc>http://localhost:49676/tag/inverse-problems/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/origins/</loc>
+    <loc>http://localhost:49676/project/origins/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/polarimetric-imaging/</loc>
+    <loc>http://localhost:49676/tag/polarimetric-imaging/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/gdr2024/</loc>
+    <loc>http://localhost:49676/post/gdr2024/</loc>
     <lastmod>2024-05-08T16:58:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/slsip24/</loc>
+    <loc>http://localhost:49676/post/slsip24/</loc>
     <lastmod>2024-05-07T16:58:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/phdorigins/</loc>
+    <loc>http://localhost:49676/post/phdorigins/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/aa-24-a/</loc>
+    <loc>http://localhost:49676/publication/aa-24-a/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-24-a/</loc>
+    <loc>http://localhost:49676/publication/eusipco-24-a/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeeitst-24/</loc>
+    <loc>http://localhost:49676/publication/ieeeitst-24/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/aa-24-b/</loc>
+    <loc>http://localhost:49676/publication/aa-24-b/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-24-b/</loc>
+    <loc>http://localhost:49676/publication/eusipco-24-b/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-23/</loc>
+    <loc>http://localhost:49676/publication/asilomar-23/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/prunedfft/</loc>
+    <loc>http://localhost:49676/post/prunedfft/</loc>
     <lastmod>2023-09-21T16:55:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-23/</loc>
+    <loc>http://localhost:49676/publication/gretsi-23/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/pr-22/</loc>
+    <loc>http://localhost:49676/publication/pr-22/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeeitst-23/</loc>
+    <loc>http://localhost:49676/publication/ieeeitst-23/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeespl-23/</loc>
+    <loc>http://localhost:49676/publication/ieeespl-23/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeetnn-22/</loc>
+    <loc>http://localhost:49676/publication/ieeetnn-22/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/phdtosca/</loc>
+    <loc>http://localhost:49676/post/phdtosca/</loc>
     <lastmod>2022-11-16T17:52:08+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-22/</loc>
+    <loc>http://localhost:49676/publication/asilomar-22/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/</loc>
+    <loc>http://localhost:49676/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/hpc/</loc>
+    <loc>http://localhost:49676/tag/hpc/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/radioastronomy/</loc>
+    <loc>http://localhost:49676/tag/radioastronomy/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/ska/</loc>
+    <loc>http://localhost:49676/tag/ska/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/tosca/</loc>
+    <loc>http://localhost:49676/project/tosca/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-22/</loc>
+    <loc>http://localhost:49676/publication/eusipco-22/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/waterfall/</loc>
+    <loc>http://localhost:49676/post/waterfall/</loc>
     <lastmod>2022-01-19T10:32:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-22/</loc>
+    <loc>http://localhost:49676/publication/icassp-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeeitst-22/</loc>
+    <loc>http://localhost:49676/publication/ieeeitst-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/idcnrs-22/</loc>
+    <loc>http://localhost:49676/publication/idcnrs-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ieeespl-22/</loc>
+    <loc>http://localhost:49676/publication/ieeespl-22/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/dft/</loc>
+    <loc>http://localhost:49676/post/dft/</loc>
     <lastmod>2021-11-05T20:49:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/teach/</loc>
+    <loc>http://localhost:49676/tag/teach/</loc>
     <lastmod>2021-11-05T20:49:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-21/</loc>
+    <loc>http://localhost:49676/publication/asilomar-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/slsip21/</loc>
+    <loc>http://localhost:49676/post/slsip21/</loc>
     <lastmod>2021-10-07T16:58:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/dark-era/</loc>
+    <loc>http://localhost:49676/project/dark-era/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/asilomar2021/</loc>
+    <loc>http://localhost:49676/post/asilomar2021/</loc>
     <lastmod>2021-09-09T11:04:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/noise2self/</loc>
+    <loc>http://localhost:49676/post/noise2self/</loc>
     <lastmod>2021-09-09T10:44:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/isc-21/</loc>
+    <loc>http://localhost:49676/publication/isc-21/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/mss_2021_youtube/</loc>
+    <loc>http://localhost:49676/post/mss_2021_youtube/</loc>
     <lastmod>2021-03-05T15:16:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/cvx_speed/</loc>
+    <loc>http://localhost:49676/post/cvx_speed/</loc>
     <lastmod>2021-03-01T10:56:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-20/</loc>
+    <loc>http://localhost:49676/publication/eusipco-20/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/phd20/</loc>
+    <loc>http://localhost:49676/post/phd20/</loc>
     <lastmod>2020-05-07T12:35:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-20/</loc>
+    <loc>http://localhost:49676/publication/icassp-20/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/sigmoid/</loc>
+    <loc>http://localhost:49676/post/sigmoid/</loc>
     <lastmod>2020-04-22T14:34:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/post/master_graph1/</loc>
+    <loc>http://localhost:49676/post/master_graph1/</loc>
     <lastmod>2020-01-16T16:43:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/camsap-19/</loc>
+    <loc>http://localhost:49676/publication/camsap-19/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-19/</loc>
+    <loc>http://localhost:49676/publication/eusipco-19/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-19/</loc>
+    <loc>http://localhost:49676/publication/gretsi-19/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-mnras-19/</loc>
+    <loc>http://localhost:49676/publication/art-mnras-19/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/slides/</loc>
+    <loc>http://localhost:49676/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/slides/example/</loc>
+    <loc>http://localhost:49676/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-18/</loc>
+    <loc>http://localhost:49676/publication/art-sp-18/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sips-18/</loc>
+    <loc>http://localhost:49676/publication/sips-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/courses/</loc>
+    <loc>http://localhost:49676/courses/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-18/</loc>
+    <loc>http://localhost:49676/publication/eusipco-18/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-spic-18/</loc>
+    <loc>http://localhost:49676/publication/art-spic-18/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssp-18/</loc>
+    <loc>http://localhost:49676/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:49676/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:49676/publication/ssp-18/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-18/</loc>
+    <loc>http://localhost:49676/publication/icassp-18/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-18-a/</loc>
+    <loc>http://localhost:49676/publication/icassp-18-a/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication-type/chapter/</loc>
+    <loc>http://localhost:49676/publication-type/chapter/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/whiteska/</loc>
+    <loc>http://localhost:49676/publication/whiteska/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-2017/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-2017/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-17/</loc>
+    <loc>http://localhost:49676/publication/gretsi-17/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/mourya-2017/</loc>
+    <loc>http://localhost:49676/publication/mourya-2017/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/basp-17/</loc>
+    <loc>http://localhost:49676/publication/basp-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/wccm-17/</loc>
+    <loc>http://localhost:49676/publication/wccm-17/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication-type/manuscript/</loc>
+    <loc>http://localhost:49676/publication-type/manuscript/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/patent-17/</loc>
+    <loc>http://localhost:49676/publication/patent-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-17/</loc>
+    <loc>http://localhost:49676/publication/eusipco-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tip-17/</loc>
+    <loc>http://localhost:49676/publication/art-tip-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-16-2/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-16-2/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-16/</loc>
+    <loc>http://localhost:49676/publication/asilomar-16/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-16-2/</loc>
+    <loc>http://localhost:49676/publication/eusipco-16-2/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ope-16/</loc>
+    <loc>http://localhost:49676/publication/ope-16/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-osa-16/</loc>
+    <loc>http://localhost:49676/publication/art-osa-16/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-16-b/</loc>
+    <loc>http://localhost:49676/publication/spie-16-b/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-16-c/</loc>
+    <loc>http://localhost:49676/publication/spie-16-c/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-16-a/</loc>
+    <loc>http://localhost:49676/publication/spie-16-a/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-16-d/</loc>
+    <loc>http://localhost:49676/publication/spie-16-d/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-16/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssp-16/</loc>
+    <loc>http://localhost:49676/publication/ssp-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spaceops-16/</loc>
+    <loc>http://localhost:49676/publication/spaceops-16/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-16/</loc>
+    <loc>http://localhost:49676/publication/icassp-16/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-16-2/</loc>
+    <loc>http://localhost:49676/publication/icassp-16-2/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/magellan/</loc>
+    <loc>http://localhost:49676/project/magellan/</loc>
     <lastmod>2016-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sf-2-a-16/</loc>
+    <loc>http://localhost:49676/publication/sf-2-a-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-15/</loc>
+    <loc>http://localhost:49676/publication/gretsi-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-15/</loc>
+    <loc>http://localhost:49676/publication/eusipco-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-15-2/</loc>
+    <loc>http://localhost:49676/publication/gretsi-15-2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sparks-15/</loc>
+    <loc>http://localhost:49676/publication/sparks-15/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/hyperspectral-imaging/</loc>
+    <loc>http://localhost:49676/tag/hyperspectral-imaging/</loc>
     <lastmod>2015-06-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/mahi/</loc>
+    <loc>http://localhost:49676/project/mahi/</loc>
     <lastmod>2015-06-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/whispers-15/</loc>
+    <loc>http://localhost:49676/publication/whispers-15/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-15-a/</loc>
+    <loc>http://localhost:49676/publication/icassp-15-a/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-15-b/</loc>
+    <loc>http://localhost:49676/publication/icassp-15-b/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/display/</loc>
+    <loc>http://localhost:49676/project/display/</loc>
     <lastmod>2015-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tip-14/</loc>
+    <loc>http://localhost:49676/publication/art-tip-14/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-josa-14/</loc>
+    <loc>http://localhost:49676/publication/art-josa-14/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-14/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-14/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-14/</loc>
+    <loc>http://localhost:49676/publication/asilomar-14/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icip-14/</loc>
+    <loc>http://localhost:49676/publication/icip-14/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-ba-14/</loc>
+    <loc>http://localhost:49676/publication/art-ba-14/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/isit-14/</loc>
+    <loc>http://localhost:49676/publication/isit-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sam-14/</loc>
+    <loc>http://localhost:49676/publication/sam-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/whispers-14/</loc>
+    <loc>http://localhost:49676/publication/whispers-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sfpt-14/</loc>
+    <loc>http://localhost:49676/publication/sfpt-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-aa-14/</loc>
+    <loc>http://localhost:49676/publication/art-aa-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-14/</loc>
+    <loc>http://localhost:49676/publication/icassp-14/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/interferometry/</loc>
+    <loc>http://localhost:49676/tag/interferometry/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/optics/</loc>
+    <loc>http://localhost:49676/tag/optics/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/polca/</loc>
+    <loc>http://localhost:49676/project/polca/</loc>
     <lastmod>2014-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-13-c/</loc>
+    <loc>http://localhost:49676/publication/gretsi-13-c/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-13-a/</loc>
+    <loc>http://localhost:49676/publication/gretsi-13-a/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-13-b/</loc>
+    <loc>http://localhost:49676/publication/gretsi-13-b/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-13-c/</loc>
+    <loc>http://localhost:49676/publication/icassp-13-c/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-13-b/</loc>
+    <loc>http://localhost:49676/publication/icassp-13-b/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-13-a/</loc>
+    <loc>http://localhost:49676/publication/icassp-13-a/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-13-d/</loc>
+    <loc>http://localhost:49676/publication/icassp-13-d/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-13/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eas-13/</loc>
+    <loc>http://localhost:49676/publication/eas-13/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/asilomar-12/</loc>
+    <loc>http://localhost:49676/publication/asilomar-12/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-ts-12/</loc>
+    <loc>http://localhost:49676/publication/art-ts-12/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/aac-12/</loc>
+    <loc>http://localhost:49676/publication/aac-12/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/isba-12/</loc>
+    <loc>http://localhost:49676/publication/isba-12/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ada-12/</loc>
+    <loc>http://localhost:49676/publication/ada-12/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/chapm-12/</loc>
+    <loc>http://localhost:49676/publication/chapm-12/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/camsap-11/</loc>
+    <loc>http://localhost:49676/publication/camsap-11/</loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-2011-b/</loc>
+    <loc>http://localhost:49676/publication/gretsi-2011-b/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-11/</loc>
+    <loc>http://localhost:49676/publication/eusipco-11/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-2011-a/</loc>
+    <loc>http://localhost:49676/publication/gretsi-2011-a/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssp-11/</loc>
+    <loc>http://localhost:49676/publication/ssp-11/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-11/</loc>
+    <loc>http://localhost:49676/publication/icassp-11/</loc>
     <lastmod>2011-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-expa-11/</loc>
+    <loc>http://localhost:49676/publication/art-expa-11/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/ssp11/</loc>
+    <loc>http://localhost:49676/project/ssp11/</loc>
     <lastmod>2011-01-15T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/statistical-signal-processing/</loc>
+    <loc>http://localhost:49676/tag/statistical-signal-processing/</loc>
     <lastmod>2011-01-15T02:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/tag/coranography/</loc>
+    <loc>http://localhost:49676/tag/coranography/</loc>
     <lastmod>2011-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/jithde/</loc>
+    <loc>http://localhost:49676/project/jithde/</loc>
     <lastmod>2011-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/wiley/</loc>
+    <loc>http://localhost:49676/publication/wiley/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-10/</loc>
+    <loc>http://localhost:49676/publication/eusipco-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-10-b/</loc>
+    <loc>http://localhost:49676/publication/spie-10-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-10-a/</loc>
+    <loc>http://localhost:49676/publication/spie-10-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/igarss-10-b/</loc>
+    <loc>http://localhost:49676/publication/igarss-10-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-ip-09/</loc>
+    <loc>http://localhost:49676/publication/art-ip-09/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sf-2-a-10/</loc>
+    <loc>http://localhost:49676/publication/sf-2-a-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/maxent-10/</loc>
+    <loc>http://localhost:49676/publication/maxent-10/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/igarss-10-a/</loc>
+    <loc>http://localhost:49676/publication/igarss-10-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-07/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-07/</loc>
     <lastmod>2009-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-apj-09-b/</loc>
+    <loc>http://localhost:49676/publication/art-apj-09-b/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-apj-09-a/</loc>
+    <loc>http://localhost:49676/publication/art-apj-09-a/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-2009/</loc>
+    <loc>http://localhost:49676/publication/gretsi-2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-09/</loc>
+    <loc>http://localhost:49676/publication/icassp-09/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsi-08/</loc>
+    <loc>http://localhost:49676/publication/art-tsi-08/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-08-c/</loc>
+    <loc>http://localhost:49676/publication/spie-08-c/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-08/</loc>
+    <loc>http://localhost:49676/publication/icassp-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-08-a/</loc>
+    <loc>http://localhost:49676/publication/spie-08-a/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-08-b/</loc>
+    <loc>http://localhost:49676/publication/spie-08-b/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-ip-08/</loc>
+    <loc>http://localhost:49676/publication/art-ip-08/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sf-2-a-07/</loc>
+    <loc>http://localhost:49676/publication/sf-2-a-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-cras-07/</loc>
+    <loc>http://localhost:49676/publication/art-cras-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-apj-07/</loc>
+    <loc>http://localhost:49676/publication/art-apj-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tip-07/</loc>
+    <loc>http://localhost:49676/publication/art-tip-07/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-2007/</loc>
+    <loc>http://localhost:49676/publication/gretsi-2007/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-jmva-06/</loc>
+    <loc>http://localhost:49676/publication/art-jmva-06/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-apj-07-b/</loc>
+    <loc>http://localhost:49676/publication/art-apj-07-b/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-apj-07-l/</loc>
+    <loc>http://localhost:49676/publication/art-apj-07-l/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/iauc-05-c/</loc>
+    <loc>http://localhost:49676/publication/iauc-05-c/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ithd-06-b/</loc>
+    <loc>http://localhost:49676/publication/ithd-06-b/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ithd-06/</loc>
+    <loc>http://localhost:49676/publication/ithd-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/iauc-05-a/</loc>
+    <loc>http://localhost:49676/publication/iauc-05-a/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-06/</loc>
+    <loc>http://localhost:49676/publication/eusipco-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-06/</loc>
+    <loc>http://localhost:49676/publication/icassp-06/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/iauc-05-b/</loc>
+    <loc>http://localhost:49676/publication/iauc-05-b/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/psip-05/</loc>
+    <loc>http://localhost:49676/publication/psip-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-05/</loc>
+    <loc>http://localhost:49676/publication/gretsi-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/iste/</loc>
+    <loc>http://localhost:49676/publication/iste/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssp-05/</loc>
+    <loc>http://localhost:49676/publication/ssp-05/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-03/</loc>
+    <loc>http://localhost:49676/publication/art-sp-03/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-04/</loc>
+    <loc>http://localhost:49676/publication/icassp-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-iop-03/</loc>
+    <loc>http://localhost:49676/publication/art-iop-03/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-04/</loc>
+    <loc>http://localhost:49676/publication/eusipco-04/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ic-2-detec/</loc>
+    <loc>http://localhost:49676/publication/ic-2-detec/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ic-2-est/</loc>
+    <loc>http://localhost:49676/publication/ic-2-est/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication-type/thesis/</loc>
+    <loc>http://localhost:49676/publication-type/thesis/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/monhdr/</loc>
+    <loc>http://localhost:49676/publication/monhdr/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/psip-03/</loc>
+    <loc>http://localhost:49676/publication/psip-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssp-03/</loc>
+    <loc>http://localhost:49676/publication/ssp-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-03/</loc>
+    <loc>http://localhost:49676/publication/gretsi-03/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ic-2-as/</loc>
+    <loc>http://localhost:49676/publication/ic-2-as/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ithd-02/</loc>
+    <loc>http://localhost:49676/publication/ithd-02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-02-a/</loc>
+    <loc>http://localhost:49676/publication/icassp-02-a/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-02-b/</loc>
+    <loc>http://localhost:49676/publication/eusipco-02-b/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/spie-02/</loc>
+    <loc>http://localhost:49676/publication/spie-02/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-01/</loc>
+    <loc>http://localhost:49676/publication/art-sp-01/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-02-a/</loc>
+    <loc>http://localhost:49676/publication/eusipco-02-a/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-aa-01-b/</loc>
+    <loc>http://localhost:49676/publication/art-aa-01-b/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/project/matis/</loc>
+    <loc>http://localhost:49676/project/matis/</loc>
     <lastmod>2001-01-15T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-01-1/</loc>
+    <loc>http://localhost:49676/publication/gretsi-01-1/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-aa-01-a/</loc>
+    <loc>http://localhost:49676/publication/art-aa-01-a/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-01-2/</loc>
+    <loc>http://localhost:49676/publication/gretsi-01-2/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-99/</loc>
+    <loc>http://localhost:49676/publication/art-sp-99/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-00/</loc>
+    <loc>http://localhost:49676/publication/icassp-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-00/</loc>
+    <loc>http://localhost:49676/publication/eusipco-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssap-00/</loc>
+    <loc>http://localhost:49676/publication/ssap-00/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-99-1/</loc>
+    <loc>http://localhost:49676/publication/gretsi-99-1/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-99/</loc>
+    <loc>http://localhost:49676/publication/icassp-99/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-99-2/</loc>
+    <loc>http://localhost:49676/publication/gretsi-99-2/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-aa-99/</loc>
+    <loc>http://localhost:49676/publication/art-aa-99/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/soho-98-2/</loc>
+    <loc>http://localhost:49676/publication/soho-98-2/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/ssap-98/</loc>
+    <loc>http://localhost:49676/publication/ssap-98/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/soho-98-1/</loc>
+    <loc>http://localhost:49676/publication/soho-98-1/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-97-2/</loc>
+    <loc>http://localhost:49676/publication/icassp-97-2/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-97/</loc>
+    <loc>http://localhost:49676/publication/gretsi-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-taes-97/</loc>
+    <loc>http://localhost:49676/publication/art-taes-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/hos-97/</loc>
+    <loc>http://localhost:49676/publication/hos-97/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-97-1/</loc>
+    <loc>http://localhost:49676/publication/icassp-97-1/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-96-2/</loc>
+    <loc>http://localhost:49676/publication/eusipco-96-2/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-96/</loc>
+    <loc>http://localhost:49676/publication/art-sp-96/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-96-1/</loc>
+    <loc>http://localhost:49676/publication/eusipco-96-1/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-95/</loc>
+    <loc>http://localhost:49676/publication/icassp-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-95/</loc>
+    <loc>http://localhost:49676/publication/gretsi-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-ieef-95/</loc>
+    <loc>http://localhost:49676/publication/art-ieef-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/sampta-95/</loc>
+    <loc>http://localhost:49676/publication/sampta-95/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/radar-94/</loc>
+    <loc>http://localhost:49676/publication/radar-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/cdc-94/</loc>
+    <loc>http://localhost:49676/publication/cdc-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tit-94/</loc>
+    <loc>http://localhost:49676/publication/art-tit-94/</loc>
     <lastmod>1994-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-93-2/</loc>
+    <loc>http://localhost:49676/publication/gretsi-93-2/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-93-1/</loc>
+    <loc>http://localhost:49676/publication/gretsi-93-1/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-goca-93/</loc>
+    <loc>http://localhost:49676/publication/art-goca-93/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-93/</loc>
+    <loc>http://localhost:49676/publication/icassp-93/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/mathese/</loc>
+    <loc>http://localhost:49676/publication/mathese/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icdsp-91/</loc>
+    <loc>http://localhost:49676/publication/icdsp-91/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-92/</loc>
+    <loc>http://localhost:49676/publication/icassp-92/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-92-2/</loc>
+    <loc>http://localhost:49676/publication/eusipco-92-2/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-tsp-92/</loc>
+    <loc>http://localhost:49676/publication/art-tsp-92/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-92-1/</loc>
+    <loc>http://localhost:49676/publication/eusipco-92-1/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/galpconf/</loc>
+    <loc>http://localhost:49676/publication/galpconf/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-sp-91/</loc>
+    <loc>http://localhost:49676/publication/art-sp-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/art-elec-91/</loc>
+    <loc>http://localhost:49676/publication/art-elec-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-91-1/</loc>
+    <loc>http://localhost:49676/publication/gretsi-91-1/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/gretsi-91-2/</loc>
+    <loc>http://localhost:49676/publication/gretsi-91-2/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-91/</loc>
+    <loc>http://localhost:49676/publication/icassp-91/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/eusipco-90/</loc>
+    <loc>http://localhost:49676/publication/eusipco-90/</loc>
     <lastmod>1990-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/publication/icassp-90/</loc>
+    <loc>http://localhost:49676/publication/icassp-90/</loc>
     <lastmod>1990-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://andferrari.github.io/categories/</loc>
+    <loc>http://localhost:49676/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

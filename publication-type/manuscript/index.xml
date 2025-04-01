@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuscript | André Ferrari</title>
-    <link>https://andferrari.github.io/publication-type/manuscript/</link>
-      <atom:link href="https://andferrari.github.io/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/publication-type/manuscript/</link>
+      <atom:link href="http://localhost:49676/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Manuscript</title>
-      <link>https://andferrari.github.io/publication-type/manuscript/</link>
+      <link>http://localhost:49676/publication-type/manuscript/</link>
     </image>
     
     <item>
       <title>Method for detecting atypical behaviour of telemetry parameters, and associated computer program product and device</title>
-      <link>https://andferrari.github.io/publication/patent-17/</link>
+      <link>http://localhost:49676/publication/patent-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/patent-17/</guid>
+      <guid>http://localhost:49676/publication/patent-17/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

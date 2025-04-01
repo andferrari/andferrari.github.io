@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | André Ferrari</title>
-    <link>https://andferrari.github.io/post/</link>
-      <atom:link href="https://andferrari.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/post/</link>
+      <atom:link href="http://localhost:49676/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 15:27:13 +0200</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://andferrari.github.io/post/</link>
+      <link>http://localhost:49676/post/</link>
     </image>
     
     <item>
       <title>Rainbow on Valrose 🦄</title>
-      <link>https://andferrari.github.io/post/rainbow/</link>
+      <link>http://localhost:49676/post/rainbow/</link>
       <pubDate>Fri, 18 Oct 2024 15:27:13 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/rainbow/</guid>
-      <description>&lt;p&gt;Full resolution image &lt;a href=&#34;https://andferrari.github.io/images/rainbow.jpeg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:49676/post/rainbow/</guid>
+      <description>&lt;p&gt;Full resolution image &lt;a href=&#34;http://localhost:49676/images/rainbow.jpeg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nice airport traffic</title>
-      <link>https://andferrari.github.io/post/nice_airport/</link>
+      <link>http://localhost:49676/post/nice_airport/</link>
       <pubDate>Wed, 16 Oct 2024 09:12:58 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/nice_airport/</guid>
+      <guid>http://localhost:49676/post/nice_airport/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Dates&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;CairoMakie&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;airport_pass&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>wordcloud from bib</title>
-      <link>https://andferrari.github.io/post/wordcloud/</link>
+      <link>http://localhost:49676/post/wordcloud/</link>
       <pubDate>Wed, 16 Oct 2024 09:07:05 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/wordcloud/</guid>
+      <guid>http://localhost:49676/post/wordcloud/</guid>
       <description>&lt;p&gt;Create a wordcloud from .bib file&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Bibliography&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;WordCloud&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Funded engineer position</title>
-      <link>https://andferrari.github.io/post/eng_scity/</link>
+      <link>http://localhost:49676/post/eng_scity/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/post/eng_scity/</guid>
+      <guid>http://localhost:49676/post/eng_scity/</guid>
       <description>&lt;h2 id=&#34;ingénieure-informatique&#34;&gt;Ingénieur(e) Informatique&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;mots-clés&lt;/strong&gt; : traitement de données, bases de données, machine learning&lt;/p&gt;
 &lt;h2 id=&#34;description-de-la-mission&#34;&gt;Description de la mission&lt;/h2&gt;
@@ -117,9 +117,9 @@ Ces activités incluent : 1. définition d’un standard à partir des donnée
     
     <item>
       <title>GDR IASIS</title>
-      <link>https://andferrari.github.io/post/gdr2024/</link>
+      <link>http://localhost:49676/post/gdr2024/</link>
       <pubDate>Wed, 08 May 2024 16:58:14 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/gdr2024/</guid>
+      <guid>http://localhost:49676/post/gdr2024/</guid>
       <description>&lt;p&gt;Don&amp;rsquo;t miss GDR IASIS meeting on current state of inversion methods in astronomy and future challenges.
 Details &lt;a href=&#34;https://gdr-iasis.cnrs.fr/reunion/526/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -127,18 +127,18 @@ Details &lt;a href=&#34;https://gdr-iasis.cnrs.fr/reunion/526/&#34; target=&#34;
     
     <item>
       <title>SLSIP24 workshop! 😎</title>
-      <link>https://andferrari.github.io/post/slsip24/</link>
+      <link>http://localhost:49676/post/slsip24/</link>
       <pubDate>Tue, 07 May 2024 16:58:14 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/slsip24/</guid>
+      <guid>http://localhost:49676/post/slsip24/</guid>
       <description>&lt;p&gt;I will be at 5th SLSIP workshop in Porquerolles island: &lt;a href=&#34;https://sites.google.com/view/5thslsipworkshop/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLSIP24&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Funded PhD scholarship</title>
-      <link>https://andferrari.github.io/post/phdorigins/</link>
+      <link>http://localhost:49676/post/phdorigins/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/post/phdorigins/</guid>
+      <guid>http://localhost:49676/post/phdorigins/</guid>
       <description>&lt;h2 id=&#34;image-reconstruction-in-high-contrast-polarimetricimaging-using-data-driven-models&#34;&gt;Image reconstruction in high-contrast polarimetric	imaging using data driven models&lt;/h2&gt;
 &lt;p&gt;This PhD is funded by PEPR &lt;a href=&#34;https://pepr-origins.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Origins&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The PhD involves collaboration between Observatoire de la Côte d&amp;rsquo;azur (OCA), Ecole Normal Supérieur de Lyon (ENS) and Centre de Recherche Astrophysique de Lyon (CRAL).  OCA: André Ferrari (PhD supervisor), Simon Prunet (PhD co-supervisor). ENS: Nelly Pustelnik (co-supervisor), Julian Tachella (co-supervisor). CRAL: Maud Langlois (co-supervisor) and Eric Thiébaut (co-supervisor).&lt;/p&gt;
@@ -181,9 +181,9 @@ for Inverse Problems, NeurIPS, 2022.&lt;/li&gt;
     
     <item>
       <title>PrunedFFT</title>
-      <link>https://andferrari.github.io/post/prunedfft/</link>
+      <link>http://localhost:49676/post/prunedfft/</link>
       <pubDate>Thu, 21 Sep 2023 16:55:40 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/prunedfft/</guid>
+      <guid>http://localhost:49676/post/prunedfft/</guid>
       <description>&lt;p&gt;You need to compute a &lt;strong&gt;subset&lt;/strong&gt; of the outputs of a 2D FFT
 with a &lt;strong&gt;large zero padding&lt;/strong&gt;? Try &lt;a href=&#34;https://github.com/andferrari/PrunedFFT.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrunedFFT.jl&lt;/a&gt;. It works also on GPU🔥&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;PrunedFFT&lt;/span&gt;
@@ -210,9 +210,9 @@ with a &lt;strong&gt;large zero padding&lt;/strong&gt;? Try &lt;a href=&#34;http
     
     <item>
       <title>Funded PhD scholarship</title>
-      <link>https://andferrari.github.io/post/phdtosca/</link>
+      <link>http://localhost:49676/post/phdtosca/</link>
       <pubDate>Wed, 16 Nov 2022 17:52:08 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/phdtosca/</guid>
+      <guid>http://localhost:49676/post/phdtosca/</guid>
       <description>&lt;h2 id=&#34;machine-learning-for-gravitational-lensing-analysis-of-massive-radio-surveys&#34;&gt;Machine learning for gravitational lensing analysis of massive radio surveys&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Machine learning, gravitational lensing, imaging methods in radio astronomy, artificial intelligence, inverse problems, SKA.
 Observatoire de la Côte d’Azur invites applications for a PhD position in machine learning for astrophysics. The successful candidate will work with Dr. Simon Prunet and Prof. André Ferrari in J.-L. Lagrange Laboratory, within the ANR funded project TOSCA on weak lensing statistics for cosmology, which investigates synergies between optical and radio surveys, with partners in CEA Saclay, Nice, Caen and Geneva. The successful candidate will be based in Nice (F) with regular visits to Saclay, and will collaborate very closely with all TOSCA members, at CEA, Nice, Caen and Geneva.&lt;/p&gt;
@@ -232,9 +232,9 @@ Contract duration: 3 years&lt;/p&gt;
     
     <item>
       <title>Waterfall</title>
-      <link>https://andferrari.github.io/post/waterfall/</link>
+      <link>http://localhost:49676/post/waterfall/</link>
       <pubDate>Wed, 19 Jan 2022 10:32:07 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/waterfall/</guid>
+      <guid>http://localhost:49676/post/waterfall/</guid>
       <description>&lt;p&gt;Simple &lt;a href=&#34;https://github.com/JuliaPlots/Plots.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plots.jl&lt;/a&gt; receipe for waterfall plots
 (a la &lt;a href=&#34;https://gist.github.com/andferrari/3e254ffd67629078c1aaad95caf23079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unknown Pleasures&lt;/a&gt; 😀). Install using:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-julia&#34; data-lang=&#34;julia&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;pkg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;add&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;://&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;github&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;andferrari&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;WaterFall&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;jl&lt;/span&gt;
@@ -247,9 +247,9 @@ Contract duration: 3 years&lt;/p&gt;
     
     <item>
       <title>Discrete Fourier Transform 🎈</title>
-      <link>https://andferrari.github.io/post/dft/</link>
+      <link>http://localhost:49676/post/dft/</link>
       <pubDate>Fri, 05 Nov 2021 20:49:30 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/dft/</guid>
+      <guid>http://localhost:49676/post/dft/</guid>
       <description>&lt;p&gt;Fourier transforms of a sine wave using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -270,7 +270,7 @@ Contract duration: 3 years&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://andferrari.github.io/post/dft/dft.gif&#34;
+           src=&#34;http://localhost:49676/post/dft/dft.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
@@ -305,18 +305,18 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>SLSIP21 workshop! 😎</title>
-      <link>https://andferrari.github.io/post/slsip21/</link>
+      <link>http://localhost:49676/post/slsip21/</link>
       <pubDate>Thu, 07 Oct 2021 16:58:14 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/slsip21/</guid>
+      <guid>http://localhost:49676/post/slsip21/</guid>
       <description>&lt;p&gt;First post covid live presentation at &lt;a href=&#34;https://sites.google.com/view/slsipworkshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLSIP21&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Martijn&#39;s Asilomar 2021 talk 🥤</title>
-      <link>https://andferrari.github.io/post/asilomar2021/</link>
+      <link>http://localhost:49676/post/asilomar2021/</link>
       <pubDate>Thu, 09 Sep 2021 11:04:19 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/asilomar2021/</guid>
+      <guid>http://localhost:49676/post/asilomar2021/</guid>
       <description>&lt;p&gt;Martjin Van Ende presentation at 2021 Asilomar conference:
 &lt;em&gt;Next-Generation Traffic Monitoring with Distributed
 Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
@@ -333,9 +333,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Noise2self 💻</title>
-      <link>https://andferrari.github.io/post/noise2self/</link>
+      <link>http://localhost:49676/post/noise2self/</link>
       <pubDate>Thu, 09 Sep 2021 10:44:28 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/noise2self/</guid>
+      <guid>http://localhost:49676/post/noise2self/</guid>
       <description>&lt;p&gt;A simple &lt;a href=&#34;https://arxiv.org/abs/1901.11365&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;noise2self&lt;/a&gt; experimennt using a &lt;a href=&#34;https://arxiv.org/abs/1608.03981&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCNN&lt;/a&gt;. The julia code is &lt;a href=&#34;https://github.com/andferrari/Noise2Self.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 
@@ -359,7 +359,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp 400w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_6074dfb94dcb9d988cd30c98bf683c53.webp 760w,
                /post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://andferrari.github.io/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
+               src=&#34;http://localhost:49676/post/noise2self/noisy_hu793e9e1cb47c32cffcf6885184ee71b9_938018_13b222d1732548966bcbb02d60ceab26.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -387,7 +387,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp 400w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_8c35f64fa1ffa750be39e5b8d36cacbe.webp 760w,
                /post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://andferrari.github.io/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
+               src=&#34;http://localhost:49676/post/noise2self/denoised_hu1915ca82d69a8c4e8406a9f3e97786ec_710127_c6720eb8501522658e51a064347af1e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;758&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -398,9 +398,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Martijn&#39;s MSS talk 🥤</title>
-      <link>https://andferrari.github.io/post/mss_2021_youtube/</link>
+      <link>http://localhost:49676/post/mss_2021_youtube/</link>
       <pubDate>Fri, 05 Mar 2021 15:16:05 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/mss_2021_youtube/</guid>
+      <guid>http://localhost:49676/post/mss_2021_youtube/</guid>
       <description>&lt;p&gt;Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: &lt;em&gt;A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing&lt;/em&gt;.&lt;/p&gt;
 
 
@@ -415,9 +415,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>Conv. rate with Pluto 🎈</title>
-      <link>https://andferrari.github.io/post/cvx_speed/</link>
+      <link>http://localhost:49676/post/cvx_speed/</link>
       <pubDate>Mon, 01 Mar 2021 10:56:39 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/cvx_speed/</guid>
+      <guid>http://localhost:49676/post/cvx_speed/</guid>
       <description>&lt;p&gt;Convergence rate vs Hessian condition number using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -438,7 +438,7 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://andferrari.github.io/post/cvx_speed/conv.gif&#34;
+           src=&#34;http://localhost:49676/post/cvx_speed/conv.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -473,9 +473,9 @@ Acoustic Sensing Arrays and Optimum Array Processing&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>PhD scholarship</title>
-      <link>https://andferrari.github.io/post/phd20/</link>
+      <link>http://localhost:49676/post/phd20/</link>
       <pubDate>Thu, 07 May 2020 12:35:59 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/phd20/</guid>
+      <guid>http://localhost:49676/post/phd20/</guid>
       <description>&lt;h2 id=&#34;line-by-line-deep-learning-algorithm-for-detection-of-artifacts-in-uncalibrated-multispectral-satellite-images&#34;&gt;Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images&lt;/h2&gt;
 &lt;p&gt;The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases. State-of-the-art algorithms use reference data either from a local neighborhood around the pixel/spectrum to be tested, either using all or part of the HSI data possibly at a different time instant. The most popular among these algorithms are the Reed-Xiaoli Detector (RXD) [1] and its many variations. More recently algorithms using deep convolutional neural networks have proved their effectiveness for this task [2].&lt;/p&gt;
 &lt;p&gt;All these approaches rely on pairs of learning and testing spectra sets which are performed on images processed on ground and geometrically, spectrally and radiometrically calibrated. Moreover, these algorithms consist of a learning step and a testing step on two set of patches acquired at different time instant and so don’t allow a fully (learning and testing) line by line processing in order to process a continuous flow of data. The objectives of this PhD will be to develop an artifact detection algorithm, computationally efficient and compatible with data as acquired by the pushbroom sensor i.e. line by line and before radiometrically, spectral and geometric corrections and calibrations, which takes advantage of recent advances in machine learning.&lt;/p&gt;
@@ -497,9 +497,9 @@ To our knowledge, these approaches have not yet been applied for detecting artif
     
     <item>
       <title>Sigmoid fit</title>
-      <link>https://andferrari.github.io/post/sigmoid/</link>
+      <link>http://localhost:49676/post/sigmoid/</link>
       <pubDate>Wed, 22 Apr 2020 14:34:20 +0200</pubDate>
-      <guid>https://andferrari.github.io/post/sigmoid/</guid>
+      <guid>http://localhost:49676/post/sigmoid/</guid>
       <description>&lt;p&gt;Inspired by the nice &lt;a href=&#34;https://twitter.com/clcrozier/status/1251148890595708938?s=21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweet&lt;/a&gt; of Constance Crozier,
 here is the julia code to illustrate the fit of a sigmoid as a function of the number of samples.&lt;/p&gt;
 &lt;p&gt;
@@ -521,7 +521,7 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://andferrari.github.io/post/sigmoid/sigmoid_fit.gif&#34;
+           src=&#34;http://localhost:49676/post/sigmoid/sigmoid_fit.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -551,12 +551,12 @@ here is the julia code to illustrate the fit of a sigmoid as a function of the n
     
     <item>
       <title>Master position</title>
-      <link>https://andferrari.github.io/post/master_graph1/</link>
+      <link>http://localhost:49676/post/master_graph1/</link>
       <pubDate>Thu, 16 Jan 2020 16:43:51 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/master_graph1/</guid>
+      <guid>http://localhost:49676/post/master_graph1/</guid>
       <description>&lt;h2 id=&#34;online-novelty-detection-in-multivariate-graph-signals-application-to-hyperspectral-imaging&#34;&gt;Online novelty detection in multivariate graph signals. Application to hyperspectral imaging&lt;/h2&gt;
 &lt;p&gt;Detecting changes in network-structured time series data is of utmost importance in critical applications as diverse as detecting denial of service attacks against online service providers or monitoring energy and water supplies.&lt;/p&gt;
-&lt;p&gt;We recently devised an online change-point detection algorithm in [&lt;a href=&#34;https://andferrari.github.io/publication/camsap-19/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://andferrari.github.io/publication/icassp-20/&#34;&gt;2&lt;/a&gt;] that fully benefits from the recent advances in graph signal processing to exploit the characteristics of the data that lie on irregular supports. The algorithm is able to detect anomalous clusters of activity over time in streaming scalar data measured at each node of the graph in a distributed manner across nodes.&lt;/p&gt;
+&lt;p&gt;We recently devised an online change-point detection algorithm in [&lt;a href=&#34;http://localhost:49676/publication/camsap-19/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;http://localhost:49676/publication/icassp-20/&#34;&gt;2&lt;/a&gt;] that fully benefits from the recent advances in graph signal processing to exploit the characteristics of the data that lie on irregular supports. The algorithm is able to detect anomalous clusters of activity over time in streaming scalar data measured at each node of the graph in a distributed manner across nodes.&lt;/p&gt;
 &lt;p&gt;A natural extension is to tackle the case where the measurement at each node is vectored value. This paves the way to many applications such as the detection of changes in hyper spectral images where a node is associated to each pixel, the graph models spatial dependences between pixels and each node is associated to the corresponding spectrum. The internship will focus on theoretical aspects related to the development of a multivariate detection algorithm, including multivariate graph signal processing, and practical application to change detection in multi temporal  hyperspectral images.&lt;/p&gt;
 &lt;p&gt;This is a joint work with &lt;a href=&#34;https://cedric-richard.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cédric Richard&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To apply for this intership, please contact me.&lt;/p&gt;

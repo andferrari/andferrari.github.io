@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HPC | André Ferrari</title>
-    <link>https://andferrari.github.io/tag/hpc/</link>
-      <atom:link href="https://andferrari.github.io/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/tag/hpc/</link>
+      <atom:link href="http://localhost:49676/tag/hpc/index.xml" rel="self" type="application/rss+xml" />
     <description>HPC</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>HPC</title>
-      <link>https://andferrari.github.io/tag/hpc/</link>
+      <link>http://localhost:49676/tag/hpc/</link>
     </image>
     
     <item>
       <title>TOSCA</title>
-      <link>https://andferrari.github.io/project/tosca/</link>
+      <link>http://localhost:49676/project/tosca/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/tosca/</guid>
+      <guid>http://localhost:49676/project/tosca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DARK ERA</title>
-      <link>https://andferrari.github.io/project/dark-era/</link>
+      <link>http://localhost:49676/project/dark-era/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/project/dark-era/</guid>
+      <guid>http://localhost:49676/project/dark-era/</guid>
       <description></description>
     </item>
     

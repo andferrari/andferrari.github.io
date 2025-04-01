@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | André Ferrari</title>
-    <link>https://andferrari.github.io/categories/</link>
-      <atom:link href="https://andferrari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/categories/</link>
+      <atom:link href="http://localhost:49676/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://andferrari.github.io/categories/</link>
+      <link>http://localhost:49676/categories/</link>
     </image>
     
   </channel>

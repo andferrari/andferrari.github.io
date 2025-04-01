@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter | André Ferrari</title>
-    <link>https://andferrari.github.io/publication-type/chapter/</link>
-      <atom:link href="https://andferrari.github.io/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/publication-type/chapter/</link>
+      <atom:link href="http://localhost:49676/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Chapter</title>
-      <link>https://andferrari.github.io/publication-type/chapter/</link>
+      <link>http://localhost:49676/publication-type/chapter/</link>
     </image>
     
     <item>
       <title>French SKA White Book - The French Community towards the Square Kilometre Array</title>
-      <link>https://andferrari.github.io/publication/whiteska/</link>
+      <link>http://localhost:49676/publication/whiteska/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/whiteska/</guid>
+      <guid>http://localhost:49676/publication/whiteska/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Concepts in Imaging: Optical and Statistical Models</title>
-      <link>https://andferrari.github.io/publication/eas-13/</link>
+      <link>http://localhost:49676/publication/eas-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/eas-13/</guid>
+      <guid>http://localhost:49676/publication/eas-13/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Advances in Machine Learning and Data Mining for Astronomy</title>
-      <link>https://andferrari.github.io/publication/chapm-12/</link>
+      <link>http://localhost:49676/publication/chapm-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/chapm-12/</guid>
+      <guid>http://localhost:49676/publication/chapm-12/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Digital Spectral Analysis: Parametric, Non-Parametric and Advanced Methods</title>
-      <link>https://andferrari.github.io/publication/wiley/</link>
+      <link>http://localhost:49676/publication/wiley/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/wiley/</guid>
+      <guid>http://localhost:49676/publication/wiley/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging III</title>
-      <link>https://andferrari.github.io/publication/ithd-06-b/</link>
+      <link>http://localhost:49676/publication/ithd-06-b/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ithd-06-b/</guid>
+      <guid>http://localhost:49676/publication/ithd-06-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging III</title>
-      <link>https://andferrari.github.io/publication/ithd-06/</link>
+      <link>http://localhost:49676/publication/ithd-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ithd-06/</guid>
+      <guid>http://localhost:49676/publication/ithd-06/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spectral Analysis: Parametric And Non-parametric Digital Methods</title>
-      <link>https://andferrari.github.io/publication/iste/</link>
+      <link>http://localhost:49676/publication/iste/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/iste/</guid>
+      <guid>http://localhost:49676/publication/iste/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Signaux Aléatoires, Modélisation Estimation Détection</title>
-      <link>https://andferrari.github.io/publication/ic-2-detec/</link>
+      <link>http://localhost:49676/publication/ic-2-detec/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ic-2-detec/</guid>
+      <guid>http://localhost:49676/publication/ic-2-detec/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Signaux Aléatoires, Modélisation Estimation Détection</title>
-      <link>https://andferrari.github.io/publication/ic-2-est/</link>
+      <link>http://localhost:49676/publication/ic-2-est/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ic-2-est/</guid>
+      <guid>http://localhost:49676/publication/ic-2-est/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Analyse Spectrale</title>
-      <link>https://andferrari.github.io/publication/ic-2-as/</link>
+      <link>http://localhost:49676/publication/ic-2-as/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ic-2-as/</guid>
+      <guid>http://localhost:49676/publication/ic-2-as/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Astronomy with High Contrast Imaging</title>
-      <link>https://andferrari.github.io/publication/ithd-02/</link>
+      <link>http://localhost:49676/publication/ithd-02/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://andferrari.github.io/publication/ithd-02/</guid>
+      <guid>http://localhost:49676/publication/ithd-02/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

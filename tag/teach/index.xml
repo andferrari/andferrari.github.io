@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teach | André Ferrari</title>
-    <link>https://andferrari.github.io/tag/teach/</link>
-      <atom:link href="https://andferrari.github.io/tag/teach/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:49676/tag/teach/</link>
+      <atom:link href="http://localhost:49676/tag/teach/index.xml" rel="self" type="application/rss+xml" />
     <description>Teach</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 20:49:30 +0100</lastBuildDate>
     <image>
-      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Teach</title>
-      <link>https://andferrari.github.io/tag/teach/</link>
+      <link>http://localhost:49676/tag/teach/</link>
     </image>
     
     <item>
       <title>Discrete Fourier Transform 🎈</title>
-      <link>https://andferrari.github.io/post/dft/</link>
+      <link>http://localhost:49676/post/dft/</link>
       <pubDate>Fri, 05 Nov 2021 20:49:30 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/dft/</guid>
+      <guid>http://localhost:49676/post/dft/</guid>
       <description>&lt;p&gt;Fourier transforms of a sine wave using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -37,7 +37,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://andferrari.github.io/post/dft/dft.gif&#34;
+           src=&#34;http://localhost:49676/post/dft/dft.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
@@ -72,9 +72,9 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
     
     <item>
       <title>Conv. rate with Pluto 🎈</title>
-      <link>https://andferrari.github.io/post/cvx_speed/</link>
+      <link>http://localhost:49676/post/cvx_speed/</link>
       <pubDate>Mon, 01 Mar 2021 10:56:39 +0100</pubDate>
-      <guid>https://andferrari.github.io/post/cvx_speed/</guid>
+      <guid>http://localhost:49676/post/cvx_speed/</guid>
       <description>&lt;p&gt;Convergence rate vs Hessian condition number using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
 
 
@@ -95,7 +95,7 @@ The interactive notebook can be run on &lt;a href=&#34;https://binder.plutojl.or
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;sigmoid_fit&#34;
-           src=&#34;https://andferrari.github.io/post/cvx_speed/conv.gif&#34;
+           src=&#34;http://localhost:49676/post/cvx_speed/conv.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
