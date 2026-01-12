@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polarimetric Imaging | André Ferrari</title>
-    <link>http://localhost:49676/tag/polarimetric-imaging/</link>
-      <atom:link href="http://localhost:49676/tag/polarimetric-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/tag/polarimetric-imaging/</link>
+      <atom:link href="https://andferrari.github.io/tag/polarimetric-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Polarimetric Imaging</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Polarimetric Imaging</title>
-      <link>http://localhost:49676/tag/polarimetric-imaging/</link>
+      <link>https://andferrari.github.io/tag/polarimetric-imaging/</link>
     </image>
     
     <item>
       <title>Origins</title>
-      <link>http://localhost:49676/project/origins/</link>
+      <link>https://andferrari.github.io/project/origins/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/project/origins/</guid>
+      <guid>https://andferrari.github.io/project/origins/</guid>
       <description>&lt;p&gt;Image reconstruction in high-contrast polarimetric imaging using data driven models
 in AI data analysis WP.&lt;/p&gt;</description>
     </item>

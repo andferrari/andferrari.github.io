@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis | André Ferrari</title>
-    <link>http://localhost:49676/publication-type/thesis/</link>
-      <atom:link href="http://localhost:49676/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/publication-type/thesis/</link>
+      <atom:link href="https://andferrari.github.io/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Thesis</title>
-      <link>http://localhost:49676/publication-type/thesis/</link>
+      <link>https://andferrari.github.io/publication-type/thesis/</link>
     </image>
     
     <item>
       <title>Traitement statistique du signal et applications à quelques problèmes d&#39;Astrophysique</title>
-      <link>http://localhost:49676/publication/monhdr/</link>
+      <link>https://andferrari.github.io/publication/monhdr/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/publication/monhdr/</guid>
+      <guid>https://andferrari.github.io/publication/monhdr/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contribution à l&#39;Etude et au Développement de Méthodes ``Haute Résolution&#39;&#39; en Analyse Spectrale</title>
-      <link>http://localhost:49676/publication/mathese/</link>
+      <link>https://andferrari.github.io/publication/mathese/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/publication/mathese/</guid>
+      <guid>https://andferrari.github.io/publication/mathese/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

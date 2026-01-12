@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coranography | André Ferrari</title>
-    <link>http://localhost:49676/tag/coranography/</link>
-      <atom:link href="http://localhost:49676/tag/coranography/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/tag/coranography/</link>
+      <atom:link href="https://andferrari.github.io/tag/coranography/index.xml" rel="self" type="application/rss+xml" />
     <description>Coranography</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jan 2011 01:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Coranography</title>
-      <link>http://localhost:49676/tag/coranography/</link>
+      <link>https://andferrari.github.io/tag/coranography/</link>
     </image>
     
     <item>
       <title>JITHDE</title>
-      <link>http://localhost:49676/project/jithde/</link>
+      <link>https://andferrari.github.io/project/jithde/</link>
       <pubDate>Sat, 15 Jan 2011 01:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/project/jithde/</guid>
+      <guid>https://andferrari.github.io/project/jithde/</guid>
       <description></description>
     </item>
     

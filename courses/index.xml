@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | André Ferrari</title>
-    <link>http://localhost:49676/courses/</link>
-      <atom:link href="http://localhost:49676/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andferrari.github.io/courses/</link>
+      <atom:link href="https://andferrari.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49676/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andferrari.github.io/media/icon_hub613be7e41e76f5a5075f85935082beb_16574_512x512_fill_lanczos_center_3.png</url>
       <title>Courses</title>
-      <link>http://localhost:49676/courses/</link>
+      <link>https://andferrari.github.io/courses/</link>
     </image>
     
     <item>
       <title>Digital signal processing</title>
-      <link>http://localhost:49676/courses/dsp_eea/</link>
+      <link>https://andferrari.github.io/courses/dsp_eea/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/courses/dsp_eea/</guid>
+      <guid>https://andferrari.github.io/courses/dsp_eea/</guid>
       <description>&lt;p&gt;This course is taught to Licence 3 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EEA&lt;/a&gt; students.&lt;/p&gt;
 &lt;p&gt;
 
@@ -40,7 +40,7 @@
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp 400w,
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_51dbf211b0282cd7ffec48dfa2ac7c48.webp 760w,
                /courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_2_hu72ffc225cccdd6038943fd3fde3f69a1_181770_6908d63bd987b2f0abfe63c3800ffb26.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -80,7 +80,7 @@ It will particularly focus on:&lt;/p&gt;
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp 400w,
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_7c5965d1ac5af794f3075bc94b318499.webp 760w,
                /courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_1_huce6df687f9c68ea409fe719c3cf2e96d_212918_8ae5dfc58f06eda621c73780a6c588f9.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -116,7 +116,7 @@ It will particularly focus on:&lt;/p&gt;
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp 400w,
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_941d69498ffd7547be13b1a06aaa17ad.webp 760w,
                /courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/dsp_eea/figure_3_hud523826062399ea4113b0a72c4a672a8_27486_548d17de2e24967bb00e0421d863a699.webp&#34;
                width=&#34;397&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,9 +132,9 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
     
     <item>
       <title>Inverse problems and imaging</title>
-      <link>http://localhost:49676/courses/ip_estel/</link>
+      <link>https://andferrari.github.io/courses/ip_estel/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/courses/ip_estel/</guid>
+      <guid>https://andferrari.github.io/courses/ip_estel/</guid>
       <description>&lt;p&gt;This course is taught to Master 2 &lt;a href=&#34;http://www.unice.fr/elec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESTEL&lt;/a&gt; students.&lt;/p&gt;
 &lt;p&gt;
 
@@ -158,7 +158,7 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp 400w,
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_753ab28f0370abb3571de08a4e311aef.webp 760w,
                /courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ip_estel/figure_1_hu7d9554752f0b07b83b0c58e20a3f5c20_240524_293d827019adf28d4e9b2b1cdfd7f12e.webp&#34;
                width=&#34;760&#34;
                height=&#34;252&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -221,7 +221,7 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp 400w,
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_412d4bb5fccb57240f3049df7ae2a146.webp 760w,
                /courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ip_estel/figure_2_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_05445db429767b53ee643f87b8956a9d.webp&#34;
                width=&#34;732&#34;
                height=&#34;734&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -234,9 +234,9 @@ Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. amazon&lt;/p&gt;
     
     <item>
       <title>Digital Image and Signal Processing</title>
-      <link>http://localhost:49676/courses/disp_mauca/</link>
+      <link>https://andferrari.github.io/courses/disp_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/courses/disp_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/disp_mauca/</guid>
       <description>&lt;p&gt;This course was taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA1&lt;/a&gt; students until 2024.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The objective of this course is to present the fundamental mathematics and concepts of discrete-time signal and image processing.
@@ -264,7 +264,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp 400w,
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_db17ca2d66bd011ecd8ff61cabeaea9b.webp 760w,
                /courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_1_hu7cdfa6acb3cf6c997508b3d7abd0df5c_77267_9d70ede2224e60ac18759ae4f673850e.webp&#34;
                width=&#34;600&#34;
                height=&#34;400&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -333,7 +333,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp 400w,
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_89efe355a15d3b2762599d66669c71b7.webp 760w,
                /courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_2_hu7b9cdee463609f964bb76cf310348731_249880_19ca572d335226e5c5bd267ea8ed0739.webp&#34;
                width=&#34;512&#34;
                height=&#34;512&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -371,7 +371,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp 400w,
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_b985555f0eb42f2d883d2fe0efe36b1b.webp 760w,
                /courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_3_hu7a603bd46bd72dcd3410bde684cc1a3f_227640_ad3bbd358ca49a34553625f76ffd5800.webp&#34;
                width=&#34;397&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -399,7 +399,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp 400w,
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_2ab37d73d7857342742db765dd6265d2.webp 760w,
                /courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_4_hud6ab463caaec66b4e8b0d50c07c29c2d_201881_f5a7e91d437491f71225bc1b1e42dddc.webp&#34;
                width=&#34;402&#34;
                height=&#34;500&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -427,7 +427,7 @@ A large part of the course will be devoted to computer implementation of signal 
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp 400w,
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_abe21aafd61cd75267551c2496817e57.webp 760w,
                /courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/disp_mauca/figure_5_hube2b89602251341505e1655cbae9e273_245436_fd5569b602dfc1ce94d185eae43e08f3.webp&#34;
                width=&#34;333&#34;
                height=&#34;499&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -459,9 +459,9 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
     
     <item>
       <title>Numerical optimization with applications</title>
-      <link>http://localhost:49676/courses/optim_mauca/</link>
+      <link>https://andferrari.github.io/courses/optim_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/courses/optim_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/optim_mauca/</guid>
       <description>&lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Numerical optimization is a central tool for many practical problems, e.g. inverse problems in astrophysics such as image deconvolution, image reconstruction for radio or optical interferometers&amp;hellip; instrumental design such as coranographs&amp;hellip;&lt;/p&gt;
@@ -489,7 +489,7 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp 400w,
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_86902d4a42385c1cb1e5cc1e5573bf52.webp 760w,
                /courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_1_hu8b2ee15fd14d3f3829e4f0bdb26b6d87_137115_11ce880eebffdf3f69edf2a27279739a.webp&#34;
                width=&#34;518&#34;
                height=&#34;426&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -520,7 +520,7 @@ Stéphane Mallat, Academic Press Inc.&lt;/p&gt;
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp 400w,
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_d65948e94d5a7e398490708b0814f52e.webp 760w,
                /courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_2_hu876ad0e85cd2f29fc146ee917e31d99f_137423_262527f89647e0f9ed372cf023b57b5d.webp&#34;
                width=&#34;718&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -592,7 +592,7 @@ personal work on textbooks.&lt;/li&gt;
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp 400w,
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_abf929dbe399b33dce6bfe5eff22c883.webp 760w,
                /courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/optim_mauca/figure_3_hu1d2ec9f2137771ae825335919bc80929_38458_409b361b800197b47cc3e1ad1b5bd1f6.webp&#34;
                width=&#34;532&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -609,9 +609,9 @@ Cambridge University Press&lt;/p&gt;
     
     <item>
       <title>Bayesian analysis. Application to image reconstruction</title>
-      <link>http://localhost:49676/courses/ba_mauca/</link>
+      <link>https://andferrari.github.io/courses/ba_mauca/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49676/courses/ba_mauca/</guid>
+      <guid>https://andferrari.github.io/courses/ba_mauca/</guid>
       <description>&lt;p&gt;&lt;em&gt;The course will not be taught during 2020-2021.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This course is taught to &lt;a href=&#34;http://mauca.unice.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAUCA&lt;/a&gt; students.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -646,7 +646,7 @@ and the implementation.&lt;/p&gt;
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp 400w,
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_b86ccab42f7f4767923aef30687b904c.webp 760w,
                /courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ba_mauca/figure_2_hu1af1ce311bd204542bb12b3d2fd018e2_64489_71b6392c8e1148602855ae757e459c2c.webp&#34;
                width=&#34;630&#34;
                height=&#34;492&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -692,7 +692,7 @@ and the Bayesian formalism is proved to be the natural framework to address thes
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp 400w,
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_df712cfd644507b8225825c462bfc3d7.webp 760w,
                /courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:49676/courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp&#34;
+               src=&#34;https://andferrari.github.io/courses/ba_mauca/figure_1_hufd5cc6116adcf297b69d8ffa7bd6ba63_613833_415284f6f3559e174163785160f91da2.webp&#34;
                width=&#34;732&#34;
                height=&#34;734&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
