@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Université Côte d'Azur</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: af.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 006-04</p>
