@@ -28,4 +28,4 @@ latest_posts:
 
 I am currently a professor at the Laboratoire [J.-L. Lagrange](https://lagrange.oca.eu/), a joint laboratory between [Université Côte d'Azur](http://univ-cotedazur.fr/), [CNRS](https://www.cnrs.fr/) and [Observatoire de la Côte d'Azur](https://www.oca.eu/).
 
-My current research  activity is centered around statistical data processing, inverse problems and machine learning. I have a particular interest in applications to Astrophysics.
+My current research activity is centered around statistical data processing, inverse problems and machine learning. I have a particular interest in applications to Astrophysics.
