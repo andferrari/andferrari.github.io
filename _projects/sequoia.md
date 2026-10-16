@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SEQUOIA Analytics
-description: 
+description: Make your city work smarter, not harder
 img: assets/img/sequoia.gif
 redirect: http://www.sequoia-analytics.tech
 importance: 1
