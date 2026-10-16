@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: André 
 middle_name: 
 last_name: Ferrari
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -251,6 +251,15 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/profiles.md
+  - _pages/blog.md
+  - _posts/
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _news/
+  - _pages/news.md
 keep_files:
   - CNAME
   - .nojekyll
