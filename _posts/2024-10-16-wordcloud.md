@@ -10,7 +10,7 @@ thumbnail: assets/img/9.jpg
 
 Create a wordcloud from `.bib` file
 
-![Wordcloud](/assets/img/posts/featured.gif){: width="400"}
+![Wordcloud](/assets/img/posts/wordcloud.png){: width="400"}
 
 ```julia
 using Bibliography, WordCloud
@@ -24,11 +24,10 @@ function all_words(bib_file)
 	words
 end
 
-path = "mybiblio/"
-words = all_words(path*"mybib.bib")
+path = "/Users/ferrari/Documents/Sites/andferrari.github.io/_bibliography/"
+words = all_words(path*"papers_af.bib")
 
-stopwords = WordCloud.stopwords_en ∪ ["using", "application"]
-cl_words = processtext(words, maxnum = 200, minlength = 4, stopwords = stopwords)
+cl_words = processtext(words, maxnum = 200, minlength = 4, stopwords_extra = ["using", "application"])
 
 wc = wordcloud(cl_words, 
 		mask=shape(box, 500 * 2, 350 * 2, cornerradius=10 * 2), 
