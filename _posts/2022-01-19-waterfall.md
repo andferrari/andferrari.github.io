@@ -3,8 +3,8 @@ layout: post
 title: Waterfall plot 💻
 date: 2021-09-09
 description: A simple waterfall julia plot
-tags: formatting images
-categories: sample-posts
+tags: julia
+categories: 
 thumbnail: assets/img/9.jpg
 ---
 

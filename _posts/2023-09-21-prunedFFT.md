@@ -3,8 +3,8 @@ layout: post
 title: PrunedFFT 💻
 date: 2021-09-09
 description: Fast subset of a 2D FFT
-tags: formatting images
-categories: sample-posts
+tags: julia 
+categories: 
 thumbnail: assets/img/9.jpg
 ---
 

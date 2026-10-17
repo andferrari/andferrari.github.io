@@ -3,8 +3,8 @@ layout: post
 title: Sigmoid fit 💻
 date: 2021-09-09
 description: A simple noise2self experimennt
-tags: formatting images
-categories: sample-posts
+tags: julia ssp
+categories: 
 thumbnail: assets/img/9.jpg
 ---
 

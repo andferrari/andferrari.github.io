@@ -3,8 +3,8 @@ layout: post
 title: wordcloud from bib 💻
 date: 2024-10-16
 description: Create a wordcloud from bib files in julia
-tags: formatting images
-categories: sample-posts
+tags: julia fun 
+categories: 
 thumbnail: assets/img/9.jpg
 ---
 

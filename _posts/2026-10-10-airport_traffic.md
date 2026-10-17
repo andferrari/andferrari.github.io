@@ -3,8 +3,8 @@ layout: post
 title: Nice airport traffic ✈️
 date: 2026-10-10
 description: passengers traffic vs years
-tags: formatting images
-categories: sample-posts
+tags: julia 
+categories: 
 thumbnail: assets/img/7.jpg
 ---
 
