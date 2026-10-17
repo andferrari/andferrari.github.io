@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Funded PhD scholarship on multispectral imaging
-date:  2020-05-07
+title: Funded PhD scholarship on multispectral imaging
+date: 2020-05-07
 inline: false
 related_posts: false
 ---

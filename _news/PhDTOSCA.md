@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Funded PhD scholarship on ML for radio weak lensing
-date:  2022-11-16
+title: Funded PhD scholarship on ML for radio weak lensing
+date: 2022-11-16
 inline: false
 related_posts: false
 ---

@@ -31,4 +31,3 @@ I am currently a professor at the Laboratoire [J.-L. Lagrange](https://lagrange.
 My current research activity is centered around statistical data processing, inverse problems and machine learning. I have a particular interest in applications to Astrophysics and [DAS](https://www.sequoia-analytics.tech).
 
 ![Wordcloud](/assets/img/posts/featured.gif){: width="300" .d-block .mx-auto}
-
