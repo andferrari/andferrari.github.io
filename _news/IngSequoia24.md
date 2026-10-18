@@ -32,6 +32,6 @@ Formation Ingénieur(e) Informatique, "data scientist" ou équivalent (BAC+5).
 - Maitrise des environnements de développement
 - Programmation : Python et ses bibliothèques, C
 - Utilisation, gestion de bases de données (chronologique)
-- Compétences	scientifiques	(mathématiques/physique)	appréciées	afin	de mieux appréhender les problèmes traités
+- Compétences scientifiques	(mathématiques/physique) appréciées	afin de mieux appréhender les problèmes traités
 
 Les dossiers de candidature, comprenant un curriculum vitae et une lettre de motivation, doivent être adressés à : <andre.ferrari@univ-cotedazur.fr> avant le 15 juillet 2024.
