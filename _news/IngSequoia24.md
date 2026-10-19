@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funded engineer position
+title: Engineer position
 date: 2024-05-29
 inline: false
 related_posts: false
