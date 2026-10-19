@@ -1,17 +1,17 @@
 ---
 layout: course
-title: Inverse problems
-description: Learn how to numerically solve an inverse problem to reconstruct an image
-instructor: 
+title: Problèmes inverses
+description: Résolution des problèmes inverses en imagerie
+instructor: André Ferrari
 year: 2026
 term: 
 location: 
 time: 
-course_id: IP ESTEL2
+term: 
+course_id: 
 ---
-## Description
 
-L'objectif de ce cours est de présenter une approche unifiée pour la résolution des problèmes inverses en imagerie.
+Ce cours est destiné aux étudiants du Master 2  [ESTEL](https://univ-cotedazur.fr/formation/offre-de-formation/master-electronique-energie-electrique-automatique). 
 
 
 ![s](/assets/img/teaching/Problemes-Inverses-t.png)
