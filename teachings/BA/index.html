@@ -1,0 +1,337 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> Bayesian analysis | André Ferrari </title> <meta name="author" content="André Ferrari"> <meta name="description" content="Learn how to use Bayesian formalism to model and solve a problem."> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%8C%80&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://andferrari.github.io/teachings/BA/"> <script src="/assets/js/theme.js?v=5286c3e4c334d0ecb8fc0c40ff4fa7ec"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
+    initTheme();
+  </script> </head> <body class="fixed-top-nav sticky-bottom-footer"> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">André</span> Ferrari </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/news/">news </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/blog/">blog </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/teaching/">teaching </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Bayesian analysis</h1> <p class="post-description">Learn how to use Bayesian formalism to model and solve a problem.</p> </header> <article> <div class="course"> <div class="course-info"> <p><strong>Instructor:</strong> André Ferrari</p> </div> <p><em>The course will not be taught during 2023–</em></p> <h2 id="introduction">Introduction</h2> <p>The course aims to familiarize the students with the Bayesian analysis. The Bayesian paradigm, coupled with efficient simulation algorithms, has been proved to be a computationally efficient alternative to classical frequentist approaches.</p> <p>The Bayesian formalism is also recognized as a natural framework to address inverse problems which arise in many observational systems. A large part of the course is devoted to the application of Bayesian models to image reconstruction in astrophysics. It will particularly focus on choice of the priors and the implementation.</p> <h2 id="theory">Theory</h2> <p><img src="/assets/img/teaching/ba_2.png" alt="Example image" width="400"></p> <p>A common problem in experimental and observational sciences is to extract information from noisy measurements. Bayesian analysis is the formalism which allows to merge in the inference: 1. the information brought by the measurements, 2. a prior on the solution.</p> <p>This approach is experiencing an increasing interest since the early 1990’s after new simulations methods appeared. Since a decade, the Bayesian paradigm coupled with hierarchical models is used to solve computationally involving problems where mathematical optimization algorithms are replaced by increasingly effective simulations methods.</p> <p>Besides the power of recent computational Bayesian approaches, the Bayesian formalism plays also a central role in the resolution of inverse problems.</p> <p>Many data processing problems in physics, and in particular in astrophysics, can be formalized as an inverse problem where the measured data is related in a complex way to the properties of the target. This includes image deconvolution (e.g. deblurring and denoising), image reconstruction (e.g. in radioastronomy or optical interferometry), image segmentation… The resolution of these ill-posed problems require a regularization (or prior) and the Bayesian formalism is proved to be the natural framework to address these problems.</p> <h2 id="applications">Applications</h2> <p><img src="/assets/img/teaching/ba_1.png" alt="Example image" width="400"></p> <p>A large part of the course is devoted to practical projects, where the students will code various algorithms and compare theoretical results with simulation results. Students will have to complete three projects during the course and are welcomed to work in pairs and to submit a single document. The computations will be preferentially carried out in julia, python or matlab.</p> </div> </article> </div> </div> <footer class="sticky-bottom mt-5" role="contentinfo"> <div class="container"> © Copyright 2026 André Ferrari. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/al_math/js/mathjax-setup.js"></script> <script src="/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script src="/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/al_img_tools/js/zoom.js"></script> <script defer src="/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order. generated by jekyll-scholar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "post-nice-airport-traffic-️",
+        
+          title: "Nice airport traffic ✈️",
+        
+        description: "passengers traffic vs years",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/airport_traffic/";
+          
+        },
+      },{id: "post-wordcloud-from-bib",
+        
+          title: "wordcloud from bib 💻",
+        
+        description: "Create a wordcloud from bib files in julia",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/wordcloud/";
+          
+        },
+      },{id: "post-rainbow-on-valrose",
+        
+          title: "Rainbow on Valrose 🦄",
+        
+        description: "Rainbow on from the office",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/rainbow/";
+          
+        },
+      },{id: "post-prunedfft",
+        
+          title: "PrunedFFT 💻",
+        
+        description: "Fast subset of a 2D FFT",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/prunedFFT/";
+          
+        },
+      },{id: "post-waterfall-plot",
+        
+          title: "Waterfall plot 💻",
+        
+        description: "A simple waterfall julia plot",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/waterfall/";
+          
+        },
+      },{id: "post-noise2self-experiment",
+        
+          title: "Noise2self experiment 💻",
+        
+        description: "A simple noise2self experimennt",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/noise2self/";
+          
+        },
+      },{id: "post-sigmoid-fit",
+        
+          title: "Sigmoid fit 💻",
+        
+        description: "A simple noise2self experimennt",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/sigmoid_fit/";
+          
+        },
+      },{id: "post-dft-with-pluto",
+        
+          title: "DFT with Pluto 🎈",
+        
+        description: "DFT of a pure tone",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/dft/";
+          
+        },
+      },{id: "post-convvergence-rate-with-pluto",
+        
+          title: "Convvergence rate with Pluto 🎈",
+        
+        description: "Convergence rate of minimization as a function of Hessian conditioning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/cvx_speed/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-master-s-internship-position-in-graph-signal-processing",
+          title: 'Master’s internship position in graph signal processing',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/M2GraphCPD22/";
+            },},{id: "news-funded-phd-scholarship-on-multispectral-imaging",
+          title: 'Funded PhD scholarship on multispectral imaging',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PhDCPDHSI/";
+            },},{id: "news-martjin-van-ende-presentation-next-generation-traffic-monitoring-with-distributed-acoustic-sensing-arrays-and-optimum-array-processing-watch-the-talk",
+          title: 'Martjin Van Ende presentation: Next-Generation Traffic Monitoring with Distributed Acoustic Sensing Arrays and...',
+          description: "",
+          section: "News",},{id: "news-martjin-van-ende-presentation-a-self-supervised-deep-learning-approach-for-improving-signal-coherence-in-distributed-acoustic-sensing-watch-the-talk",
+          title: 'Martjin Van Ende presentation: A self-supervised Deep Learning approach for improving signal coherence...',
+          description: "",
+          section: "News",},{id: "news-first-post-covid-live-presentation-at-slsip21",
+          title: 'First post covid live presentation at SLSIP21!',
+          description: "",
+          section: "News",},{id: "news-funded-phd-scholarship-on-ml-for-radio-weak-lensing",
+          title: 'Funded PhD scholarship on ML for radio weak lensing',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PhDTOSCA/";
+            },},{id: "news-funded-phd-scholarship-on-polarimetric-imaging",
+          title: 'Funded PhD scholarship on polarimetric imaging',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/PhDOrigins/";
+            },},{id: "news-don-t-miss-gdr-iasis-meeting-on-current-state-of-inversion-methods-in-astronomy-and-future-challenges-details-here",
+          title: 'Don’t miss GDR IASIS meeting on current state of inversion methods in astronomy...',
+          description: "",
+          section: "News",},{id: "news-engineer-position",
+          title: 'Engineer position',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/IngSequoia24/";
+            },},{id: "news-master-s-internship-position-in-machine-learning-for-fluids-topic",
+          title: 'Master’s internship position in machine learning for fluids. Topic.',
+          description: "",
+          section: "News",},{id: "news-since-i-could-no-longer-update-my-hugo-academic-site-after-the-switch-to-hugoblox-i-m-giving-jekyll-a-try-hopefully-it-lasts-longer",
+          title: 'Since I could no longer update my “hugo-academic” site after the switch to...',
+          description: "",
+          section: "News",},{id: "news-post-doc-position-here",
+          title: 'Post Doc position here',
+          description: "",
+          section: "News",},{id: "projects-dark-era",
+          title: 'Dark Era',
+          description: "Dataflow algorithm architecture co-design of SKA pipeline for exascale radio Astronomy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Dark_Era/";
+            },},{id: "projects-display",
+          title: 'DISPLAY',
+          description: "Distributed processing for very large arrays in radioastronomy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/display/";
+            },},{id: "projects-jithde",
+          title: 'JITHDE',
+          description: "High dynamics and planet detection workshops",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jithde/";
+            },},{id: "projects-magellan",
+          title: 'MAGELLAN',
+          description: "Machine learning methods for the very large arrays in radio astronomy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/magellan/";
+            },},{id: "projects-mahi",
+          title: 'MAHI',
+          description: "Methodological Aspects of Hyperspectral Imaging Workshop",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mahi/";
+            },},{id: "projects-matis",
+          title: 'MATIS',
+          description: "the historical 2001 matis webpage",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/matis/";
+            },},{id: "projects-origins",
+          title: 'ORIGINS',
+          description: "AI Data Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/origins/";
+            },},{id: "projects-polca",
+          title: 'POLCA',
+          description: "Processing of polychromatic interferometric data for Astrophysics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/polca/";
+            },},{id: "projects-sequoia-analytics",
+          title: 'SEQUOIA Analytics',
+          description: "Make your city work smarter, not harder",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sequoia/";
+            },},{id: "projects-ssp-2011",
+          title: 'SSP 2011',
+          description: "Statistical Signal Processing Workshop 2001",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ssp/";
+            },},{id: "projects-tosca",
+          title: 'TOSCA',
+          description: "Weak lensing statistics for cosmology; optimising the synergy between Euclid and SKA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tosca/";
+            },},{id: "teachings-bayesian-analysis",
+          title: 'Bayesian analysis',
+          description: "Learn how to use Bayesian formalism to model and solve a problem.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BA/";
+            },},{id: "teachings-signal-and-image-processing",
+          title: 'Signal and image processing',
+          description: "Learn how to analyze signals and images using numerical tools.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/disp/";
+            },},{id: "teachings-traitement-numérique-du-signal-et-phénomènes-aléatoires",
+          title: 'Traitement numérique du signal et phénomènes aléatoires',
+          description: "Apprendre à analyser les signaux à l&#39;aide de filtres et de transformées de Fourier.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/dsp/";
+            },},{id: "teachings-problèmes-inverses",
+          title: 'Problèmes inverses',
+          description: "Résolution des problèmes inverses en imagerie",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/inverse-problems/";
+            },},{id: "teachings-analyse-et-traitement-des-signaux-aléatoire",
+          title: 'Analyse et traitement des signaux aléatoire',
+          description: "Analyser et filtrer les signaux aléatoires",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/random-signals/";
+            },},{id: "teachings-transmission-sur-fréquence-porteuse",
+          title: 'Transmission sur fréquence porteuse',
+          description: "Principe des systèmes de transmission sur fréquence porteuse",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/transmissions/";
+            },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%61%6E%64%72%65.%66%65%72%72%61%72%69@%75%6E%69%76-%63%6F%74%65%64%61%7A%75%72.%66%72", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
+
+</script> <script src="/assets/al_search/js/shortcut-key.js"></script> </body> </html>
