@@ -11,10 +11,20 @@ term:
 course_id: 
 ---
 
-Ce cours est destiné aux étudiants du Master 2  [ESTEL](https://univ-cotedazur.fr/formation/offre-de-formation/master-electronique-energie-electrique-automatique). 
+![s](/assets/img/teaching/Problemes-Inverses-t.png){: width="600"}
 
 
-![s](/assets/img/teaching/Problemes-Inverses-t.png)
+## Introduction
+
+Ce cours est destiné aux étudiants du Master 2  [ESTEL](https://univ-cotedazur.fr/formation/offre-de-formation/master-electronique-energie-electrique-automatique). Il présente une approche unifiée de la résolution des 
+problèmes inverses en imagerie en s'appuyant sur des rappels de traitement du signal et des images 
+et sur une introduction à l'optimisation convexe.
+
+## Prérequis
+
+Les prérequis de ce cours sont :
+- le cours de M1 [Analyse et traitement des signaux aléatoire]({% link _teachings/random-signals.md %}).
+- le cours de L3 [Traitement numérique du signal et phénomènes aléatoires]({% link _teachings/dsp.md %}).
 
 ## Programme
 

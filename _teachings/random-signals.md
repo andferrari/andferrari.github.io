@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Random signals
+title: Analyse et traitement des signaux aléatoire
 description: Analyser et filtrer les signaux aléatoires
 instructor: André Ferrari
 year: 2026
@@ -11,12 +11,17 @@ term:
 course_id: 
 ---
 
-Ce cours est destiné aux étudiants du Master 1  [ESTEL](https://univ-cotedazur.fr/formation/offre-de-formation/master-electronique-energie-electrique-automatique). 
-
 ![s](/assets/img/teaching/sinus.png){: width="400"}
 
-## Programme
+## Introduction 
 
+Ce cours est destiné aux étudiants du Master 1  [ESTEL](https://univ-cotedazur.fr/formation/offre-de-formation/master-electronique-energie-electrique-automatique). Ce cours constitue un prérequis du cours [Transmission sur fréquence porteuse]({% link _teachings/transmissions.md %}). CIlintroduit la modélisation des signaux aléatoires, des rappels de probabilités jusqu'à la stationnarité, l'analyse spectrale et le filtrage, et l'illustre par des exemples classiques comme le bruit blanc, les processus autorégressifs et le processus de Poisson.
+
+## Prérequis
+
+Le prérequis de ce cours est le cours de L3 [Traitement numérique du signal et phénomènes aléatoires]({% link _teachings/dsp.md %}).
+
+## Programme
 
 1. Introduction : exemples de signaux aléatoires
    - Générateur sinusoïdal à phase initiale aléatoire
