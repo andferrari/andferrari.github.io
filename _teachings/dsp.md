@@ -11,7 +11,7 @@ term:
 course_id: 
 ---
 
-![s](/assets/img/teaching/dsp2.png){: width="400"}
+![s](/assets/img/teaching/dsp3.png){: width="300"}![s](/assets/img/teaching/dsp2.png){: width="300"}
 
 ## Introduction
 
